@@ -1,0 +1,74 @@
+[
+    {
+        "RequireParcelType": 4,
+        "RequireParcelId": 10
+    },
+    {
+        "RequireParcelType": 4,
+        "RequireParcelId": 11
+    },
+    {
+        "RequireParcelType": 4,
+        "RequireParcelId": 12
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 1
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 2
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 3
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 10
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 11
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 12
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 20
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 21
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 22
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 30
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 31
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 32
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 40
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 41
+    },
+    {
+        "RequireParcelType": 3,
+        "RequireParcelId": 42
+    }
+]

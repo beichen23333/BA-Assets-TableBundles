@@ -1,0 +1,2606 @@
+[
+    {
+        "StatChangeId": 101001
+    },
+    {
+        "StatChangeId": 101002
+    },
+    {
+        "StatChangeId": 101003
+    },
+    {
+        "StatChangeId": 101004
+    },
+    {
+        "StatChangeId": 101005
+    },
+    {
+        "StatChangeId": 101006
+    },
+    {
+        "StatChangeId": 101007
+    },
+    {
+        "StatChangeId": 101008
+    },
+    {
+        "StatChangeId": 101009
+    },
+    {
+        "StatChangeId": 101010
+    },
+    {
+        "StatChangeId": 101011
+    },
+    {
+        "StatChangeId": 101012
+    },
+    {
+        "StatChangeId": 101013
+    },
+    {
+        "StatChangeId": 101014
+    },
+    {
+        "StatChangeId": 101015
+    },
+    {
+        "StatChangeId": 101016
+    },
+    {
+        "StatChangeId": 101017
+    },
+    {
+        "StatChangeId": 101018
+    },
+    {
+        "StatChangeId": 101019
+    },
+    {
+        "StatChangeId": 101020
+    },
+    {
+        "StatChangeId": 101021
+    },
+    {
+        "StatChangeId": 101022
+    },
+    {
+        "StatChangeId": 101023
+    },
+    {
+        "StatChangeId": 101024
+    },
+    {
+        "StatChangeId": 101025
+    },
+    {
+        "StatChangeId": 101026
+    },
+    {
+        "StatChangeId": 101027
+    },
+    {
+        "StatChangeId": 101028
+    },
+    {
+        "StatChangeId": 101029
+    },
+    {
+        "StatChangeId": 101030
+    },
+    {
+        "StatChangeId": 101031
+    },
+    {
+        "StatChangeId": 101032
+    },
+    {
+        "StatChangeId": 101033
+    },
+    {
+        "StatChangeId": 101034
+    },
+    {
+        "StatChangeId": 101035
+    },
+    {
+        "StatChangeId": 101036
+    },
+    {
+        "StatChangeId": 101037
+    },
+    {
+        "StatChangeId": 101038
+    },
+    {
+        "StatChangeId": 101039
+    },
+    {
+        "StatChangeId": 101040
+    },
+    {
+        "StatChangeId": 101041
+    },
+    {
+        "StatChangeId": 101042
+    },
+    {
+        "StatChangeId": 101043
+    },
+    {
+        "StatChangeId": 101044
+    },
+    {
+        "StatChangeId": 101045
+    },
+    {
+        "StatChangeId": 101046
+    },
+    {
+        "StatChangeId": 101047
+    },
+    {
+        "StatChangeId": 101048
+    },
+    {
+        "StatChangeId": 101049
+    },
+    {
+        "StatChangeId": 101050
+    },
+    {
+        "StatChangeId": 101051
+    },
+    {
+        "StatChangeId": 101052
+    },
+    {
+        "StatChangeId": 101053
+    },
+    {
+        "StatChangeId": 101054
+    },
+    {
+        "StatChangeId": 101055
+    },
+    {
+        "StatChangeId": 101056
+    },
+    {
+        "StatChangeId": 101057
+    },
+    {
+        "StatChangeId": 101058
+    },
+    {
+        "StatChangeId": 101059
+    },
+    {
+        "StatChangeId": 101060
+    },
+    {
+        "StatChangeId": 101061
+    },
+    {
+        "StatChangeId": 101062
+    },
+    {
+        "StatChangeId": 101063
+    },
+    {
+        "StatChangeId": 101064
+    },
+    {
+        "StatChangeId": 101065
+    },
+    {
+        "StatChangeId": 101066
+    },
+    {
+        "StatChangeId": 101067
+    },
+    {
+        "StatChangeId": 101068
+    },
+    {
+        "StatChangeId": 101069
+    },
+    {
+        "StatChangeId": 101070
+    },
+    {
+        "StatChangeId": 101071
+    },
+    {
+        "StatChangeId": 101072
+    },
+    {
+        "StatChangeId": 101073
+    },
+    {
+        "StatChangeId": 101074
+    },
+    {
+        "StatChangeId": 101075
+    },
+    {
+        "StatChangeId": 101076
+    },
+    {
+        "StatChangeId": 101077
+    },
+    {
+        "StatChangeId": 101078
+    },
+    {
+        "StatChangeId": 101079
+    },
+    {
+        "StatChangeId": 101080
+    },
+    {
+        "StatChangeId": 101081
+    },
+    {
+        "StatChangeId": 101082
+    },
+    {
+        "StatChangeId": 101083
+    },
+    {
+        "StatChangeId": 101084
+    },
+    {
+        "StatChangeId": 101085
+    },
+    {
+        "StatChangeId": 101086
+    },
+    {
+        "StatChangeId": 101087
+    },
+    {
+        "StatChangeId": 101088
+    },
+    {
+        "StatChangeId": 101089
+    },
+    {
+        "StatChangeId": 101090
+    },
+    {
+        "StatChangeId": 101091
+    },
+    {
+        "StatChangeId": 101092
+    },
+    {
+        "StatChangeId": 101093
+    },
+    {
+        "StatChangeId": 101094
+    },
+    {
+        "StatChangeId": 101095
+    },
+    {
+        "StatChangeId": 101096
+    },
+    {
+        "StatChangeId": 101097
+    },
+    {
+        "StatChangeId": 101098
+    },
+    {
+        "StatChangeId": 101099
+    },
+    {
+        "StatChangeId": 101100
+    },
+    {
+        "StatChangeId": 101101
+    },
+    {
+        "StatChangeId": 101102
+    },
+    {
+        "StatChangeId": 101103
+    },
+    {
+        "StatChangeId": 101104
+    },
+    {
+        "StatChangeId": 101105
+    },
+    {
+        "StatChangeId": 101106
+    },
+    {
+        "StatChangeId": 101107
+    },
+    {
+        "StatChangeId": 101108
+    },
+    {
+        "StatChangeId": 101109
+    },
+    {
+        "StatChangeId": 101110
+    },
+    {
+        "StatChangeId": 101111
+    },
+    {
+        "StatChangeId": 101112
+    },
+    {
+        "StatChangeId": 101113
+    },
+    {
+        "StatChangeId": 101114
+    },
+    {
+        "StatChangeId": 101115
+    },
+    {
+        "StatChangeId": 101116
+    },
+    {
+        "StatChangeId": 101117
+    },
+    {
+        "StatChangeId": 101118
+    },
+    {
+        "StatChangeId": 101119
+    },
+    {
+        "StatChangeId": 101120
+    },
+    {
+        "StatChangeId": 101121
+    },
+    {
+        "StatChangeId": 101122
+    },
+    {
+        "StatChangeId": 101123
+    },
+    {
+        "StatChangeId": 101124
+    },
+    {
+        "StatChangeId": 102001
+    },
+    {
+        "StatChangeId": 102002
+    },
+    {
+        "StatChangeId": 102003
+    },
+    {
+        "StatChangeId": 102004
+    },
+    {
+        "StatChangeId": 102005
+    },
+    {
+        "StatChangeId": 102006
+    },
+    {
+        "StatChangeId": 102007
+    },
+    {
+        "StatChangeId": 102008
+    },
+    {
+        "StatChangeId": 102009
+    },
+    {
+        "StatChangeId": 102010
+    },
+    {
+        "StatChangeId": 102011
+    },
+    {
+        "StatChangeId": 102012
+    },
+    {
+        "StatChangeId": 102013
+    },
+    {
+        "StatChangeId": 102014
+    },
+    {
+        "StatChangeId": 102015
+    },
+    {
+        "StatChangeId": 102016
+    },
+    {
+        "StatChangeId": 102017
+    },
+    {
+        "StatChangeId": 102018
+    },
+    {
+        "StatChangeId": 102019
+    },
+    {
+        "StatChangeId": 102020
+    },
+    {
+        "StatChangeId": 102021
+    },
+    {
+        "StatChangeId": 102022
+    },
+    {
+        "StatChangeId": 102023
+    },
+    {
+        "StatChangeId": 102024
+    },
+    {
+        "StatChangeId": 102025
+    },
+    {
+        "StatChangeId": 102026
+    },
+    {
+        "StatChangeId": 102027
+    },
+    {
+        "StatChangeId": 102028
+    },
+    {
+        "StatChangeId": 102029
+    },
+    {
+        "StatChangeId": 102030
+    },
+    {
+        "StatChangeId": 102031
+    },
+    {
+        "StatChangeId": 102032
+    },
+    {
+        "StatChangeId": 102033
+    },
+    {
+        "StatChangeId": 102034
+    },
+    {
+        "StatChangeId": 102035
+    },
+    {
+        "StatChangeId": 102036
+    },
+    {
+        "StatChangeId": 102037
+    },
+    {
+        "StatChangeId": 102038
+    },
+    {
+        "StatChangeId": 102039
+    },
+    {
+        "StatChangeId": 102040
+    },
+    {
+        "StatChangeId": 102041
+    },
+    {
+        "StatChangeId": 102042
+    },
+    {
+        "StatChangeId": 102043
+    },
+    {
+        "StatChangeId": 102044
+    },
+    {
+        "StatChangeId": 102045
+    },
+    {
+        "StatChangeId": 102046
+    },
+    {
+        "StatChangeId": 102047
+    },
+    {
+        "StatChangeId": 102048
+    },
+    {
+        "StatChangeId": 102049
+    },
+    {
+        "StatChangeId": 102050
+    },
+    {
+        "StatChangeId": 102051
+    },
+    {
+        "StatChangeId": 102052
+    },
+    {
+        "StatChangeId": 102053
+    },
+    {
+        "StatChangeId": 102054
+    },
+    {
+        "StatChangeId": 102055
+    },
+    {
+        "StatChangeId": 102056
+    },
+    {
+        "StatChangeId": 102057
+    },
+    {
+        "StatChangeId": 102058
+    },
+    {
+        "StatChangeId": 102059
+    },
+    {
+        "StatChangeId": 102060
+    },
+    {
+        "StatChangeId": 102061
+    },
+    {
+        "StatChangeId": 102062
+    },
+    {
+        "StatChangeId": 102063
+    },
+    {
+        "StatChangeId": 102064
+    },
+    {
+        "StatChangeId": 102065
+    },
+    {
+        "StatChangeId": 102066
+    },
+    {
+        "StatChangeId": 102067
+    },
+    {
+        "StatChangeId": 102068
+    },
+    {
+        "StatChangeId": 102069
+    },
+    {
+        "StatChangeId": 102070
+    },
+    {
+        "StatChangeId": 102071
+    },
+    {
+        "StatChangeId": 102072
+    },
+    {
+        "StatChangeId": 102073
+    },
+    {
+        "StatChangeId": 102074
+    },
+    {
+        "StatChangeId": 102075
+    },
+    {
+        "StatChangeId": 102076
+    },
+    {
+        "StatChangeId": 102077
+    },
+    {
+        "StatChangeId": 102078
+    },
+    {
+        "StatChangeId": 102079
+    },
+    {
+        "StatChangeId": 102080
+    },
+    {
+        "StatChangeId": 102081
+    },
+    {
+        "StatChangeId": 102082
+    },
+    {
+        "StatChangeId": 102083
+    },
+    {
+        "StatChangeId": 102084
+    },
+    {
+        "StatChangeId": 102085
+    },
+    {
+        "StatChangeId": 102086
+    },
+    {
+        "StatChangeId": 102087
+    },
+    {
+        "StatChangeId": 102088
+    },
+    {
+        "StatChangeId": 102089
+    },
+    {
+        "StatChangeId": 102090
+    },
+    {
+        "StatChangeId": 102091
+    },
+    {
+        "StatChangeId": 102092
+    },
+    {
+        "StatChangeId": 102093
+    },
+    {
+        "StatChangeId": 102094
+    },
+    {
+        "StatChangeId": 102095
+    },
+    {
+        "StatChangeId": 102096
+    },
+    {
+        "StatChangeId": 102097
+    },
+    {
+        "StatChangeId": 102098
+    },
+    {
+        "StatChangeId": 102099
+    },
+    {
+        "StatChangeId": 102100
+    },
+    {
+        "StatChangeId": 102101
+    },
+    {
+        "StatChangeId": 102102
+    },
+    {
+        "StatChangeId": 102103
+    },
+    {
+        "StatChangeId": 102104
+    },
+    {
+        "StatChangeId": 102105
+    },
+    {
+        "StatChangeId": 102106
+    },
+    {
+        "StatChangeId": 102107
+    },
+    {
+        "StatChangeId": 102108
+    },
+    {
+        "StatChangeId": 102109
+    },
+    {
+        "StatChangeId": 102110
+    },
+    {
+        "StatChangeId": 102111
+    },
+    {
+        "StatChangeId": 102112
+    },
+    {
+        "StatChangeId": 102113
+    },
+    {
+        "StatChangeId": 102114
+    },
+    {
+        "StatChangeId": 102115
+    },
+    {
+        "StatChangeId": 102116
+    },
+    {
+        "StatChangeId": 102117
+    },
+    {
+        "StatChangeId": 102118
+    },
+    {
+        "StatChangeId": 102119
+    },
+    {
+        "StatChangeId": 102120
+    },
+    {
+        "StatChangeId": 102121
+    },
+    {
+        "StatChangeId": 102122
+    },
+    {
+        "StatChangeId": 102123
+    },
+    {
+        "StatChangeId": 102124
+    },
+    {
+        "StatChangeId": 103001
+    },
+    {
+        "StatChangeId": 103002
+    },
+    {
+        "StatChangeId": 103003
+    },
+    {
+        "StatChangeId": 103004
+    },
+    {
+        "StatChangeId": 103005
+    },
+    {
+        "StatChangeId": 103006
+    },
+    {
+        "StatChangeId": 103007
+    },
+    {
+        "StatChangeId": 103008
+    },
+    {
+        "StatChangeId": 103009
+    },
+    {
+        "StatChangeId": 103010
+    },
+    {
+        "StatChangeId": 103011
+    },
+    {
+        "StatChangeId": 103012
+    },
+    {
+        "StatChangeId": 103013
+    },
+    {
+        "StatChangeId": 103014
+    },
+    {
+        "StatChangeId": 103015
+    },
+    {
+        "StatChangeId": 103016
+    },
+    {
+        "StatChangeId": 103017
+    },
+    {
+        "StatChangeId": 103018
+    },
+    {
+        "StatChangeId": 103019
+    },
+    {
+        "StatChangeId": 103020
+    },
+    {
+        "StatChangeId": 103021
+    },
+    {
+        "StatChangeId": 103022
+    },
+    {
+        "StatChangeId": 103023
+    },
+    {
+        "StatChangeId": 103024
+    },
+    {
+        "StatChangeId": 103025
+    },
+    {
+        "StatChangeId": 103026
+    },
+    {
+        "StatChangeId": 103027
+    },
+    {
+        "StatChangeId": 103028
+    },
+    {
+        "StatChangeId": 103029
+    },
+    {
+        "StatChangeId": 103030
+    },
+    {
+        "StatChangeId": 103031
+    },
+    {
+        "StatChangeId": 103032
+    },
+    {
+        "StatChangeId": 103033
+    },
+    {
+        "StatChangeId": 103034
+    },
+    {
+        "StatChangeId": 103035
+    },
+    {
+        "StatChangeId": 103036
+    },
+    {
+        "StatChangeId": 103037
+    },
+    {
+        "StatChangeId": 103038
+    },
+    {
+        "StatChangeId": 103039
+    },
+    {
+        "StatChangeId": 103040
+    },
+    {
+        "StatChangeId": 103041
+    },
+    {
+        "StatChangeId": 103042
+    },
+    {
+        "StatChangeId": 103043
+    },
+    {
+        "StatChangeId": 103044
+    },
+    {
+        "StatChangeId": 103045
+    },
+    {
+        "StatChangeId": 103046
+    },
+    {
+        "StatChangeId": 103047
+    },
+    {
+        "StatChangeId": 103048
+    },
+    {
+        "StatChangeId": 103049
+    },
+    {
+        "StatChangeId": 103050
+    },
+    {
+        "StatChangeId": 103051
+    },
+    {
+        "StatChangeId": 103052
+    },
+    {
+        "StatChangeId": 103053
+    },
+    {
+        "StatChangeId": 103054
+    },
+    {
+        "StatChangeId": 103055
+    },
+    {
+        "StatChangeId": 103056
+    },
+    {
+        "StatChangeId": 103057
+    },
+    {
+        "StatChangeId": 103058
+    },
+    {
+        "StatChangeId": 103059
+    },
+    {
+        "StatChangeId": 103060
+    },
+    {
+        "StatChangeId": 103061
+    },
+    {
+        "StatChangeId": 103062
+    },
+    {
+        "StatChangeId": 103063
+    },
+    {
+        "StatChangeId": 103064
+    },
+    {
+        "StatChangeId": 103065
+    },
+    {
+        "StatChangeId": 103066
+    },
+    {
+        "StatChangeId": 103067
+    },
+    {
+        "StatChangeId": 103068
+    },
+    {
+        "StatChangeId": 103069
+    },
+    {
+        "StatChangeId": 103070
+    },
+    {
+        "StatChangeId": 103071
+    },
+    {
+        "StatChangeId": 103072
+    },
+    {
+        "StatChangeId": 103073
+    },
+    {
+        "StatChangeId": 103074
+    },
+    {
+        "StatChangeId": 103075
+    },
+    {
+        "StatChangeId": 103076
+    },
+    {
+        "StatChangeId": 103077
+    },
+    {
+        "StatChangeId": 103078
+    },
+    {
+        "StatChangeId": 103079
+    },
+    {
+        "StatChangeId": 103080
+    },
+    {
+        "StatChangeId": 103081
+    },
+    {
+        "StatChangeId": 103082
+    },
+    {
+        "StatChangeId": 103083
+    },
+    {
+        "StatChangeId": 103084
+    },
+    {
+        "StatChangeId": 103085
+    },
+    {
+        "StatChangeId": 103086
+    },
+    {
+        "StatChangeId": 103087
+    },
+    {
+        "StatChangeId": 103088
+    },
+    {
+        "StatChangeId": 103089
+    },
+    {
+        "StatChangeId": 103090
+    },
+    {
+        "StatChangeId": 103091
+    },
+    {
+        "StatChangeId": 103092
+    },
+    {
+        "StatChangeId": 103093
+    },
+    {
+        "StatChangeId": 103094
+    },
+    {
+        "StatChangeId": 103095
+    },
+    {
+        "StatChangeId": 103096
+    },
+    {
+        "StatChangeId": 103097
+    },
+    {
+        "StatChangeId": 103098
+    },
+    {
+        "StatChangeId": 103099
+    },
+    {
+        "StatChangeId": 103100
+    },
+    {
+        "StatChangeId": 103101
+    },
+    {
+        "StatChangeId": 103102
+    },
+    {
+        "StatChangeId": 103103
+    },
+    {
+        "StatChangeId": 103104
+    },
+    {
+        "StatChangeId": 103105
+    },
+    {
+        "StatChangeId": 103106
+    },
+    {
+        "StatChangeId": 103107
+    },
+    {
+        "StatChangeId": 103108
+    },
+    {
+        "StatChangeId": 103109
+    },
+    {
+        "StatChangeId": 103110
+    },
+    {
+        "StatChangeId": 103111
+    },
+    {
+        "StatChangeId": 103112
+    },
+    {
+        "StatChangeId": 103113
+    },
+    {
+        "StatChangeId": 103114
+    },
+    {
+        "StatChangeId": 103115
+    },
+    {
+        "StatChangeId": 103116
+    },
+    {
+        "StatChangeId": 103117
+    },
+    {
+        "StatChangeId": 103118
+    },
+    {
+        "StatChangeId": 103119
+    },
+    {
+        "StatChangeId": 103120
+    },
+    {
+        "StatChangeId": 103121
+    },
+    {
+        "StatChangeId": 103122
+    },
+    {
+        "StatChangeId": 103123
+    },
+    {
+        "StatChangeId": 103124
+    },
+    {
+        "StatChangeId": 104001
+    },
+    {
+        "StatChangeId": 104002
+    },
+    {
+        "StatChangeId": 104003
+    },
+    {
+        "StatChangeId": 104004
+    },
+    {
+        "StatChangeId": 104005
+    },
+    {
+        "StatChangeId": 104006
+    },
+    {
+        "StatChangeId": 104007
+    },
+    {
+        "StatChangeId": 104008
+    },
+    {
+        "StatChangeId": 104009
+    },
+    {
+        "StatChangeId": 104010
+    },
+    {
+        "StatChangeId": 104011
+    },
+    {
+        "StatChangeId": 104012
+    },
+    {
+        "StatChangeId": 104013
+    },
+    {
+        "StatChangeId": 104014
+    },
+    {
+        "StatChangeId": 104015
+    },
+    {
+        "StatChangeId": 104016
+    },
+    {
+        "StatChangeId": 104017
+    },
+    {
+        "StatChangeId": 104018
+    },
+    {
+        "StatChangeId": 104019
+    },
+    {
+        "StatChangeId": 104020
+    },
+    {
+        "StatChangeId": 104021
+    },
+    {
+        "StatChangeId": 104022
+    },
+    {
+        "StatChangeId": 104023
+    },
+    {
+        "StatChangeId": 104024
+    },
+    {
+        "StatChangeId": 104025
+    },
+    {
+        "StatChangeId": 104026
+    },
+    {
+        "StatChangeId": 104027
+    },
+    {
+        "StatChangeId": 104028
+    },
+    {
+        "StatChangeId": 104029
+    },
+    {
+        "StatChangeId": 104030
+    },
+    {
+        "StatChangeId": 104031
+    },
+    {
+        "StatChangeId": 104032
+    },
+    {
+        "StatChangeId": 104033
+    },
+    {
+        "StatChangeId": 104034
+    },
+    {
+        "StatChangeId": 104035
+    },
+    {
+        "StatChangeId": 104036
+    },
+    {
+        "StatChangeId": 104037
+    },
+    {
+        "StatChangeId": 104038
+    },
+    {
+        "StatChangeId": 104039
+    },
+    {
+        "StatChangeId": 104040
+    },
+    {
+        "StatChangeId": 104041
+    },
+    {
+        "StatChangeId": 104042
+    },
+    {
+        "StatChangeId": 104043
+    },
+    {
+        "StatChangeId": 104044
+    },
+    {
+        "StatChangeId": 104045
+    },
+    {
+        "StatChangeId": 104046
+    },
+    {
+        "StatChangeId": 104047
+    },
+    {
+        "StatChangeId": 104048
+    },
+    {
+        "StatChangeId": 104049
+    },
+    {
+        "StatChangeId": 104050
+    },
+    {
+        "StatChangeId": 104051
+    },
+    {
+        "StatChangeId": 104052
+    },
+    {
+        "StatChangeId": 104053
+    },
+    {
+        "StatChangeId": 104054
+    },
+    {
+        "StatChangeId": 104055
+    },
+    {
+        "StatChangeId": 104056
+    },
+    {
+        "StatChangeId": 104057
+    },
+    {
+        "StatChangeId": 104058
+    },
+    {
+        "StatChangeId": 104059
+    },
+    {
+        "StatChangeId": 104060
+    },
+    {
+        "StatChangeId": 104061
+    },
+    {
+        "StatChangeId": 104062
+    },
+    {
+        "StatChangeId": 104063
+    },
+    {
+        "StatChangeId": 104064
+    },
+    {
+        "StatChangeId": 104065
+    },
+    {
+        "StatChangeId": 104066
+    },
+    {
+        "StatChangeId": 104067
+    },
+    {
+        "StatChangeId": 104068
+    },
+    {
+        "StatChangeId": 104069
+    },
+    {
+        "StatChangeId": 104070
+    },
+    {
+        "StatChangeId": 104071
+    },
+    {
+        "StatChangeId": 104072
+    },
+    {
+        "StatChangeId": 104073
+    },
+    {
+        "StatChangeId": 104074
+    },
+    {
+        "StatChangeId": 104075
+    },
+    {
+        "StatChangeId": 104076
+    },
+    {
+        "StatChangeId": 104077
+    },
+    {
+        "StatChangeId": 104078
+    },
+    {
+        "StatChangeId": 104079
+    },
+    {
+        "StatChangeId": 104080
+    },
+    {
+        "StatChangeId": 104081
+    },
+    {
+        "StatChangeId": 104082
+    },
+    {
+        "StatChangeId": 104083
+    },
+    {
+        "StatChangeId": 104084
+    },
+    {
+        "StatChangeId": 104085
+    },
+    {
+        "StatChangeId": 104086
+    },
+    {
+        "StatChangeId": 104087
+    },
+    {
+        "StatChangeId": 104088
+    },
+    {
+        "StatChangeId": 104089
+    },
+    {
+        "StatChangeId": 104090
+    },
+    {
+        "StatChangeId": 104091
+    },
+    {
+        "StatChangeId": 104092
+    },
+    {
+        "StatChangeId": 104093
+    },
+    {
+        "StatChangeId": 104094
+    },
+    {
+        "StatChangeId": 104095
+    },
+    {
+        "StatChangeId": 104096
+    },
+    {
+        "StatChangeId": 104097
+    },
+    {
+        "StatChangeId": 104098
+    },
+    {
+        "StatChangeId": 104099
+    },
+    {
+        "StatChangeId": 104100
+    },
+    {
+        "StatChangeId": 104101
+    },
+    {
+        "StatChangeId": 104102
+    },
+    {
+        "StatChangeId": 104103
+    },
+    {
+        "StatChangeId": 104104
+    },
+    {
+        "StatChangeId": 104105
+    },
+    {
+        "StatChangeId": 104106
+    },
+    {
+        "StatChangeId": 104107
+    },
+    {
+        "StatChangeId": 104108
+    },
+    {
+        "StatChangeId": 104109
+    },
+    {
+        "StatChangeId": 104110
+    },
+    {
+        "StatChangeId": 104111
+    },
+    {
+        "StatChangeId": 104112
+    },
+    {
+        "StatChangeId": 104113
+    },
+    {
+        "StatChangeId": 104114
+    },
+    {
+        "StatChangeId": 104115
+    },
+    {
+        "StatChangeId": 104116
+    },
+    {
+        "StatChangeId": 104117
+    },
+    {
+        "StatChangeId": 104118
+    },
+    {
+        "StatChangeId": 104119
+    },
+    {
+        "StatChangeId": 104120
+    },
+    {
+        "StatChangeId": 104121
+    },
+    {
+        "StatChangeId": 104122
+    },
+    {
+        "StatChangeId": 104123
+    },
+    {
+        "StatChangeId": 104124
+    },
+    {
+        "StatChangeId": 201001
+    },
+    {
+        "StatChangeId": 201002
+    },
+    {
+        "StatChangeId": 201003
+    },
+    {
+        "StatChangeId": 201004
+    },
+    {
+        "StatChangeId": 201005
+    },
+    {
+        "StatChangeId": 201006
+    },
+    {
+        "StatChangeId": 201007
+    },
+    {
+        "StatChangeId": 201008
+    },
+    {
+        "StatChangeId": 201009
+    },
+    {
+        "StatChangeId": 201010
+    },
+    {
+        "StatChangeId": 201011
+    },
+    {
+        "StatChangeId": 201012
+    },
+    {
+        "StatChangeId": 201013
+    },
+    {
+        "StatChangeId": 201014
+    },
+    {
+        "StatChangeId": 201015
+    },
+    {
+        "StatChangeId": 201016
+    },
+    {
+        "StatChangeId": 201017
+    },
+    {
+        "StatChangeId": 201018
+    },
+    {
+        "StatChangeId": 201019
+    },
+    {
+        "StatChangeId": 201020
+    },
+    {
+        "StatChangeId": 201021
+    },
+    {
+        "StatChangeId": 201022
+    },
+    {
+        "StatChangeId": 201023
+    },
+    {
+        "StatChangeId": 201024
+    },
+    {
+        "StatChangeId": 201025
+    },
+    {
+        "StatChangeId": 201026
+    },
+    {
+        "StatChangeId": 201027
+    },
+    {
+        "StatChangeId": 201028
+    },
+    {
+        "StatChangeId": 201029
+    },
+    {
+        "StatChangeId": 201030
+    },
+    {
+        "StatChangeId": 201031
+    },
+    {
+        "StatChangeId": 201032
+    },
+    {
+        "StatChangeId": 201033
+    },
+    {
+        "StatChangeId": 201034
+    },
+    {
+        "StatChangeId": 201035
+    },
+    {
+        "StatChangeId": 201036
+    },
+    {
+        "StatChangeId": 201037
+    },
+    {
+        "StatChangeId": 201038
+    },
+    {
+        "StatChangeId": 201039
+    },
+    {
+        "StatChangeId": 201040
+    },
+    {
+        "StatChangeId": 201041
+    },
+    {
+        "StatChangeId": 201042
+    },
+    {
+        "StatChangeId": 201043
+    },
+    {
+        "StatChangeId": 201044
+    },
+    {
+        "StatChangeId": 201045
+    },
+    {
+        "StatChangeId": 201046
+    },
+    {
+        "StatChangeId": 201047
+    },
+    {
+        "StatChangeId": 201048
+    },
+    {
+        "StatChangeId": 201049
+    },
+    {
+        "StatChangeId": 201050
+    },
+    {
+        "StatChangeId": 201051
+    },
+    {
+        "StatChangeId": 201052
+    },
+    {
+        "StatChangeId": 201053
+    },
+    {
+        "StatChangeId": 201054
+    },
+    {
+        "StatChangeId": 201055
+    },
+    {
+        "StatChangeId": 201056
+    },
+    {
+        "StatChangeId": 201057
+    },
+    {
+        "StatChangeId": 201058
+    },
+    {
+        "StatChangeId": 201059
+    },
+    {
+        "StatChangeId": 201060
+    },
+    {
+        "StatChangeId": 201061
+    },
+    {
+        "StatChangeId": 201062
+    },
+    {
+        "StatChangeId": 201063
+    },
+    {
+        "StatChangeId": 201064
+    },
+    {
+        "StatChangeId": 201065
+    },
+    {
+        "StatChangeId": 201066
+    },
+    {
+        "StatChangeId": 201067
+    },
+    {
+        "StatChangeId": 201068
+    },
+    {
+        "StatChangeId": 201069
+    },
+    {
+        "StatChangeId": 201070
+    },
+    {
+        "StatChangeId": 201071
+    },
+    {
+        "StatChangeId": 201072
+    },
+    {
+        "StatChangeId": 201073
+    },
+    {
+        "StatChangeId": 201074
+    },
+    {
+        "StatChangeId": 201075
+    },
+    {
+        "StatChangeId": 201076
+    },
+    {
+        "StatChangeId": 201077
+    },
+    {
+        "StatChangeId": 201078
+    },
+    {
+        "StatChangeId": 201079
+    },
+    {
+        "StatChangeId": 201080
+    },
+    {
+        "StatChangeId": 201081
+    },
+    {
+        "StatChangeId": 201082
+    },
+    {
+        "StatChangeId": 201083
+    },
+    {
+        "StatChangeId": 201084
+    },
+    {
+        "StatChangeId": 201085
+    },
+    {
+        "StatChangeId": 201086
+    },
+    {
+        "StatChangeId": 201087
+    },
+    {
+        "StatChangeId": 201088
+    },
+    {
+        "StatChangeId": 201089
+    },
+    {
+        "StatChangeId": 201090
+    },
+    {
+        "StatChangeId": 201091
+    },
+    {
+        "StatChangeId": 201092
+    },
+    {
+        "StatChangeId": 201093
+    },
+    {
+        "StatChangeId": 201094
+    },
+    {
+        "StatChangeId": 201095
+    },
+    {
+        "StatChangeId": 201096
+    },
+    {
+        "StatChangeId": 201097
+    },
+    {
+        "StatChangeId": 201098
+    },
+    {
+        "StatChangeId": 201099
+    },
+    {
+        "StatChangeId": 201100
+    },
+    {
+        "StatChangeId": 201101
+    },
+    {
+        "StatChangeId": 201102
+    },
+    {
+        "StatChangeId": 201103
+    },
+    {
+        "StatChangeId": 201104
+    },
+    {
+        "StatChangeId": 201105
+    },
+    {
+        "StatChangeId": 201106
+    },
+    {
+        "StatChangeId": 201107
+    },
+    {
+        "StatChangeId": 201108
+    },
+    {
+        "StatChangeId": 201109
+    },
+    {
+        "StatChangeId": 201110
+    },
+    {
+        "StatChangeId": 201111
+    },
+    {
+        "StatChangeId": 201112
+    },
+    {
+        "StatChangeId": 201113
+    },
+    {
+        "StatChangeId": 201114
+    },
+    {
+        "StatChangeId": 201115
+    },
+    {
+        "StatChangeId": 201116
+    },
+    {
+        "StatChangeId": 201117
+    },
+    {
+        "StatChangeId": 201118
+    },
+    {
+        "StatChangeId": 201119
+    },
+    {
+        "StatChangeId": 201120
+    },
+    {
+        "StatChangeId": 201121
+    },
+    {
+        "StatChangeId": 201122
+    },
+    {
+        "StatChangeId": 201123
+    },
+    {
+        "StatChangeId": 201124
+    },
+    {
+        "StatChangeId": 202001
+    },
+    {
+        "StatChangeId": 202002
+    },
+    {
+        "StatChangeId": 202003
+    },
+    {
+        "StatChangeId": 202004
+    },
+    {
+        "StatChangeId": 202005
+    },
+    {
+        "StatChangeId": 202006
+    },
+    {
+        "StatChangeId": 202007
+    },
+    {
+        "StatChangeId": 202008
+    },
+    {
+        "StatChangeId": 202009
+    },
+    {
+        "StatChangeId": 202010
+    },
+    {
+        "StatChangeId": 202011
+    },
+    {
+        "StatChangeId": 202012
+    },
+    {
+        "StatChangeId": 202013
+    },
+    {
+        "StatChangeId": 202014
+    },
+    {
+        "StatChangeId": 202015
+    },
+    {
+        "StatChangeId": 202016
+    },
+    {
+        "StatChangeId": 202017
+    },
+    {
+        "StatChangeId": 202018
+    },
+    {
+        "StatChangeId": 202019
+    },
+    {
+        "StatChangeId": 202020
+    },
+    {
+        "StatChangeId": 202021
+    },
+    {
+        "StatChangeId": 202022
+    },
+    {
+        "StatChangeId": 202023
+    },
+    {
+        "StatChangeId": 202024
+    },
+    {
+        "StatChangeId": 202025
+    },
+    {
+        "StatChangeId": 202026
+    },
+    {
+        "StatChangeId": 202027
+    },
+    {
+        "StatChangeId": 202028
+    },
+    {
+        "StatChangeId": 202029
+    },
+    {
+        "StatChangeId": 202030
+    },
+    {
+        "StatChangeId": 202031
+    },
+    {
+        "StatChangeId": 202032
+    },
+    {
+        "StatChangeId": 202033
+    },
+    {
+        "StatChangeId": 202034
+    },
+    {
+        "StatChangeId": 202035
+    },
+    {
+        "StatChangeId": 202036
+    },
+    {
+        "StatChangeId": 202037
+    },
+    {
+        "StatChangeId": 202038
+    },
+    {
+        "StatChangeId": 202039
+    },
+    {
+        "StatChangeId": 202040
+    },
+    {
+        "StatChangeId": 202041
+    },
+    {
+        "StatChangeId": 202042
+    },
+    {
+        "StatChangeId": 202043
+    },
+    {
+        "StatChangeId": 202044
+    },
+    {
+        "StatChangeId": 202045
+    },
+    {
+        "StatChangeId": 202046
+    },
+    {
+        "StatChangeId": 202047
+    },
+    {
+        "StatChangeId": 202048
+    },
+    {
+        "StatChangeId": 202049
+    },
+    {
+        "StatChangeId": 202050
+    },
+    {
+        "StatChangeId": 202051
+    },
+    {
+        "StatChangeId": 202052
+    },
+    {
+        "StatChangeId": 202053
+    },
+    {
+        "StatChangeId": 202054
+    },
+    {
+        "StatChangeId": 202055
+    },
+    {
+        "StatChangeId": 202056
+    },
+    {
+        "StatChangeId": 202057
+    },
+    {
+        "StatChangeId": 202058
+    },
+    {
+        "StatChangeId": 202059
+    },
+    {
+        "StatChangeId": 202060
+    },
+    {
+        "StatChangeId": 202061
+    },
+    {
+        "StatChangeId": 202062
+    },
+    {
+        "StatChangeId": 202063
+    },
+    {
+        "StatChangeId": 202064
+    },
+    {
+        "StatChangeId": 202065
+    },
+    {
+        "StatChangeId": 202066
+    },
+    {
+        "StatChangeId": 202067
+    },
+    {
+        "StatChangeId": 202068
+    },
+    {
+        "StatChangeId": 202069
+    },
+    {
+        "StatChangeId": 202070
+    },
+    {
+        "StatChangeId": 202071
+    },
+    {
+        "StatChangeId": 202072
+    },
+    {
+        "StatChangeId": 202073
+    },
+    {
+        "StatChangeId": 202074
+    },
+    {
+        "StatChangeId": 202075
+    },
+    {
+        "StatChangeId": 202076
+    },
+    {
+        "StatChangeId": 202077
+    },
+    {
+        "StatChangeId": 202078
+    },
+    {
+        "StatChangeId": 202079
+    },
+    {
+        "StatChangeId": 202080
+    },
+    {
+        "StatChangeId": 202081
+    },
+    {
+        "StatChangeId": 202082
+    },
+    {
+        "StatChangeId": 202083
+    },
+    {
+        "StatChangeId": 202084
+    },
+    {
+        "StatChangeId": 202085
+    },
+    {
+        "StatChangeId": 202086
+    },
+    {
+        "StatChangeId": 202087
+    },
+    {
+        "StatChangeId": 202088
+    },
+    {
+        "StatChangeId": 202089
+    },
+    {
+        "StatChangeId": 202090
+    },
+    {
+        "StatChangeId": 202091
+    },
+    {
+        "StatChangeId": 202092
+    },
+    {
+        "StatChangeId": 202093
+    },
+    {
+        "StatChangeId": 202094
+    },
+    {
+        "StatChangeId": 202095
+    },
+    {
+        "StatChangeId": 202096
+    },
+    {
+        "StatChangeId": 202097
+    },
+    {
+        "StatChangeId": 202098
+    },
+    {
+        "StatChangeId": 202099
+    },
+    {
+        "StatChangeId": 202100
+    },
+    {
+        "StatChangeId": 202101
+    },
+    {
+        "StatChangeId": 202102
+    },
+    {
+        "StatChangeId": 202103
+    },
+    {
+        "StatChangeId": 202104
+    },
+    {
+        "StatChangeId": 202105
+    },
+    {
+        "StatChangeId": 202106
+    },
+    {
+        "StatChangeId": 202107
+    },
+    {
+        "StatChangeId": 202108
+    },
+    {
+        "StatChangeId": 202109
+    },
+    {
+        "StatChangeId": 202110
+    },
+    {
+        "StatChangeId": 202111
+    },
+    {
+        "StatChangeId": 202112
+    },
+    {
+        "StatChangeId": 202113
+    },
+    {
+        "StatChangeId": 202114
+    },
+    {
+        "StatChangeId": 202115
+    },
+    {
+        "StatChangeId": 202116
+    },
+    {
+        "StatChangeId": 202117
+    },
+    {
+        "StatChangeId": 202118
+    },
+    {
+        "StatChangeId": 202119
+    },
+    {
+        "StatChangeId": 202120
+    },
+    {
+        "StatChangeId": 202121
+    },
+    {
+        "StatChangeId": 202122
+    },
+    {
+        "StatChangeId": 202123
+    },
+    {
+        "StatChangeId": 202124
+    },
+    {
+        "StatChangeId": 30001
+    },
+    {
+        "StatChangeId": 30002
+    },
+    {
+        "StatChangeId": 30003
+    },
+    {
+        "StatChangeId": 30004
+    },
+    {
+        "StatChangeId": 30005
+    },
+    {
+        "StatChangeId": 30006
+    },
+    {
+        "StatChangeId": 30007
+    },
+    {
+        "StatChangeId": 30008
+    },
+    {
+        "StatChangeId": 30009
+    },
+    {
+        "StatChangeId": 30010
+    },
+    {
+        "StatChangeId": 30011
+    },
+    {
+        "StatChangeId": 30012
+    },
+    {
+        "StatChangeId": 30013
+    },
+    {
+        "StatChangeId": 30014
+    },
+    {
+        "StatChangeId": 30015
+    },
+    {
+        "StatChangeId": 30016
+    },
+    {
+        "StatChangeId": 30017
+    },
+    {
+        "StatChangeId": 30018
+    },
+    {
+        "StatChangeId": 30019
+    },
+    {
+        "StatChangeId": 30020
+    },
+    {
+        "StatChangeId": 30021
+    },
+    {
+        "StatChangeId": 30022
+    },
+    {
+        "StatChangeId": 30023
+    },
+    {
+        "StatChangeId": 30024
+    },
+    {
+        "StatChangeId": 30025
+    },
+    {
+        "StatChangeId": 30026
+    },
+    {
+        "StatChangeId": 30027
+    },
+    {
+        "StatChangeId": 30028
+    },
+    {
+        "StatChangeId": 30029
+    },
+    {
+        "StatChangeId": 30030
+    },
+    {
+        "StatChangeId": 30031
+    },
+    {
+        "StatChangeId": 30032
+    },
+    {
+        "StatChangeId": 30033
+    },
+    {
+        "StatChangeId": 30034
+    },
+    {
+        "StatChangeId": 30035
+    },
+    {
+        "StatChangeId": 30036
+    },
+    {
+        "StatChangeId": 30037
+    },
+    {
+        "StatChangeId": 30038
+    },
+    {
+        "StatChangeId": 30039
+    },
+    {
+        "StatChangeId": 30040
+    },
+    {
+        "StatChangeId": 30041
+    },
+    {
+        "StatChangeId": 30042
+    },
+    {
+        "StatChangeId": 30043
+    },
+    {
+        "StatChangeId": 30044
+    },
+    {
+        "StatChangeId": 30045
+    },
+    {
+        "StatChangeId": 30046
+    },
+    {
+        "StatChangeId": 30047
+    },
+    {
+        "StatChangeId": 30048
+    },
+    {
+        "StatChangeId": 30049
+    },
+    {
+        "StatChangeId": 30050
+    },
+    {
+        "StatChangeId": 30051
+    },
+    {
+        "StatChangeId": 30052
+    },
+    {
+        "StatChangeId": 30053
+    },
+    {
+        "StatChangeId": 30054
+    },
+    {
+        "StatChangeId": 30055
+    },
+    {
+        "StatChangeId": 30056
+    },
+    {
+        "StatChangeId": 30057
+    },
+    {
+        "StatChangeId": 30058
+    },
+    {
+        "StatChangeId": 30059
+    },
+    {
+        "StatChangeId": 30060
+    },
+    {
+        "StatChangeId": 30061
+    },
+    {
+        "StatChangeId": 30062
+    },
+    {
+        "StatChangeId": 30063
+    },
+    {
+        "StatChangeId": 30064
+    },
+    {
+        "StatChangeId": 30065
+    },
+    {
+        "StatChangeId": 30066
+    },
+    {
+        "StatChangeId": 30067
+    },
+    {
+        "StatChangeId": 30068
+    },
+    {
+        "StatChangeId": 30069
+    },
+    {
+        "StatChangeId": 30070
+    },
+    {
+        "StatChangeId": 30071
+    },
+    {
+        "StatChangeId": 30072
+    },
+    {
+        "StatChangeId": 30073
+    },
+    {
+        "StatChangeId": 30074
+    },
+    {
+        "StatChangeId": 30075
+    },
+    {
+        "StatChangeId": 30076
+    },
+    {
+        "StatChangeId": 30077
+    },
+    {
+        "StatChangeId": 30078
+    },
+    {
+        "StatChangeId": 30079
+    },
+    {
+        "StatChangeId": 30080
+    },
+    {
+        "StatChangeId": 30081
+    },
+    {
+        "StatChangeId": 30082
+    },
+    {
+        "StatChangeId": 30083
+    },
+    {
+        "StatChangeId": 30084
+    },
+    {
+        "StatChangeId": 30085
+    },
+    {
+        "StatChangeId": 30086
+    },
+    {
+        "StatChangeId": 30087
+    },
+    {
+        "StatChangeId": 30088
+    },
+    {
+        "StatChangeId": 30089
+    },
+    {
+        "StatChangeId": 30090
+    },
+    {
+        "StatChangeId": 30091
+    },
+    {
+        "StatChangeId": 30092
+    },
+    {
+        "StatChangeId": 30093
+    },
+    {
+        "StatChangeId": 30094
+    },
+    {
+        "StatChangeId": 30095
+    },
+    {
+        "StatChangeId": 30096
+    },
+    {
+        "StatChangeId": 30097
+    },
+    {
+        "StatChangeId": 30098
+    },
+    {
+        "StatChangeId": 30099
+    },
+    {
+        "StatChangeId": 30100
+    },
+    {
+        "StatChangeId": 30101
+    },
+    {
+        "StatChangeId": 30102
+    },
+    {
+        "StatChangeId": 30103
+    },
+    {
+        "StatChangeId": 30104
+    },
+    {
+        "StatChangeId": 30105
+    },
+    {
+        "StatChangeId": 30106
+    },
+    {
+        "StatChangeId": 30107
+    },
+    {
+        "StatChangeId": 30108
+    },
+    {
+        "StatChangeId": 30109
+    },
+    {
+        "StatChangeId": 30110
+    },
+    {
+        "StatChangeId": 30111
+    },
+    {
+        "StatChangeId": 30112
+    },
+    {
+        "StatChangeId": 30113
+    },
+    {
+        "StatChangeId": 30114
+    },
+    {
+        "StatChangeId": 30115
+    },
+    {
+        "StatChangeId": 30116
+    },
+    {
+        "StatChangeId": 30117
+    },
+    {
+        "StatChangeId": 30118
+    },
+    {
+        "StatChangeId": 30119
+    },
+    {
+        "StatChangeId": 30120
+    },
+    {
+        "StatChangeId": 30121
+    },
+    {
+        "StatChangeId": 30122
+    },
+    {
+        "StatChangeId": 30123
+    },
+    {
+        "StatChangeId": 30124
+    }
+]

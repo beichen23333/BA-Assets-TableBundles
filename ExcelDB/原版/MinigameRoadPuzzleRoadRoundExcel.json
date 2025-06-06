@@ -1,0 +1,44 @@
+[
+    {
+        "EventContentId": 846,
+        "UniqueId": 100,
+        "Round": 1,
+        "MapGroupId": 100
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 200,
+        "Round": 2,
+        "MapGroupId": 200
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 300,
+        "Round": 3,
+        "MapGroupId": 300
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 400,
+        "Round": 4,
+        "MapGroupId": 400
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 500,
+        "Round": 5,
+        "MapGroupId": 500
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 600,
+        "Round": 6,
+        "MapGroupId": 600
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 700,
+        "Round": 7,
+        "MapGroupId": 700
+    }
+]

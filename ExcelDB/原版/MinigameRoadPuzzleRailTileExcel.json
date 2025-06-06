@@ -1,0 +1,22 @@
+[
+    {
+        "EventContentId": 846,
+        "UniqueId": 100,
+        "RailTileType": 1
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 101,
+        "RailTileType": 1
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 200,
+        "RailTileType": 2
+    },
+    {
+        "EventContentId": 846,
+        "UniqueId": 300,
+        "RailTileType": 3
+    }
+]

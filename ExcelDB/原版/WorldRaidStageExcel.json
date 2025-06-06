@@ -1,0 +1,414 @@
+[
+    {
+        "Id": 1,
+        "WorldRaidBossGroupId": 10000002
+    },
+    {
+        "Id": 2,
+        "WorldRaidBossGroupId": 10000002
+    },
+    {
+        "Id": 3,
+        "WorldRaidBossGroupId": 10000002
+    },
+    {
+        "Id": 4,
+        "WorldRaidBossGroupId": 10000002
+    },
+    {
+        "Id": 5,
+        "WorldRaidBossGroupId": 10000002
+    },
+    {
+        "Id": 6,
+        "WorldRaidBossGroupId": 10000001
+    },
+    {
+        "Id": 7,
+        "WorldRaidBossGroupId": 10000001
+    },
+    {
+        "Id": 81400000,
+        "WorldRaidBossGroupId": 814000
+    },
+    {
+        "Id": 81400001,
+        "WorldRaidBossGroupId": 814000
+    },
+    {
+        "Id": 81400002,
+        "WorldRaidBossGroupId": 814000
+    },
+    {
+        "Id": 81400009,
+        "WorldRaidBossGroupId": 814000
+    },
+    {
+        "Id": 81410000,
+        "WorldRaidBossGroupId": 814100
+    },
+    {
+        "Id": 81410001,
+        "WorldRaidBossGroupId": 814100
+    },
+    {
+        "Id": 81410002,
+        "WorldRaidBossGroupId": 814100
+    },
+    {
+        "Id": 81410009,
+        "WorldRaidBossGroupId": 814100
+    },
+    {
+        "Id": 82100001,
+        "WorldRaidBossGroupId": 821000
+    },
+    {
+        "Id": 82100002,
+        "WorldRaidBossGroupId": 821000
+    },
+    {
+        "Id": 82100003,
+        "WorldRaidBossGroupId": 821000
+    },
+    {
+        "Id": 82100004,
+        "WorldRaidBossGroupId": 821000
+    },
+    {
+        "Id": 82100005,
+        "WorldRaidBossGroupId": 821000
+    },
+    {
+        "Id": 82100009,
+        "WorldRaidBossGroupId": 821000
+    },
+    {
+        "Id": 82110001,
+        "WorldRaidBossGroupId": 821100
+    },
+    {
+        "Id": 82110002,
+        "WorldRaidBossGroupId": 821100
+    },
+    {
+        "Id": 82110003,
+        "WorldRaidBossGroupId": 821100
+    },
+    {
+        "Id": 82110004,
+        "WorldRaidBossGroupId": 821100
+    },
+    {
+        "Id": 82110005,
+        "WorldRaidBossGroupId": 821100
+    },
+    {
+        "Id": 82110009,
+        "WorldRaidBossGroupId": 821100
+    },
+    {
+        "Id": 82120001,
+        "WorldRaidBossGroupId": 821200
+    },
+    {
+        "Id": 82120002,
+        "WorldRaidBossGroupId": 821200
+    },
+    {
+        "Id": 82120003,
+        "WorldRaidBossGroupId": 821200
+    },
+    {
+        "Id": 82120004,
+        "WorldRaidBossGroupId": 821200
+    },
+    {
+        "Id": 82120005,
+        "WorldRaidBossGroupId": 821200
+    },
+    {
+        "Id": 82120009,
+        "WorldRaidBossGroupId": 821200
+    },
+    {
+        "Id": 82130001,
+        "WorldRaidBossGroupId": 821300
+    },
+    {
+        "Id": 82130002,
+        "WorldRaidBossGroupId": 821300
+    },
+    {
+        "Id": 82130003,
+        "WorldRaidBossGroupId": 821300
+    },
+    {
+        "Id": 82130004,
+        "WorldRaidBossGroupId": 821300
+    },
+    {
+        "Id": 82130005,
+        "WorldRaidBossGroupId": 821300
+    },
+    {
+        "Id": 82130009,
+        "WorldRaidBossGroupId": 821300
+    },
+    {
+        "Id": 82140001,
+        "WorldRaidBossGroupId": 821400
+    },
+    {
+        "Id": 82140002,
+        "WorldRaidBossGroupId": 821400
+    },
+    {
+        "Id": 82140003,
+        "WorldRaidBossGroupId": 821400
+    },
+    {
+        "Id": 82140004,
+        "WorldRaidBossGroupId": 821400
+    },
+    {
+        "Id": 82140005,
+        "WorldRaidBossGroupId": 821400
+    },
+    {
+        "Id": 82140009,
+        "WorldRaidBossGroupId": 821400
+    },
+    {
+        "Id": 82100101,
+        "WorldRaidBossGroupId": 821001
+    },
+    {
+        "Id": 82100102,
+        "WorldRaidBossGroupId": 821001
+    },
+    {
+        "Id": 82100103,
+        "WorldRaidBossGroupId": 821001
+    },
+    {
+        "Id": 82100104,
+        "WorldRaidBossGroupId": 821001
+    },
+    {
+        "Id": 82100105,
+        "WorldRaidBossGroupId": 821001
+    },
+    {
+        "Id": 82100106,
+        "WorldRaidBossGroupId": 821001
+    },
+    {
+        "Id": 82100107,
+        "WorldRaidBossGroupId": 821001
+    },
+    {
+        "Id": 82110101,
+        "WorldRaidBossGroupId": 821101
+    },
+    {
+        "Id": 82110102,
+        "WorldRaidBossGroupId": 821101
+    },
+    {
+        "Id": 82110103,
+        "WorldRaidBossGroupId": 821101
+    },
+    {
+        "Id": 82110104,
+        "WorldRaidBossGroupId": 821101
+    },
+    {
+        "Id": 82110105,
+        "WorldRaidBossGroupId": 821101
+    },
+    {
+        "Id": 82110106,
+        "WorldRaidBossGroupId": 821101
+    },
+    {
+        "Id": 82110107,
+        "WorldRaidBossGroupId": 821101
+    },
+    {
+        "Id": 82120101,
+        "WorldRaidBossGroupId": 821201
+    },
+    {
+        "Id": 82120102,
+        "WorldRaidBossGroupId": 821201
+    },
+    {
+        "Id": 82120103,
+        "WorldRaidBossGroupId": 821201
+    },
+    {
+        "Id": 82120104,
+        "WorldRaidBossGroupId": 821201
+    },
+    {
+        "Id": 82120105,
+        "WorldRaidBossGroupId": 821201
+    },
+    {
+        "Id": 82120106,
+        "WorldRaidBossGroupId": 821201
+    },
+    {
+        "Id": 82120107,
+        "WorldRaidBossGroupId": 821201
+    },
+    {
+        "Id": 82130101,
+        "WorldRaidBossGroupId": 821301
+    },
+    {
+        "Id": 82130102,
+        "WorldRaidBossGroupId": 821301
+    },
+    {
+        "Id": 82130103,
+        "WorldRaidBossGroupId": 821301
+    },
+    {
+        "Id": 82130104,
+        "WorldRaidBossGroupId": 821301
+    },
+    {
+        "Id": 82130105,
+        "WorldRaidBossGroupId": 821301
+    },
+    {
+        "Id": 82130106,
+        "WorldRaidBossGroupId": 821301
+    },
+    {
+        "Id": 82130107,
+        "WorldRaidBossGroupId": 821301
+    },
+    {
+        "Id": 82140101,
+        "WorldRaidBossGroupId": 821401
+    },
+    {
+        "Id": 82140102,
+        "WorldRaidBossGroupId": 821401
+    },
+    {
+        "Id": 82140103,
+        "WorldRaidBossGroupId": 821401
+    },
+    {
+        "Id": 82140104,
+        "WorldRaidBossGroupId": 821401
+    },
+    {
+        "Id": 82140105,
+        "WorldRaidBossGroupId": 821401
+    },
+    {
+        "Id": 82140106,
+        "WorldRaidBossGroupId": 821401
+    },
+    {
+        "Id": 82140107,
+        "WorldRaidBossGroupId": 821401
+    },
+    {
+        "Id": 82150101,
+        "WorldRaidBossGroupId": 821501
+    },
+    {
+        "Id": 82150102,
+        "WorldRaidBossGroupId": 821501
+    },
+    {
+        "Id": 82150103,
+        "WorldRaidBossGroupId": 821501
+    },
+    {
+        "Id": 82150104,
+        "WorldRaidBossGroupId": 821501
+    },
+    {
+        "Id": 82150105,
+        "WorldRaidBossGroupId": 821501
+    },
+    {
+        "Id": 82150106,
+        "WorldRaidBossGroupId": 821501
+    },
+    {
+        "Id": 82150107,
+        "WorldRaidBossGroupId": 821501
+    },
+    {
+        "Id": 82160200,
+        "WorldRaidBossGroupId": 821602
+    },
+    {
+        "Id": 82300000,
+        "WorldRaidBossGroupId": 823000
+    },
+    {
+        "Id": 82300001,
+        "WorldRaidBossGroupId": 823000
+    },
+    {
+        "Id": 82300002,
+        "WorldRaidBossGroupId": 823000
+    },
+    {
+        "Id": 82300009,
+        "WorldRaidBossGroupId": 823000
+    },
+    {
+        "Id": 82310009,
+        "WorldRaidBossGroupId": 823100
+    },
+    {
+        "Id": 301200101,
+        "WorldRaidBossGroupId": 10814000
+    },
+    {
+        "Id": 301200201,
+        "WorldRaidBossGroupId": 10814000
+    },
+    {
+        "Id": 301200301,
+        "WorldRaidBossGroupId": 10814000
+    },
+    {
+        "Id": 301200001,
+        "WorldRaidBossGroupId": 10814000
+    },
+    {
+        "Id": 302200101,
+        "WorldRaidBossGroupId": 10814100
+    },
+    {
+        "Id": 302200201,
+        "WorldRaidBossGroupId": 10814100
+    },
+    {
+        "Id": 302200301,
+        "WorldRaidBossGroupId": 10814100
+    },
+    {
+        "Id": 302200001,
+        "WorldRaidBossGroupId": 10814100
+    },
+    {
+        "Id": 90081401,
+        "WorldRaidBossGroupId": 900814000
+    },
+    {
+        "Id": 90081402,
+        "WorldRaidBossGroupId": 900814100
+    }
+]

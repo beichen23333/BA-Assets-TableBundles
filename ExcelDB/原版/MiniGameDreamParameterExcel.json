@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 100,
+        "EventContentId": 836,
+        "ParameterType": 1
+    },
+    {
+        "Id": 200,
+        "EventContentId": 836,
+        "ParameterType": 2
+    },
+    {
+        "Id": 300,
+        "EventContentId": 836,
+        "ParameterType": 3
+    },
+    {
+        "Id": 400,
+        "EventContentId": 836,
+        "ParameterType": 4
+    },
+    {
+        "Id": 10100,
+        "EventContentId": 10836,
+        "ParameterType": 1
+    },
+    {
+        "Id": 10200,
+        "EventContentId": 10836,
+        "ParameterType": 2
+    },
+    {
+        "Id": 10300,
+        "EventContentId": 10836,
+        "ParameterType": 3
+    },
+    {
+        "Id": 10400,
+        "EventContentId": 10836,
+        "ParameterType": 4
+    }
+]

@@ -1,0 +1,674 @@
+[
+    {
+        "CharacterId": 10000
+    },
+    {
+        "CharacterId": 10001
+    },
+    {
+        "CharacterId": 10002
+    },
+    {
+        "CharacterId": 10003
+    },
+    {
+        "CharacterId": 10004
+    },
+    {
+        "CharacterId": 10005
+    },
+    {
+        "CharacterId": 10006
+    },
+    {
+        "CharacterId": 10007
+    },
+    {
+        "CharacterId": 10008
+    },
+    {
+        "CharacterId": 10009
+    },
+    {
+        "CharacterId": 10010
+    },
+    {
+        "CharacterId": 10011
+    },
+    {
+        "CharacterId": 10012
+    },
+    {
+        "CharacterId": 10013
+    },
+    {
+        "CharacterId": 10014
+    },
+    {
+        "CharacterId": 10015
+    },
+    {
+        "CharacterId": 10016
+    },
+    {
+        "CharacterId": 10017
+    },
+    {
+        "CharacterId": 10018
+    },
+    {
+        "CharacterId": 10019
+    },
+    {
+        "CharacterId": 10020
+    },
+    {
+        "CharacterId": 10021
+    },
+    {
+        "CharacterId": 10022
+    },
+    {
+        "CharacterId": 10023
+    },
+    {
+        "CharacterId": 10024
+    },
+    {
+        "CharacterId": 10025
+    },
+    {
+        "CharacterId": 10026
+    },
+    {
+        "CharacterId": 10027
+    },
+    {
+        "CharacterId": 10028
+    },
+    {
+        "CharacterId": 10029
+    },
+    {
+        "CharacterId": 10030
+    },
+    {
+        "CharacterId": 10031
+    },
+    {
+        "CharacterId": 10032
+    },
+    {
+        "CharacterId": 10033
+    },
+    {
+        "CharacterId": 10034
+    },
+    {
+        "CharacterId": 10035
+    },
+    {
+        "CharacterId": 10036
+    },
+    {
+        "CharacterId": 10037
+    },
+    {
+        "CharacterId": 10038
+    },
+    {
+        "CharacterId": 10039
+    },
+    {
+        "CharacterId": 10040
+    },
+    {
+        "CharacterId": 10041
+    },
+    {
+        "CharacterId": 10042
+    },
+    {
+        "CharacterId": 10043
+    },
+    {
+        "CharacterId": 10044
+    },
+    {
+        "CharacterId": 10045
+    },
+    {
+        "CharacterId": 10046
+    },
+    {
+        "CharacterId": 10047
+    },
+    {
+        "CharacterId": 10048
+    },
+    {
+        "CharacterId": 10049
+    },
+    {
+        "CharacterId": 10050
+    },
+    {
+        "CharacterId": 10051
+    },
+    {
+        "CharacterId": 10052
+    },
+    {
+        "CharacterId": 10053
+    },
+    {
+        "CharacterId": 10054
+    },
+    {
+        "CharacterId": 10055
+    },
+    {
+        "CharacterId": 10056
+    },
+    {
+        "CharacterId": 10057
+    },
+    {
+        "CharacterId": 10058
+    },
+    {
+        "CharacterId": 10059
+    },
+    {
+        "CharacterId": 10060
+    },
+    {
+        "CharacterId": 10061
+    },
+    {
+        "CharacterId": 10062
+    },
+    {
+        "CharacterId": 10063
+    },
+    {
+        "CharacterId": 10064
+    },
+    {
+        "CharacterId": 10065
+    },
+    {
+        "CharacterId": 10066
+    },
+    {
+        "CharacterId": 10067
+    },
+    {
+        "CharacterId": 10068
+    },
+    {
+        "CharacterId": 10069
+    },
+    {
+        "CharacterId": 10070
+    },
+    {
+        "CharacterId": 10071
+    },
+    {
+        "CharacterId": 10072
+    },
+    {
+        "CharacterId": 13000
+    },
+    {
+        "CharacterId": 13001
+    },
+    {
+        "CharacterId": 13002
+    },
+    {
+        "CharacterId": 13003
+    },
+    {
+        "CharacterId": 13004
+    },
+    {
+        "CharacterId": 13005
+    },
+    {
+        "CharacterId": 13006
+    },
+    {
+        "CharacterId": 13007
+    },
+    {
+        "CharacterId": 13008
+    },
+    {
+        "CharacterId": 13009
+    },
+    {
+        "CharacterId": 13010
+    },
+    {
+        "CharacterId": 13011
+    },
+    {
+        "CharacterId": 13012
+    },
+    {
+        "CharacterId": 16000
+    },
+    {
+        "CharacterId": 16001
+    },
+    {
+        "CharacterId": 16002
+    },
+    {
+        "CharacterId": 16003
+    },
+    {
+        "CharacterId": 16004
+    },
+    {
+        "CharacterId": 16005
+    },
+    {
+        "CharacterId": 16006
+    },
+    {
+        "CharacterId": 16007
+    },
+    {
+        "CharacterId": 16008
+    },
+    {
+        "CharacterId": 16009
+    },
+    {
+        "CharacterId": 16010
+    },
+    {
+        "CharacterId": 16011
+    },
+    {
+        "CharacterId": 16012
+    },
+    {
+        "CharacterId": 20000
+    },
+    {
+        "CharacterId": 20001
+    },
+    {
+        "CharacterId": 20002
+    },
+    {
+        "CharacterId": 20003
+    },
+    {
+        "CharacterId": 20004
+    },
+    {
+        "CharacterId": 20005
+    },
+    {
+        "CharacterId": 20006
+    },
+    {
+        "CharacterId": 20007
+    },
+    {
+        "CharacterId": 20008
+    },
+    {
+        "CharacterId": 20009
+    },
+    {
+        "CharacterId": 20010
+    },
+    {
+        "CharacterId": 20011
+    },
+    {
+        "CharacterId": 20012
+    },
+    {
+        "CharacterId": 20013
+    },
+    {
+        "CharacterId": 20014
+    },
+    {
+        "CharacterId": 20015
+    },
+    {
+        "CharacterId": 20016
+    },
+    {
+        "CharacterId": 20017
+    },
+    {
+        "CharacterId": 20018
+    },
+    {
+        "CharacterId": 20019
+    },
+    {
+        "CharacterId": 20020
+    },
+    {
+        "CharacterId": 20021
+    },
+    {
+        "CharacterId": 20022
+    },
+    {
+        "CharacterId": 20023
+    },
+    {
+        "CharacterId": 20024
+    },
+    {
+        "CharacterId": 20025
+    },
+    {
+        "CharacterId": 20026
+    },
+    {
+        "CharacterId": 20027
+    },
+    {
+        "CharacterId": 23000
+    },
+    {
+        "CharacterId": 23001
+    },
+    {
+        "CharacterId": 23002
+    },
+    {
+        "CharacterId": 23003
+    },
+    {
+        "CharacterId": 23004
+    },
+    {
+        "CharacterId": 23005
+    },
+    {
+        "CharacterId": 23006
+    },
+    {
+        "CharacterId": 23007
+    },
+    {
+        "CharacterId": 23008
+    },
+    {
+        "CharacterId": 26000
+    },
+    {
+        "CharacterId": 26001
+    },
+    {
+        "CharacterId": 26002
+    },
+    {
+        "CharacterId": 26003
+    },
+    {
+        "CharacterId": 26004
+    },
+    {
+        "CharacterId": 26005
+    },
+    {
+        "CharacterId": 26006
+    },
+    {
+        "CharacterId": 26007
+    },
+    {
+        "CharacterId": 26008
+    },
+    {
+        "CharacterId": 26009
+    },
+    {
+        "CharacterId": 26010
+    },
+    {
+        "CharacterId": 10073
+    },
+    {
+        "CharacterId": 10074
+    },
+    {
+        "CharacterId": 16013
+    },
+    {
+        "CharacterId": 20028
+    },
+    {
+        "CharacterId": 20029
+    },
+    {
+        "CharacterId": 10075
+    },
+    {
+        "CharacterId": 10076
+    },
+    {
+        "CharacterId": 13013
+    },
+    {
+        "CharacterId": 20030
+    },
+    {
+        "CharacterId": 10077
+    },
+    {
+        "CharacterId": 10078
+    },
+    {
+        "CharacterId": 20031
+    },
+    {
+        "CharacterId": 10079
+    },
+    {
+        "CharacterId": 10080
+    },
+    {
+        "CharacterId": 10081
+    },
+    {
+        "CharacterId": 26011
+    },
+    {
+        "CharacterId": 10082
+    },
+    {
+        "CharacterId": 10083
+    },
+    {
+        "CharacterId": 20032
+    },
+    {
+        "CharacterId": 10084
+    },
+    {
+        "CharacterId": 10085
+    },
+    {
+        "CharacterId": 10086
+    },
+    {
+        "CharacterId": 10087
+    },
+    {
+        "CharacterId": 16014
+    },
+    {
+        "CharacterId": 20033
+    },
+    {
+        "CharacterId": 10088
+    },
+    {
+        "CharacterId": 10089
+    },
+    {
+        "CharacterId": 20034
+    },
+    {
+        "CharacterId": 10090
+    },
+    {
+        "CharacterId": 20035
+    },
+    {
+        "CharacterId": 10091
+    },
+    {
+        "CharacterId": 10092
+    },
+    {
+        "CharacterId": 10093
+    },
+    {
+        "CharacterId": 16015
+    },
+    {
+        "CharacterId": 10094
+    },
+    {
+        "CharacterId": 10095
+    },
+    {
+        "CharacterId": 20036
+    },
+    {
+        "CharacterId": 10096
+    },
+    {
+        "CharacterId": 10097
+    },
+    {
+        "CharacterId": 20037
+    },
+    {
+        "CharacterId": 26012
+    },
+    {
+        "CharacterId": 10098
+    },
+    {
+        "CharacterId": 10099
+    },
+    {
+        "CharacterId": 10100
+    },
+    {
+        "CharacterId": 10101
+    },
+    {
+        "CharacterId": 10102
+    },
+    {
+        "CharacterId": 26013
+    },
+    {
+        "CharacterId": 10103
+    },
+    {
+        "CharacterId": 20038
+    },
+    {
+        "CharacterId": 10104
+    },
+    {
+        "CharacterId": 20039
+    },
+    {
+        "CharacterId": 10105
+    },
+    {
+        "CharacterId": 10106
+    },
+    {
+        "CharacterId": 16016
+    },
+    {
+        "CharacterId": 10107
+    },
+    {
+        "CharacterId": 20040
+    },
+    {
+        "CharacterId": 10108
+    },
+    {
+        "CharacterId": 10109
+    },
+    {
+        "CharacterId": 10110
+    },
+    {
+        "CharacterId": 10111
+    },
+    {
+        "CharacterId": 10112
+    },
+    {
+        "CharacterId": 20041
+    },
+    {
+        "CharacterId": 20042
+    },
+    {
+        "CharacterId": 26014
+    },
+    {
+        "CharacterId": 10113
+    },
+    {
+        "CharacterId": 10114
+    },
+    {
+        "CharacterId": 20043
+    },
+    {
+        "CharacterId": 10115
+    },
+    {
+        "CharacterId": 10116
+    },
+    {
+        "CharacterId": 20044
+    },
+    {
+        "CharacterId": 10117
+    },
+    {
+        "CharacterId": 10118
+    },
+    {
+        "CharacterId": 16017
+    },
+    {
+        "CharacterId": 20045
+    },
+    {
+        "CharacterId": 10119
+    },
+    {
+        "CharacterId": 10120
+    },
+    {
+        "CharacterId": 20046
+    }
+]

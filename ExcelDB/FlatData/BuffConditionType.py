@@ -1,0 +1,5 @@
+class BuffConditionType:
+    All = 0
+    Character = 1
+    School = 2
+    Weapon = 3

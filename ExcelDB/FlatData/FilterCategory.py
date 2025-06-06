@@ -1,0 +1,10 @@
+class FilterCategory:
+    Character = 0
+    Equipment = 1
+    Item = 2
+    Craft = 3
+    ShiftCraft = 4
+    Shop = 5
+    MemoryLobby = 6
+    Trophy = 7
+    Emblem = 8

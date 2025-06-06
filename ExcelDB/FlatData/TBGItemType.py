@@ -1,0 +1,10 @@
+class TBGItemType:
+    None_ = 0
+    Dice = 1
+    Heal = 2
+    HealExpansion = 3
+    Defence = 4
+    Guide = 5
+    DiceResultValue = 6
+    DefenceCritical = 7
+    DiceResultConfirm = 8

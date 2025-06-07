@@ -1,54 +1,41 @@
 [
     {
-        "EventContentId": 814,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f070c40>"
+        "EventContentId": 814
     },
     {
-        "EventContentId": 701,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f072fb0>"
+        "EventContentId": 701
     },
     {
-        "EventContentId": 821,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f072350>"
+        "EventContentId": 821
     },
     {
-        "EventContentId": 822,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f073a90>"
+        "EventContentId": 822
     },
     {
-        "EventContentId": 823,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113ae6f0d0>"
+        "EventContentId": 823
     },
     {
-        "EventContentId": 824,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113b58ed10>"
+        "EventContentId": 824
     },
     {
-        "EventContentId": 843,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5d20>"
+        "EventContentId": 843
     },
     {
-        "EventContentId": 10814,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6650>"
+        "EventContentId": 10814
     },
     {
-        "EventContentId": 900701,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6e30>"
+        "EventContentId": 900701
     },
     {
-        "EventContentId": 900814,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f4670>"
+        "EventContentId": 900814
     },
     {
-        "EventContentId": 70001,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7970>"
+        "EventContentId": 70001
     },
     {
-        "EventContentId": 70002,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f4a30>"
+        "EventContentId": 70002
     },
     {
-        "EventContentId": 70003,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7010>"
+        "EventContentId": 70003
     }
 ]

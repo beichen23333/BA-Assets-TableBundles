@@ -1,22 +1,17 @@
 [
     {
-        "Id": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d720>"
+        "Id": 1
     },
     {
-        "Id": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ce80>"
+        "Id": 2
     },
     {
-        "Id": 10,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ca90>"
+        "Id": 10
     },
     {
-        "Id": 20,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c4f0>"
+        "Id": 20
     },
     {
-        "Id": 30,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f040>"
+        "Id": 30
     }
 ]

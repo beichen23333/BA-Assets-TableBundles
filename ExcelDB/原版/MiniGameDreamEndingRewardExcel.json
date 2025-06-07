@@ -1,42 +1,34 @@
 [
     {
         "EventContentId": 836,
-        "EndingId": 100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f4340>"
+        "EndingId": 100
     },
     {
         "EventContentId": 836,
-        "EndingId": 200,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5720>"
+        "EndingId": 200
     },
     {
         "EventContentId": 836,
-        "EndingId": 100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f072d70>"
+        "EndingId": 100
     },
     {
         "EventContentId": 836,
-        "EndingId": 200,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0702b0>"
+        "EndingId": 200
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0712d0>"
+        "EndingId": 10100
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10200,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f073940>"
+        "EndingId": 10200
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f2e0>"
+        "EndingId": 10100
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10200,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d300>"
+        "EndingId": 10200
     }
 ]

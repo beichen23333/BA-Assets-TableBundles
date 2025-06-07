@@ -2,67 +2,56 @@
     {
         "EventContentId": 846,
         "UniqueId": 101,
-        "MapGroupId": 100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0713f0>"
+        "MapGroupId": 100
     },
     {
         "EventContentId": 846,
         "UniqueId": 201,
-        "MapGroupId": 200,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22cd00>"
+        "MapGroupId": 200
     },
     {
         "EventContentId": 846,
         "UniqueId": 301,
-        "MapGroupId": 300,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c460>"
+        "MapGroupId": 300
     },
     {
         "EventContentId": 846,
         "UniqueId": 401,
-        "MapGroupId": 400,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c160>"
+        "MapGroupId": 400
     },
     {
         "EventContentId": 846,
         "UniqueId": 501,
-        "MapGroupId": 500,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b12d0>"
+        "MapGroupId": 500
     },
     {
         "EventContentId": 846,
         "UniqueId": 601,
-        "MapGroupId": 600,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a6b0>"
+        "MapGroupId": 600
     },
     {
         "EventContentId": 846,
         "UniqueId": 702,
-        "MapGroupId": 700,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41ba90>"
+        "MapGroupId": 700
     },
     {
         "EventContentId": 846,
         "UniqueId": 703,
-        "MapGroupId": 700,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f041c30>"
+        "MapGroupId": 700
     },
     {
         "EventContentId": 846,
         "UniqueId": 704,
-        "MapGroupId": 700,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7665c0>"
+        "MapGroupId": 700
     },
     {
         "EventContentId": 846,
         "UniqueId": 705,
-        "MapGroupId": 700,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a764460>"
+        "MapGroupId": 700
     },
     {
         "EventContentId": 846,
         "UniqueId": 706,
-        "MapGroupId": 700,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d4a60>"
+        "MapGroupId": 700
     }
 ]

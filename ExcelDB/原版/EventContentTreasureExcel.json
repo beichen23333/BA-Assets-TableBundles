@@ -1,22 +1,17 @@
 [
     {
-        "EventContentId": 60007,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b0c70>"
+        "EventContentId": 60007
     },
     {
-        "EventContentId": 60008,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2b90>"
+        "EventContentId": 60008
     },
     {
-        "EventContentId": 840,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ec910>"
+        "EventContentId": 840
     },
     {
-        "EventContentId": 842,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7efd30>"
+        "EventContentId": 842
     },
     {
-        "EventContentId": 60012,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ecd00>"
+        "EventContentId": 60012
     }
 ]

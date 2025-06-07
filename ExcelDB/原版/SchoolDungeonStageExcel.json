@@ -1,50 +1,38 @@
 [
     {
-        "StageId": 60101,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2a9a50>"
+        "StageId": 60101
     },
     {
-        "StageId": 60102,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1300>"
+        "StageId": 60102
     },
     {
-        "StageId": 60103,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e36d0>"
+        "StageId": 60103
     },
     {
-        "StageId": 60104,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4bc040>"
+        "StageId": 60104
     },
     {
-        "StageId": 60201,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd090>"
+        "StageId": 60201
     },
     {
-        "StageId": 60202,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4bdd20>"
+        "StageId": 60202
     },
     {
-        "StageId": 60203,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4bf790>"
+        "StageId": 60203
     },
     {
-        "StageId": 60204,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a743b20>"
+        "StageId": 60204
     },
     {
-        "StageId": 60301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4bf040>"
+        "StageId": 60301
     },
     {
-        "StageId": 60302,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4bd630>"
+        "StageId": 60302
     },
     {
-        "StageId": 60303,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4befb0>"
+        "StageId": 60303
     },
     {
-        "StageId": 60304,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2230>"
+        "StageId": 60304
     }
 ]

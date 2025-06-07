@@ -3,56 +3,48 @@
         "ContentType": 17,
         "EventContentId": 821,
         "ScenarioModeVolume": 0,
-        "ScenarioModeChapter": 0,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2abeb0>"
+        "ScenarioModeChapter": 0
     },
     {
         "ContentType": 15,
         "EventContentId": 0,
         "ScenarioModeVolume": 100,
-        "ScenarioModeChapter": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2a8250>"
+        "ScenarioModeChapter": 2
     },
     {
         "ContentType": 11,
         "EventContentId": 822,
         "ScenarioModeVolume": 0,
-        "ScenarioModeChapter": 0,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2aae60>"
+        "ScenarioModeChapter": 0
     },
     {
         "ContentType": 15,
         "EventContentId": 0,
         "ScenarioModeVolume": 100,
-        "ScenarioModeChapter": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f42e0>"
+        "ScenarioModeChapter": 3
     },
     {
         "ContentType": 17,
         "EventContentId": 823,
         "ScenarioModeVolume": 0,
-        "ScenarioModeChapter": 0,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0580>"
+        "ScenarioModeChapter": 0
     },
     {
         "ContentType": 15,
         "EventContentId": 0,
         "ScenarioModeVolume": 100,
-        "ScenarioModeChapter": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3610>"
+        "ScenarioModeChapter": 4
     },
     {
         "ContentType": 11,
         "EventContentId": 50822,
         "ScenarioModeVolume": 0,
-        "ScenarioModeChapter": 0,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3d00>"
+        "ScenarioModeChapter": 0
     },
     {
         "ContentType": 15,
         "EventContentId": 0,
         "ScenarioModeVolume": 100,
-        "ScenarioModeChapter": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e08e0>"
+        "ScenarioModeChapter": 3
     }
 ]

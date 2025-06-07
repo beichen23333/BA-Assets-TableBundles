@@ -1,38 +1,29 @@
 [
     {
-        "Id": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa5a530>"
+        "Id": 1
     },
     {
-        "Id": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa5acb0>"
+        "Id": 2
     },
     {
-        "Id": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa59a50>"
+        "Id": 3
     },
     {
-        "Id": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa5be50>"
+        "Id": 4
     },
     {
-        "Id": 5,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b0cd0>"
+        "Id": 5
     },
     {
-        "Id": 6,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2a9e40>"
+        "Id": 6
     },
     {
-        "Id": 7,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2a8bb0>"
+        "Id": 7
     },
     {
-        "Id": 8,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2a9600>"
+        "Id": 8
     },
     {
-        "Id": 9,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2a9870>"
+        "Id": 9
     }
 ]

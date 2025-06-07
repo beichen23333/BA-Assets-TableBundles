@@ -1,10 +1,8 @@
 [
     {
-        "ServiceActionType": 0,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27550>"
+        "ServiceActionType": 0
     },
     {
-        "ServiceActionType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a418f40>"
+        "ServiceActionType": 1
     }
 ]

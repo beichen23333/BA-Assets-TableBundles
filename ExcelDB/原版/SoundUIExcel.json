@@ -1,26 +1,20 @@
 [
     {
-        "SoundUniqueId": "BUTTON_CLICK",
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2320>"
+        "SoundUniqueId": "BUTTON_CLICK"
     },
     {
-        "SoundUniqueId": "BACK_BUTTON_CLICK",
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0e80>"
+        "SoundUniqueId": "BACK_BUTTON_CLICK"
     },
     {
-        "SoundUniqueId": "BUTTON_MUTE",
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1d80>"
+        "SoundUniqueId": "BUTTON_MUTE"
     },
     {
-        "SoundUniqueId": "BUTTON_WOOD",
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3250>"
+        "SoundUniqueId": "BUTTON_WOOD"
     },
     {
-        "SoundUniqueId": "BUTTON_MUS",
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1870>"
+        "SoundUniqueId": "BUTTON_MUS"
     },
     {
-        "SoundUniqueId": "UI_BUTTON_FIELD_M",
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1d50>"
+        "SoundUniqueId": "UI_BUTTON_FIELD_M"
     }
 ]

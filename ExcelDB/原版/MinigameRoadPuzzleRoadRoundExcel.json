@@ -3,49 +3,42 @@
         "EventContentId": 846,
         "UniqueId": 100,
         "Round": 1,
-        "MapGroupId": 100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa58ee0>"
+        "MapGroupId": 100
     },
     {
         "EventContentId": 846,
         "UniqueId": 200,
         "Round": 2,
-        "MapGroupId": 200,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa580d0>"
+        "MapGroupId": 200
     },
     {
         "EventContentId": 846,
         "UniqueId": 300,
         "Round": 3,
-        "MapGroupId": 300,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7070>"
+        "MapGroupId": 300
     },
     {
         "EventContentId": 846,
         "UniqueId": 400,
         "Round": 4,
-        "MapGroupId": 400,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5270>"
+        "MapGroupId": 400
     },
     {
         "EventContentId": 846,
         "UniqueId": 500,
         "Round": 5,
-        "MapGroupId": 500,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7580>"
+        "MapGroupId": 500
     },
     {
         "EventContentId": 846,
         "UniqueId": 600,
         "Round": 6,
-        "MapGroupId": 600,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f4c10>"
+        "MapGroupId": 600
     },
     {
         "EventContentId": 846,
         "UniqueId": 700,
         "Round": 7,
-        "MapGroupId": 700,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a743940>"
+        "MapGroupId": 700
     }
 ]

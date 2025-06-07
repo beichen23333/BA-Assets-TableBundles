@@ -1,47 +1,38 @@
 [
     {
         "SeasonId": 10,
-        "OrderNumber": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f033d30>"
+        "OrderNumber": 1
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f030910>"
+        "OrderNumber": 2
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f032890>"
+        "OrderNumber": 3
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f032920>"
+        "OrderNumber": 4
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 5,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f031a50>"
+        "OrderNumber": 5
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 6,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ef340>"
+        "OrderNumber": 6
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 7,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ef550>"
+        "OrderNumber": 7
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 8,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ed9f0>"
+        "OrderNumber": 8
     },
     {
         "SeasonId": 10,
-        "OrderNumber": 9,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7eece0>"
+        "OrderNumber": 9
     }
 ]

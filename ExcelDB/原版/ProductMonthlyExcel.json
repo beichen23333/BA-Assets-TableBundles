@@ -1,50 +1,38 @@
 [
     {
-        "Id": 100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5360>"
+        "Id": 100
     },
     {
-        "Id": 101,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6da0>"
+        "Id": 101
     },
     {
-        "Id": 102,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f8b0>"
+        "Id": 102
     },
     {
-        "Id": 103,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22efe0>"
+        "Id": 103
     },
     {
-        "Id": 104,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3d60>"
+        "Id": 104
     },
     {
-        "Id": 105,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f040100>"
+        "Id": 105
     },
     {
-        "Id": 500,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a765a20>"
+        "Id": 500
     },
     {
-        "Id": 501,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a419f60>"
+        "Id": 501
     },
     {
-        "Id": 502,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e080>"
+        "Id": 502
     },
     {
-        "Id": 503,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d6aa0>"
+        "Id": 503
     },
     {
-        "Id": 504,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ee60>"
+        "Id": 504
     },
     {
-        "Id": 505,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a418490>"
+        "Id": 505
     }
 ]

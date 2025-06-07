@@ -1,206 +1,155 @@
 [
     {
-        "GroupID": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c8e0>"
+        "GroupID": 1
     },
     {
-        "GroupID": 10001,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ffd0>"
+        "GroupID": 10001
     },
     {
-        "GroupID": 10011,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e320>"
+        "GroupID": 10011
     },
     {
-        "GroupID": 10012,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f100>"
+        "GroupID": 10012
     },
     {
-        "GroupID": 7310100,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6f50>"
+        "GroupID": 7310100
     },
     {
-        "GroupID": 824330101,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6b60>"
+        "GroupID": 824330101
     },
     {
-        "GroupID": 824330501,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f67a0>"
+        "GroupID": 824330501
     },
     {
-        "GroupID": 4000402,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f64a0>"
+        "GroupID": 4000402
     },
     {
-        "GroupID": 828130601,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7fd0>"
+        "GroupID": 828130601
     },
     {
-        "GroupID": 83001,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2ab580>"
+        "GroupID": 83001
     },
     {
-        "GroupID": 829330401,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2ab550>"
+        "GroupID": 829330401
     },
     {
-        "GroupID": 830330301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2ab250>"
+        "GroupID": 830330301
     },
     {
-        "GroupID": 83002,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8efe0>"
+        "GroupID": 83002
     },
     {
-        "GroupID": 83003,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a2ab7c0>"
+        "GroupID": 83003
     },
     {
-        "GroupID": 93,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c7c0>"
+        "GroupID": 93
     },
     {
-        "GroupID": 832330301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c4c0>"
+        "GroupID": 832330301
     },
     {
-        "GroupID": 832330401,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f2b0>"
+        "GroupID": 832330401
     },
     {
-        "GroupID": 833430301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e710>"
+        "GroupID": 833430301
     },
     {
-        "GroupID": 833430001,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d300>"
+        "GroupID": 833430001
     },
     {
-        "GroupID": 833430701,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22cb80>"
+        "GroupID": 833430701
     },
     {
-        "GroupID": 10012301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f8b0>"
+        "GroupID": 10012301
     },
     {
-        "GroupID": 19,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f071690>"
+        "GroupID": 19
     },
     {
-        "GroupID": 836330101,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0709d0>"
+        "GroupID": 836330101
     },
     {
-        "GroupID": 838430101,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f070280>"
+        "GroupID": 838430101
     },
     {
-        "GroupID": 838430201,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f072ec0>"
+        "GroupID": 838430201
     },
     {
-        "GroupID": 838430301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc280>"
+        "GroupID": 838430301
     },
     {
-        "GroupID": 838440101,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df3a0>"
+        "GroupID": 838440101
     },
     {
-        "GroupID": 838440201,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dde10>"
+        "GroupID": 838440201
     },
     {
-        "GroupID": 838440301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd630>"
+        "GroupID": 838440301
     },
     {
-        "GroupID": 838440401,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddd50>"
+        "GroupID": 838440401
     },
     {
-        "GroupID": 838450101,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dee30>"
+        "GroupID": 838450101
     },
     {
-        "GroupID": 838450201,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df880>"
+        "GroupID": 838450201
     },
     {
-        "GroupID": 838450301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddd20>"
+        "GroupID": 838450301
     },
     {
-        "GroupID": 838450401,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcd00>"
+        "GroupID": 838450401
     },
     {
-        "GroupID": 400010336,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dca30>"
+        "GroupID": 400010336
     },
     {
-        "GroupID": 839130901,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de320>"
+        "GroupID": 839130901
     },
     {
-        "GroupID": 4001,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113b58eaa0>"
+        "GroupID": 4001
     },
     {
-        "GroupID": 4002,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5deb60>"
+        "GroupID": 4002
     },
     {
-        "GroupID": 4003,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc760>"
+        "GroupID": 4003
     },
     {
-        "GroupID": 9956,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcfd0>"
+        "GroupID": 9956
     },
     {
-        "GroupID": 9957,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dfd00>"
+        "GroupID": 9957
     },
     {
-        "GroupID": 9958,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de890>"
+        "GroupID": 9958
     },
     {
-        "GroupID": 9959,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcac0>"
+        "GroupID": 9959
     },
     {
-        "GroupID": 9960,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd5a0>"
+        "GroupID": 9960
     },
     {
-        "GroupID": 9961,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dfc10>"
+        "GroupID": 9961
     },
     {
-        "GroupID": 21,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5deb90>"
+        "GroupID": 21
     },
     {
-        "GroupID": 9997,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc1c0>"
+        "GroupID": 9997
     },
     {
-        "GroupID": 9998,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41aad0>"
+        "GroupID": 9998
     },
     {
-        "GroupID": 1001,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a419030>"
+        "GroupID": 1001
     },
     {
-        "GroupID": 1002,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41ba30>"
+        "GroupID": 1002
     },
     {
-        "GroupID": 400050223,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a419a20>"
+        "GroupID": 400050223
     }
 ]

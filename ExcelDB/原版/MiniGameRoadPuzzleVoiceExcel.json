@@ -2,37 +2,31 @@
     {
         "EventContentId": 846,
         "UniqueId": 846001,
-        "VoiceCondition": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a741120>"
+        "VoiceCondition": 1
     },
     {
         "EventContentId": 846,
         "UniqueId": 846002,
-        "VoiceCondition": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a743c10>"
+        "VoiceCondition": 1
     },
     {
         "EventContentId": 846,
         "UniqueId": 846003,
-        "VoiceCondition": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a740670>"
+        "VoiceCondition": 1
     },
     {
         "EventContentId": 846,
         "UniqueId": 846101,
-        "VoiceCondition": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a740fa0>"
+        "VoiceCondition": 2
     },
     {
         "EventContentId": 846,
         "UniqueId": 846102,
-        "VoiceCondition": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a740940>"
+        "VoiceCondition": 2
     },
     {
         "EventContentId": 846,
         "UniqueId": 846103,
-        "VoiceCondition": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa590c0>"
+        "VoiceCondition": 2
     }
 ]

@@ -1,18 +1,14 @@
 [
     {
-        "MinigameDefenseFixedStatId": 100838301,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0714e0>"
+        "MinigameDefenseFixedStatId": 100838301
     },
     {
-        "MinigameDefenseFixedStatId": 100838302,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a112a10>"
+        "MinigameDefenseFixedStatId": 100838302
     },
     {
-        "MinigameDefenseFixedStatId": 100838303,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a1136a0>"
+        "MinigameDefenseFixedStatId": 100838303
     },
     {
-        "MinigameDefenseFixedStatId": 100838304,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a112b30>"
+        "MinigameDefenseFixedStatId": 100838304
     }
 ]

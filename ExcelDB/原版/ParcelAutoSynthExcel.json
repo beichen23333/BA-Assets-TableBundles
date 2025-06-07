@@ -1,92 +1,74 @@
 [
     {
         "RequireParcelType": 4,
-        "RequireParcelId": 10,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0717b0>"
+        "RequireParcelId": 10
     },
     {
         "RequireParcelType": 4,
-        "RequireParcelId": 11,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a767940>"
+        "RequireParcelId": 11
     },
     {
         "RequireParcelType": 4,
-        "RequireParcelId": 12,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82230>"
+        "RequireParcelId": 12
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4b6500>"
+        "RequireParcelId": 1
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1930>"
+        "RequireParcelId": 2
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1f30>"
+        "RequireParcelId": 3
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 10,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a112a70>"
+        "RequireParcelId": 10
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 11,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a113dc0>"
+        "RequireParcelId": 11
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 12,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a112530>"
+        "RequireParcelId": 12
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 20,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a110310>"
+        "RequireParcelId": 20
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 21,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a110340>"
+        "RequireParcelId": 21
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 22,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a111ff0>"
+        "RequireParcelId": 22
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 30,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4186a0>"
+        "RequireParcelId": 30
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 31,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41aa10>"
+        "RequireParcelId": 31
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 32,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a5f0>"
+        "RequireParcelId": 32
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 40,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b490>"
+        "RequireParcelId": 40
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 41,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a418340>"
+        "RequireParcelId": 41
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 42,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b610>"
+        "RequireParcelId": 42
     }
 ]

@@ -2,115 +2,96 @@
     {
         "EventContentId": 846,
         "UniqueId": 100,
-        "MapTileType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a766170>"
+        "MapTileType": 1
     },
     {
         "EventContentId": 846,
         "UniqueId": 200,
-        "MapTileType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a766950>"
+        "MapTileType": 2
     },
     {
         "EventContentId": 846,
         "UniqueId": 310,
-        "MapTileType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7668c0>"
+        "MapTileType": 3
     },
     {
         "EventContentId": 846,
         "UniqueId": 320,
-        "MapTileType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a766410>"
+        "MapTileType": 3
     },
     {
         "EventContentId": 846,
         "UniqueId": 330,
-        "MapTileType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f042230>"
+        "MapTileType": 3
     },
     {
         "EventContentId": 846,
         "UniqueId": 400,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a8c0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 401,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b5b0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 411,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b3a0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 412,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a419330>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 421,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b26b0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 422,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2bf0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 423,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b19c0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 431,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b25f0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 432,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b0730>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 433,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f070130>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 434,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0700a0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 435,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22ce50>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 440,
-        "MapTileType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e9b0>"
+        "MapTileType": 4
     },
     {
         "EventContentId": 846,
         "UniqueId": 500,
-        "MapTileType": 5,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e290>"
+        "MapTileType": 5
     }
 ]

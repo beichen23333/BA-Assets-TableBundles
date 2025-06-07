@@ -1,30 +1,23 @@
 [
     {
-        "Id": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41aef0>"
+        "Id": 1
     },
     {
-        "Id": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bd30>"
+        "Id": 2
     },
     {
-        "Id": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a418100>"
+        "Id": 3
     },
     {
-        "Id": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a650>"
+        "Id": 4
     },
     {
-        "Id": 5,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a4199f0>"
+        "Id": 5
     },
     {
-        "Id": 6,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a418160>"
+        "Id": 6
     },
     {
-        "Id": 9000,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a765d50>"
+        "Id": 9000
     }
 ]

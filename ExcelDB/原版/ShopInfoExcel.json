@@ -1,62 +1,47 @@
 [
     {
-        "CategoryType": 0,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7c17b0>"
+        "CategoryType": 0
     },
     {
-        "CategoryType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a7c3820>"
+        "CategoryType": 1
     },
     {
-        "CategoryType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a110e20>"
+        "CategoryType": 2
     },
     {
-        "CategoryType": 33,
-        "_tab": "<flatbuffers.table.Table object at 0x7f113a110640>"
+        "CategoryType": 33
     },
     {
-        "CategoryType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e46ad10>"
+        "CategoryType": 3
     },
     {
-        "CategoryType": 4,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e469d50>"
+        "CategoryType": 4
     },
     {
-        "CategoryType": 9,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e468e80>"
+        "CategoryType": 9
     },
     {
-        "CategoryType": 10,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f041e70>"
+        "CategoryType": 10
     },
     {
-        "CategoryType": 21,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f0431f0>"
+        "CategoryType": 21
     },
     {
-        "CategoryType": 25,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f042f50>"
+        "CategoryType": 25
     },
     {
-        "CategoryType": 20,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1270>"
+        "CategoryType": 20
     },
     {
-        "CategoryType": 26,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f043850>"
+        "CategoryType": 26
     },
     {
-        "CategoryType": 27,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112f042560>"
+        "CategoryType": 27
     },
     {
-        "CategoryType": 28,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e4691b0>"
+        "CategoryType": 28
     },
     {
-        "CategoryType": 29,
-        "_tab": "<flatbuffers.table.Table object at 0x7f112e468fd0>"
+        "CategoryType": 29
     }
 ]

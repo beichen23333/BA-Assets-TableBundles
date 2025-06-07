@@ -2,3361 +2,3361 @@
     {
         "Id": 10000,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f959c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd390>"
     },
     {
         "Id": 10000,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f947c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df3a0>"
     },
     {
         "Id": 10000,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94670>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df160>"
     },
     {
         "Id": 10001,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f0a0>"
     },
     {
         "Id": 10001,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d270>"
     },
     {
         "Id": 10001,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c040>"
     },
     {
         "Id": 10002,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a87f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cf10>"
     },
     {
         "Id": 10002,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bdf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8fdc0>"
     },
     {
         "Id": 10002,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b790>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e380>"
     },
     {
         "Id": 10003,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b730>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8dba0>"
     },
     {
         "Id": 10003,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828add0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c160>"
     },
     {
         "Id": 10003,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82897b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c250>"
     },
     {
         "Id": 10004,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc575b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22df30>"
     },
     {
         "Id": 10004,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c400>"
     },
     {
         "Id": 10004,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c040>"
     },
     {
         "Id": 10005,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57a60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113d60>"
     },
     {
         "Id": 10005,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54790>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1139d0>"
     },
     {
         "Id": 10005,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56b00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1126b0>"
     },
     {
         "Id": 10006,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113e20>"
     },
     {
         "Id": 10006,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110160>"
     },
     {
         "Id": 10006,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfa30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112920>"
     },
     {
         "Id": 10007,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd4b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419de0>"
     },
     {
         "Id": 10007,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdf60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419750>"
     },
     {
         "Id": 10007,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b130>"
     },
     {
         "Id": 10008,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fceb90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419240>"
     },
     {
         "Id": 10008,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf0a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a170>"
     },
     {
         "Id": 10008,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfb20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a140>"
     },
     {
         "Id": 10009,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcde10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46bf10>"
     },
     {
         "Id": 10009,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfb20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469030>"
     },
     {
         "Id": 10009,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcedd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468160>"
     },
     {
         "Id": 10010,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfb20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2050>"
     },
     {
         "Id": 10010,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc5e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1960>"
     },
     {
         "Id": 10010,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfb20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79990>"
     },
     {
         "Id": 10011,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6ef0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bc40>"
     },
     {
         "Id": 10011,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6e60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78190>"
     },
     {
         "Id": 10011,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b6d0>"
     },
     {
         "Id": 10012,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289e40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b310>"
     },
     {
         "Id": 10012,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7d60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79690>"
     },
     {
         "Id": 10012,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5210>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79c60>"
     },
     {
         "Id": 10013,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b45e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a290>"
     },
     {
         "Id": 10013,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5750>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78340>"
     },
     {
         "Id": 10013,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707f10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ab90>"
     },
     {
         "Id": 10014,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706aa0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bd00>"
     },
     {
         "Id": 10014,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706bf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7abf0>"
     },
     {
         "Id": 10014,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706230>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81f90>"
     },
     {
         "Id": 10015,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81ea0>"
     },
     {
         "Id": 10015,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707880>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79e40>"
     },
     {
         "Id": 10015,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707e20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d783d0>"
     },
     {
         "Id": 10016,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87068f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7aa10>"
     },
     {
         "Id": 10016,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707670>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a170>"
     },
     {
         "Id": 10016,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6b60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79e10>"
     },
     {
         "Id": 10017,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4c10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b910>"
     },
     {
         "Id": 10017,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b66b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78eb0>"
     },
     {
         "Id": 10017,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7af80>"
     },
     {
         "Id": 10018,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6890>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78d00>"
     },
     {
         "Id": 10018,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b71c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a7d0>"
     },
     {
         "Id": 10018,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6c50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a650>"
     },
     {
         "Id": 10019,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1000>"
     },
     {
         "Id": 10019,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce620>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3df0>"
     },
     {
         "Id": 10019,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce050>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46af50>"
     },
     {
         "Id": 10020,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce920>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46ae90>"
     },
     {
         "Id": 10020,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdcc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a2c0>"
     },
     {
         "Id": 10020,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcecb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4183a0>"
     },
     {
         "Id": 10021,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b370>"
     },
     {
         "Id": 10021,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b940>"
     },
     {
         "Id": 10021,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd570>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b490>"
     },
     {
         "Id": 10022,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a770>"
     },
     {
         "Id": 10022,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110a00>"
     },
     {
         "Id": 10022,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd2d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113a30>"
     },
     {
         "Id": 10023,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc6a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113310>"
     },
     {
         "Id": 10023,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc562f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1137c0>"
     },
     {
         "Id": 10023,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd840>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1125f0>"
     },
     {
         "Id": 10024,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57a60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112f50>"
     },
     {
         "Id": 10024,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc567d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110c10>"
     },
     {
         "Id": 10024,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57e80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e0b0>"
     },
     {
         "Id": 10025,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57d60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f0d0>"
     },
     {
         "Id": 10025,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57430>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f160>"
     },
     {
         "Id": 10025,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a87f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c670>"
     },
     {
         "Id": 10026,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a90c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22de40>"
     },
     {
         "Id": 10026,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b0a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e4a0>"
     },
     {
         "Id": 10026,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bcd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d360>"
     },
     {
         "Id": 10027,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a380>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e440>"
     },
     {
         "Id": 10027,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828afb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ef20>"
     },
     {
         "Id": 10027,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d720>"
     },
     {
         "Id": 10028,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a500>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ed70>"
     },
     {
         "Id": 10028,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97a30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ce50>"
     },
     {
         "Id": 10028,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f952a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113b7f6020>"
     },
     {
         "Id": 10029,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcee0>"
     },
     {
         "Id": 10029,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95510>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd4b0>"
     },
     {
         "Id": 10029,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94c70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcf10>"
     },
     {
         "Id": 10030,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96740>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddd80>"
     },
     {
         "Id": 10030,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9326e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df940>"
     },
     {
         "Id": 10030,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931ea0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df790>"
     },
     {
         "Id": 10031,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9311b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7436a0>"
     },
     {
         "Id": 10031,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9318a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79fc0>"
     },
     {
         "Id": 10031,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740670>"
     },
     {
         "Id": 10032,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873ba30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113ad546d0>"
     },
     {
         "Id": 10032,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96830>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ded40>"
     },
     {
         "Id": 10032,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8739030>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dfcd0>"
     },
     {
         "Id": 10033,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcc70>"
     },
     {
         "Id": 10033,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95a50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd000>"
     },
     {
         "Id": 10033,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94cd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddcc0>"
     },
     {
         "Id": 10034,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288880>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd6f0>"
     },
     {
         "Id": 10034,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288190>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ee30>"
     },
     {
         "Id": 10034,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ecb0>"
     },
     {
         "Id": 10035,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289d80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c4f0>"
     },
     {
         "Id": 10035,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828be50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e560>"
     },
     {
         "Id": 10035,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e410>"
     },
     {
         "Id": 10036,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0abe80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e470>"
     },
     {
         "Id": 10036,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c5b0>"
     },
     {
         "Id": 10036,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56590>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d4b0>"
     },
     {
         "Id": 10037,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22cee0>"
     },
     {
         "Id": 10037,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22eef0>"
     },
     {
         "Id": 10037,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56650>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22cc10>"
     },
     {
         "Id": 10038,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55a20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22db70>"
     },
     {
         "Id": 10038,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54f70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112bc0>"
     },
     {
         "Id": 10038,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54ac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1122c0>"
     },
     {
         "Id": 10039,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfc70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110ac0>"
     },
     {
         "Id": 10039,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfa90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110430>"
     },
     {
         "Id": 10039,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcffd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112a70>"
     },
     {
         "Id": 10040,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113400>"
     },
     {
         "Id": 10040,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccbe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112590>"
     },
     {
         "Id": 10040,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdd80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4198a0>"
     },
     {
         "Id": 10041,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcece0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4182e0>"
     },
     {
         "Id": 10041,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41ab90>"
     },
     {
         "Id": 10041,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce0e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419fc0>"
     },
     {
         "Id": 10042,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce230>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41be20>"
     },
     {
         "Id": 10042,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd3c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46bbb0>"
     },
     {
         "Id": 10042,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc0a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b670>"
     },
     {
         "Id": 10043,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5b40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b580>"
     },
     {
         "Id": 10043,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289330>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3df0>"
     },
     {
         "Id": 10043,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6980>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e30d0>"
     },
     {
         "Id": 10044,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4bb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79120>"
     },
     {
         "Id": 10044,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b42b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78e80>"
     },
     {
         "Id": 10044,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b55d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b4f0>"
     },
     {
         "Id": 10045,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7460>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b880>"
     },
     {
         "Id": 10045,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4e80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b6d0>"
     },
     {
         "Id": 10045,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87067a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b130>"
     },
     {
         "Id": 10046,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705cc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b790>"
     },
     {
         "Id": 10046,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87076d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7aec0>"
     },
     {
         "Id": 10046,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932ef0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79180>"
     },
     {
         "Id": 10047,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7be50>"
     },
     {
         "Id": 10047,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932680>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bfd0>"
     },
     {
         "Id": 10047,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931660>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742560>"
     },
     {
         "Id": 10048,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931f30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740880>"
     },
     {
         "Id": 10048,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f010>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7435b0>"
     },
     {
         "Id": 10048,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932440>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a980>"
     },
     {
         "Id": 10049,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931240>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7be80>"
     },
     {
         "Id": 10049,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931bd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d785b0>"
     },
     {
         "Id": 10049,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931090>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ac20>"
     },
     {
         "Id": 10050,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87067d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79f30>"
     },
     {
         "Id": 10050,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87067a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b940>"
     },
     {
         "Id": 10050,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706020>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b850>"
     },
     {
         "Id": 10051,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4e80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d788e0>"
     },
     {
         "Id": 10051,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b430>"
     },
     {
         "Id": 10051,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5ae0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78fd0>"
     },
     {
         "Id": 10052,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b43d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79ea0>"
     },
     {
         "Id": 10052,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b75e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1e40>"
     },
     {
         "Id": 10052,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b64a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469f90>"
     },
     {
         "Id": 10053,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b57b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46beb0>"
     },
     {
         "Id": 10053,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4a60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469360>"
     },
     {
         "Id": 10053,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fceb60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418670>"
     },
     {
         "Id": 10054,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419de0>"
     },
     {
         "Id": 10054,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfbe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4182e0>"
     },
     {
         "Id": 10054,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931240>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418cd0>"
     },
     {
         "Id": 10055,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd6c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418bb0>"
     },
     {
         "Id": 10055,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd1e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112590>"
     },
     {
         "Id": 10055,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdc90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112a40>"
     },
     {
         "Id": 10056,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce860>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112500>"
     },
     {
         "Id": 10056,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110580>"
     },
     {
         "Id": 10056,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce560>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79a20>"
     },
     {
         "Id": 10057,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc670>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1123b0>"
     },
     {
         "Id": 10057,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcedd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110fa0>"
     },
     {
         "Id": 10057,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56bf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22df30>"
     },
     {
         "Id": 10058,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55960>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d9f0>"
     },
     {
         "Id": 10058,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55630>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d990>"
     },
     {
         "Id": 10058,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f1f0>"
     },
     {
         "Id": 10059,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e6b0>"
     },
     {
         "Id": 10059,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc542e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e9b0>"
     },
     {
         "Id": 10059,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56e30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d0c0>"
     },
     {
         "Id": 10060,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aa740>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d4e0>"
     },
     {
         "Id": 10060,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab550>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e530>"
     },
     {
         "Id": 10060,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288a30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c880>"
     },
     {
         "Id": 10061,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82892d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f580>"
     },
     {
         "Id": 10061,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ca30>"
     },
     {
         "Id": 10061,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bbe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ce50>"
     },
     {
         "Id": 10062,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828af20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcf70>"
     },
     {
         "Id": 10062,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dfc10>"
     },
     {
         "Id": 10062,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f970d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de260>"
     },
     {
         "Id": 10063,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcf10>"
     },
     {
         "Id": 10063,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95240>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de980>"
     },
     {
         "Id": 10063,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97ca0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dff40>"
     },
     {
         "Id": 10064,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94c40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740310>"
     },
     {
         "Id": 10064,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96740>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743a00>"
     },
     {
         "Id": 10064,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f0a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740af0>"
     },
     {
         "Id": 10065,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875cd30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743ca0>"
     },
     {
         "Id": 10065,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96800>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741870>"
     },
     {
         "Id": 10065,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95f30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7423b0>"
     },
     {
         "Id": 10066,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7435b0>"
     },
     {
         "Id": 10066,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97fd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df6a0>"
     },
     {
         "Id": 10066,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f975e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd510>"
     },
     {
         "Id": 10067,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95c90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de080>"
     },
     {
         "Id": 10067,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288460>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd1b0>"
     },
     {
         "Id": 10067,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82899f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df490>"
     },
     {
         "Id": 10068,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289810>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd6f0>"
     },
     {
         "Id": 10068,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828ac50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f580>"
     },
     {
         "Id": 10068,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bf40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d930>"
     },
     {
         "Id": 10069,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aaad0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8da50>"
     },
     {
         "Id": 10069,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8eb00>"
     },
     {
         "Id": 10069,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c2e0>"
     },
     {
         "Id": 10070,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55750>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8df00>"
     },
     {
         "Id": 10070,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54880>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f5b0>"
     },
     {
         "Id": 10070,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55630>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e980>"
     },
     {
         "Id": 10071,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56bc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22fdf0>"
     },
     {
         "Id": 10071,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55d80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22ebf0>"
     },
     {
         "Id": 10071,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56e00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c5b0>"
     },
     {
         "Id": 10072,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f490>"
     },
     {
         "Id": 10072,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd540>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110df0>"
     },
     {
         "Id": 10072,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce350>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112bf0>"
     },
     {
         "Id": 10073,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd6f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112d10>"
     },
     {
         "Id": 10073,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289480>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1131c0>"
     },
     {
         "Id": 10073,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110490>"
     },
     {
         "Id": 10074,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd1b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1107c0>"
     },
     {
         "Id": 10074,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccd60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113370>"
     },
     {
         "Id": 10074,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfca0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a470>"
     },
     {
         "Id": 10075,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bd30>"
     },
     {
         "Id": 10075,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccd30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a350>"
     },
     {
         "Id": 10075,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdb10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b130>"
     },
     {
         "Id": 10076,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6560>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b610>"
     },
     {
         "Id": 10076,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b48e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469b10>"
     },
     {
         "Id": 10076,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468400>"
     },
     {
         "Id": 10077,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7bb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469420>"
     },
     {
         "Id": 10077,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b66e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1e40>"
     },
     {
         "Id": 10077,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4c40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3940>"
     },
     {
         "Id": 10078,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78f40>"
     },
     {
         "Id": 10078,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4b80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b370>"
     },
     {
         "Id": 10078,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705e40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a0b0>"
     },
     {
         "Id": 10079,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87066b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ac20>"
     },
     {
         "Id": 10079,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706650>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a3b0>"
     },
     {
         "Id": 10079,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78a30>"
     },
     {
         "Id": 10080,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932d40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79690>"
     },
     {
         "Id": 10080,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a680>"
     },
     {
         "Id": 10080,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79660>"
     },
     {
         "Id": 10081,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930f10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bfd0>"
     },
     {
         "Id": 10081,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875d1e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072a10>"
     },
     {
         "Id": 10081,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81089d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f073820>"
     },
     {
         "Id": 10082,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f010>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b1c0>"
     },
     {
         "Id": 10082,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9305b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a7a0>"
     },
     {
         "Id": 10082,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9332b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78d60>"
     },
     {
         "Id": 10083,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932830>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7be20>"
     },
     {
         "Id": 10083,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931660>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b2e0>"
     },
     {
         "Id": 10083,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706d10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b0d0>"
     },
     {
         "Id": 10084,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706620>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ab00>"
     },
     {
         "Id": 10084,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a560>"
     },
     {
         "Id": 10084,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5c90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79c60>"
     },
     {
         "Id": 10085,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b52d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b730>"
     },
     {
         "Id": 10085,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7ac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1120>"
     },
     {
         "Id": 10085,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6050>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468760>"
     },
     {
         "Id": 10086,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b41c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a3b0>"
     },
     {
         "Id": 10086,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b56c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46af50>"
     },
     {
         "Id": 10086,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4430>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4198a0>"
     },
     {
         "Id": 10087,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b3a0>"
     },
     {
         "Id": 10087,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce680>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a8c0>"
     },
     {
         "Id": 10087,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce0b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bd90>"
     },
     {
         "Id": 10088,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fced70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4194b0>"
     },
     {
         "Id": 10088,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd180>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419240>"
     },
     {
         "Id": 10088,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9316f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113700>"
     },
     {
         "Id": 10089,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdf00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113070>"
     },
     {
         "Id": 10089,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcff70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112b30>"
     },
     {
         "Id": 10089,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc700>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1119f0>"
     },
     {
         "Id": 10090,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccb80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113d30>"
     },
     {
         "Id": 10090,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc400>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113280>"
     },
     {
         "Id": 10090,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccdf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f490>"
     },
     {
         "Id": 10091,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f6a0>"
     },
     {
         "Id": 10091,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54400>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1960>"
     },
     {
         "Id": 10091,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc566e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22fbe0>"
     },
     {
         "Id": 10092,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc557b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c130>"
     },
     {
         "Id": 10092,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54c40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f2e0>"
     },
     {
         "Id": 10092,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54a30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f550>"
     },
     {
         "Id": 10093,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55e10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d780>"
     },
     {
         "Id": 10093,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57fd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8de10>"
     },
     {
         "Id": 10093,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9000>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ebc0>"
     },
     {
         "Id": 10094,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab550>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d5a0>"
     },
     {
         "Id": 10094,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289c90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c130>"
     },
     {
         "Id": 10094,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828add0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79990>"
     },
     {
         "Id": 10095,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a9e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113ad546d0>"
     },
     {
         "Id": 10095,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289d50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4199c0>"
     },
     {
         "Id": 10095,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b4c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd480>"
     },
     {
         "Id": 10096,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82897e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddb70>"
     },
     {
         "Id": 10096,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94cd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd840>"
     },
     {
         "Id": 10096,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95120>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dedd0>"
     },
     {
         "Id": 10097,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96620>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd990>"
     },
     {
         "Id": 10097,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94730>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7406a0>"
     },
     {
         "Id": 10097,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f968c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7431c0>"
     },
     {
         "Id": 10098,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743af0>"
     },
     {
         "Id": 10098,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81086a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7580>"
     },
     {
         "Id": 10098,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b9764f70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742050>"
     },
     {
         "Id": 10099,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95ba0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743e80>"
     },
     {
         "Id": 10099,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94a00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddc30>"
     },
     {
         "Id": 10099,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96680>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de350>"
     },
     {
         "Id": 10100,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddf90>"
     },
     {
         "Id": 10100,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b86aedd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df580>"
     },
     {
         "Id": 10100,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81089d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd7e0>"
     },
     {
         "Id": 10101,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a1a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dddb0>"
     },
     {
         "Id": 10101,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289210>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ce50>"
     },
     {
         "Id": 10101,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ceb0>"
     },
     {
         "Id": 10102,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828afb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ce80>"
     },
     {
         "Id": 10102,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab4c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8caf0>"
     },
     {
         "Id": 10102,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9240>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f910>"
     },
     {
         "Id": 10103,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54b50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cc40>"
     },
     {
         "Id": 10103,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc556c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c6d0>"
     },
     {
         "Id": 10103,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55270>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c2e0>"
     },
     {
         "Id": 10104,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57ee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d840>"
     },
     {
         "Id": 10104,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56d10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e6b0>"
     },
     {
         "Id": 10104,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7406a0>"
     },
     {
         "Id": 10105,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22eb00>"
     },
     {
         "Id": 10105,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd4b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c040>"
     },
     {
         "Id": 10105,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce320>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110c10>"
     },
     {
         "Id": 10106,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf940>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1113c0>"
     },
     {
         "Id": 10106,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcead0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113820>"
     },
     {
         "Id": 10106,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf3a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1104c0>"
     },
     {
         "Id": 10107,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcec20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113a00>"
     },
     {
         "Id": 10107,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd960>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112920>"
     },
     {
         "Id": 10107,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd9c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110e20>"
     },
     {
         "Id": 10108,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7406d0>"
     },
     {
         "Id": 10108,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41ab30>"
     },
     {
         "Id": 10108,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd210>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bca0>"
     },
     {
         "Id": 10109,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418fd0>"
     },
     {
         "Id": 10109,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41ace0>"
     },
     {
         "Id": 10109,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5090>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b550>"
     },
     {
         "Id": 10110,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5a20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469210>"
     },
     {
         "Id": 10110,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5630>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468160>"
     },
     {
         "Id": 10110,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6920>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1e10>"
     },
     {
         "Id": 10111,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d788e0>"
     },
     {
         "Id": 10111,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b160>"
     },
     {
         "Id": 10111,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87067d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78550>"
     },
     {
         "Id": 10112,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706290>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79240>"
     },
     {
         "Id": 10112,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87070a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d780d0>"
     },
     {
         "Id": 10112,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87069e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468760>"
     },
     {
         "Id": 10113,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931660>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b760>"
     },
     {
         "Id": 10113,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9307c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d795d0>"
     },
     {
         "Id": 10113,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931810>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b7c0>"
     },
     {
         "Id": 10114,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933ee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bb50>"
     },
     {
         "Id": 10114,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c790>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d787c0>"
     },
     {
         "Id": 10114,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44c70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7790>"
     },
     {
         "Id": 10115,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56bc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1aed10>"
     },
     {
         "Id": 10115,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f56f0>"
     },
     {
         "Id": 10115,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931e40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79db0>"
     },
     {
         "Id": 10116,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932380>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79ba0>"
     },
     {
         "Id": 10116,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931f60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ac80>"
     },
     {
         "Id": 10116,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9326e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b8b0>"
     },
     {
         "Id": 10117,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706e60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a5c0>"
     },
     {
         "Id": 10117,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707fd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79b10>"
     },
     {
         "Id": 10117,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706bf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d792a0>"
     },
     {
         "Id": 10118,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6ec0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79150>"
     },
     {
         "Id": 10118,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b310>"
     },
     {
         "Id": 10118,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6260>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1e40>"
     },
     {
         "Id": 10119,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3760>"
     },
     {
         "Id": 10119,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5f90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46bf40>"
     },
     {
         "Id": 10119,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469ae0>"
     },
     {
         "Id": 10120,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5960>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a2c0>"
     },
     {
         "Id": 10120,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419630>"
     },
     {
         "Id": 10120,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418b50>"
     },
     {
         "Id": 13000,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419780>"
     },
     {
         "Id": 13000,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccc70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41af20>"
     },
     {
         "Id": 13000,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd420>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b400>"
     },
     {
         "Id": 13001,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc7f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111120>"
     },
     {
         "Id": 13001,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd360>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110400>"
     },
     {
         "Id": 13001,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdf00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110430>"
     },
     {
         "Id": 13002,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcca30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112dd0>"
     },
     {
         "Id": 13002,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc940>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110c10>"
     },
     {
         "Id": 13002,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccd00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112a40>"
     },
     {
         "Id": 13003,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf4c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c460>"
     },
     {
         "Id": 13003,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57ee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22ca90>"
     },
     {
         "Id": 13003,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54f70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d2d0>"
     },
     {
         "Id": 13004,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56350>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e440>"
     },
     {
         "Id": 13004,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc572e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f160>"
     },
     {
         "Id": 13004,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55870>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c970>"
     },
     {
         "Id": 13005,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e5f0>"
     },
     {
         "Id": 13005,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56ef0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e320>"
     },
     {
         "Id": 13005,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57430>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8fca0>"
     },
     {
         "Id": 13006,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a87f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f1c0>"
     },
     {
         "Id": 13006,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aab00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1104c0>"
     },
     {
         "Id": 13006,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828afb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f790>"
     },
     {
         "Id": 13007,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d720>"
     },
     {
         "Id": 13007,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828ac80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dff10>"
     },
     {
         "Id": 13007,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bdf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de230>"
     },
     {
         "Id": 13008,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df3d0>"
     },
     {
         "Id": 13008,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de860>"
     },
     {
         "Id": 13008,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de2c0>"
     },
     {
         "Id": 13009,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96260>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd720>"
     },
     {
         "Id": 13009,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f973d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df760>"
     },
     {
         "Id": 13009,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f956f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741540>"
     },
     {
         "Id": 13010,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96b00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742860>"
     },
     {
         "Id": 13010,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56110>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78520>"
     },
     {
         "Id": 13010,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b86aedd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7700>"
     },
     {
         "Id": 13011,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875cf10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7160>"
     },
     {
         "Id": 13011,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875dff0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7760>"
     },
     {
         "Id": 13011,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ee60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072980>"
     },
     {
         "Id": 13012,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9335b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f070e50>"
     },
     {
         "Id": 13012,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9334c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7435b0>"
     },
     {
         "Id": 13012,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931cc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743e80>"
     },
     {
         "Id": 13013,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9330d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743f40>"
     },
     {
         "Id": 13013,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9323b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740d30>"
     },
     {
         "Id": 13013,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7421a0>"
     },
     {
         "Id": 16000,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933460>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7402e0>"
     },
     {
         "Id": 16000,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace579a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743520>"
     },
     {
         "Id": 16000,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215ab0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f1f0>"
     },
     {
         "Id": 16001,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87069e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f4f0>"
     },
     {
         "Id": 16001,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706a40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c220>"
     },
     {
         "Id": 16001,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707280>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f190>"
     },
     {
         "Id": 16002,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87070a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e110>"
     },
     {
         "Id": 16002,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6260>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41af20>"
     },
     {
         "Id": 16002,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7460>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b370>"
     },
     {
         "Id": 16003,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b53c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4192a0>"
     },
     {
         "Id": 16003,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6cb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418eb0>"
     },
     {
         "Id": 16003,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b47f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419fc0>"
     },
     {
         "Id": 16004,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b160>"
     },
     {
         "Id": 16004,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4550>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79a20>"
     },
     {
         "Id": 16004,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79270>"
     },
     {
         "Id": 16005,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc552a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79cc0>"
     },
     {
         "Id": 16005,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54c40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b370>"
     },
     {
         "Id": 16005,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56e90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bc10>"
     },
     {
         "Id": 16006,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55090>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79060>"
     },
     {
         "Id": 16006,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78940>"
     },
     {
         "Id": 16006,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57400>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ac50>"
     },
     {
         "Id": 16007,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ba30>"
     },
     {
         "Id": 16007,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44fd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79fc0>"
     },
     {
         "Id": 16007,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47f40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1112a0>"
     },
     {
         "Id": 16008,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44d60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1120e0>"
     },
     {
         "Id": 16008,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a460b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110cd0>"
     },
     {
         "Id": 16008,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44f10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1102b0>"
     },
     {
         "Id": 16009,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1111e0>"
     },
     {
         "Id": 16009,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a447c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112500>"
     },
     {
         "Id": 16009,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcea40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f580>"
     },
     {
         "Id": 16010,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fceb00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ee60>"
     },
     {
         "Id": 16010,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc6a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f700>"
     },
     {
         "Id": 16010,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfe50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d3c0>"
     },
     {
         "Id": 16011,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf700>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e620>"
     },
     {
         "Id": 16011,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcee30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cd90>"
     },
     {
         "Id": 16011,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdf90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d000>"
     },
     {
         "Id": 16012,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8efb0>"
     },
     {
         "Id": 16012,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce620>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8fdf0>"
     },
     {
         "Id": 16012,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdc30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ae0e0>"
     },
     {
         "Id": 16013,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd150>"
     },
     {
         "Id": 16013,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47be0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1aca30>"
     },
     {
         "Id": 16013,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a450c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ca90>"
     },
     {
         "Id": 16014,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a447f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f2e0>"
     },
     {
         "Id": 16014,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47ac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8eec0>"
     },
     {
         "Id": 16014,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e680>"
     },
     {
         "Id": 16015,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46b00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c1c0>"
     },
     {
         "Id": 16015,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cf70>"
     },
     {
         "Id": 16015,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c7c0>"
     },
     {
         "Id": 16016,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f3d0>"
     },
     {
         "Id": 16016,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55cf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110160>"
     },
     {
         "Id": 16016,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55a50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1121d0>"
     },
     {
         "Id": 16017,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55d20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113310>"
     },
     {
         "Id": 16017,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1132b0>"
     },
     {
         "Id": 16017,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54190>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1101c0>"
     },
     {
         "Id": 20000,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6e60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113130>"
     },
     {
         "Id": 20000,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78220>"
     },
     {
         "Id": 20000,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6b00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a4a0>"
     },
     {
         "Id": 20001,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b68c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78340>"
     },
     {
         "Id": 20001,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5090>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d790c0>"
     },
     {
         "Id": 20001,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a440>"
     },
     {
         "Id": 20002,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4bb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78a90>"
     },
     {
         "Id": 20002,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706c20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b3d0>"
     },
     {
         "Id": 20002,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706140>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d790f0>"
     },
     {
         "Id": 20003,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706b60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b160>"
     },
     {
         "Id": 20003,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706bf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b460>"
     },
     {
         "Id": 20003,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82172e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41be20>"
     },
     {
         "Id": 20004,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace568f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a170>"
     },
     {
         "Id": 20004,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b1c0>"
     },
     {
         "Id": 20004,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9304f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b820>"
     },
     {
         "Id": 20005,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931ed0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4183a0>"
     },
     {
         "Id": 20005,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932c80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f490>"
     },
     {
         "Id": 20005,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c190>"
     },
     {
         "Id": 20006,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22ce50>"
     },
     {
         "Id": 20006,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932830>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f640>"
     },
     {
         "Id": 20006,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ee60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22fbe0>"
     },
     {
         "Id": 20007,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741540>"
     },
     {
         "Id": 20007,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875cac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743670>"
     },
     {
         "Id": 20007,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e3b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7410f0>"
     },
     {
         "Id": 20008,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd1b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741750>"
     },
     {
         "Id": 20008,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc4f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d783d0>"
     },
     {
         "Id": 20008,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc5b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742200>"
     },
     {
         "Id": 20009,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110400>"
     },
     {
         "Id": 20009,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdcc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740190>"
     },
     {
         "Id": 20009,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072b30>"
     },
     {
         "Id": 20010,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfc70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f073f10>"
     },
     {
         "Id": 20010,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd900>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113ad546d0>"
     },
     {
         "Id": 20010,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f58a0>"
     },
     {
         "Id": 20011,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd3c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7790>"
     },
     {
         "Id": 20011,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8738e20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de710>"
     },
     {
         "Id": 20011,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab2e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd7b0>"
     },
     {
         "Id": 20012,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf3d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5a80>"
     },
     {
         "Id": 20012,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfbe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f4400>"
     },
     {
         "Id": 20012,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf7f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5900>"
     },
     {
         "Id": 20013,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc9d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f073670>"
     },
     {
         "Id": 20013,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072650>"
     },
     {
         "Id": 20013,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7434f0>"
     },
     {
         "Id": 20014,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7406a0>"
     },
     {
         "Id": 20014,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcee60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7419f0>"
     },
     {
         "Id": 20014,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc1f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743dc0>"
     },
     {
         "Id": 20015,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcec20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741cc0>"
     },
     {
         "Id": 20015,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875cd30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743fd0>"
     },
     {
         "Id": 20015,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743520>"
     },
     {
         "Id": 20016,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e050>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e170>"
     },
     {
         "Id": 20016,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875dff0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c7f0>"
     },
     {
         "Id": 20016,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e0e0>"
     },
     {
         "Id": 20017,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22cb50>"
     },
     {
         "Id": 20017,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932140>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e110>"
     },
     {
         "Id": 20017,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931960>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a500>"
     },
     {
         "Id": 20018,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933a00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b4f0>"
     },
     {
         "Id": 20018,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932590>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b5b0>"
     },
     {
         "Id": 20018,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55de0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a980>"
     },
     {
         "Id": 20019,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217d90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419240>"
     },
     {
         "Id": 20019,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706b60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78a90>"
     },
     {
         "Id": 20019,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87069e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418100>"
     },
     {
         "Id": 20020,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706b00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b0d0>"
     },
     {
         "Id": 20020,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706cb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78700>"
     },
     {
         "Id": 20020,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6050>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79810>"
     },
     {
         "Id": 20021,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b58d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79390>"
     },
     {
         "Id": 20021,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7550>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79810>"
     },
     {
         "Id": 20021,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b75e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78a30>"
     },
     {
         "Id": 20022,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79810>"
     },
     {
         "Id": 20022,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b53f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ab90>"
     },
     {
         "Id": 20022,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b52a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79810>"
     },
     {
         "Id": 20023,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110fa0>"
     },
     {
         "Id": 20023,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54190>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110790>"
     },
     {
         "Id": 20023,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110160>"
     },
     {
         "Id": 20024,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56620>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111ae0>"
     },
     {
         "Id": 20024,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc565f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113c10>"
     },
     {
         "Id": 20024,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55540>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112920>"
     },
     {
         "Id": 20025,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56e00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e8f0>"
     },
     {
         "Id": 20025,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57ee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d780>"
     },
     {
         "Id": 20025,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8dc60>"
     },
     {
         "Id": 20026,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f850>"
     },
     {
         "Id": 20026,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47ca0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c8e0>"
     },
     {
         "Id": 20026,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45420>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f700>"
     },
     {
         "Id": 20027,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47280>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740190>"
     },
     {
         "Id": 20027,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45ea0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d2a0>"
     },
     {
         "Id": 20027,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45120>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1101c0>"
     },
     {
         "Id": 20028,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8dc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcf70>"
     },
     {
         "Id": 20028,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc310>"
     },
     {
         "Id": 20028,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab8b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ae4d0>"
     },
     {
         "Id": 20029,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a474f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8fa60>"
     },
     {
         "Id": 20029,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45a50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d930>"
     },
     {
         "Id": 20029,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a479a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d6f0>"
     },
     {
         "Id": 20030,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46d10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e1a0>"
     },
     {
         "Id": 20030,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a449d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cd60>"
     },
     {
         "Id": 20030,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cb50>"
     },
     {
         "Id": 20031,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8738e20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d8a0>"
     },
     {
         "Id": 20031,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54eb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c7c0>"
     },
     {
         "Id": 20031,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54f70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1106d0>"
     },
     {
         "Id": 20032,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55e70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1125f0>"
     },
     {
         "Id": 20032,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112d10>"
     },
     {
         "Id": 20032,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55e10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113fd0>"
     },
     {
         "Id": 20033,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b53f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110a30>"
     },
     {
         "Id": 20033,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4880>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1113c0>"
     },
     {
         "Id": 20033,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6290>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a470>"
     },
     {
         "Id": 20034,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7130>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bf70>"
     },
     {
         "Id": 20034,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5ab0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78850>"
     },
     {
         "Id": 20034,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6f50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b610>"
     },
     {
         "Id": 20035,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b53c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110e50>"
     },
     {
         "Id": 20035,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b52d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78550>"
     },
     {
         "Id": 20035,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78b20>"
     },
     {
         "Id": 20036,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79ea0>"
     },
     {
         "Id": 20036,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87053f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78d60>"
     },
     {
         "Id": 20036,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79cc0>"
     },
     {
         "Id": 20037,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82178b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41ab30>"
     },
     {
         "Id": 20037,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57880>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b610>"
     },
     {
         "Id": 20037,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bee0>"
     },
     {
         "Id": 20038,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932ad0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b100>"
     },
     {
         "Id": 20038,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931f00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418f70>"
     },
     {
         "Id": 20038,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931630>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c520>"
     },
     {
         "Id": 20039,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932a40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c040>"
     },
     {
         "Id": 20039,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930700>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22ed70>"
     },
     {
         "Id": 20039,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22cee0>"
     },
     {
         "Id": 20040,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e6e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d750>"
     },
     {
         "Id": 20040,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875d690>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c160>"
     },
     {
         "Id": 20040,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f4c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740a90>"
     },
     {
         "Id": 20041,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875faf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742cb0>"
     },
     {
         "Id": 20041,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccd30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743400>"
     },
     {
         "Id": 20041,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfb20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741e70>"
     },
     {
         "Id": 20042,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcca60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743040>"
     },
     {
         "Id": 20042,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfb20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741ed0>"
     },
     {
         "Id": 20042,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcee90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740220>"
     },
     {
         "Id": 20043,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072650>"
     },
     {
         "Id": 20043,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc9a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f071030>"
     },
     {
         "Id": 20043,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd5d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f073e50>"
     },
     {
         "Id": 20044,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcde10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7550>"
     },
     {
         "Id": 20044,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce5c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f56f0>"
     },
     {
         "Id": 20044,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95e40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd150>"
     },
     {
         "Id": 20045,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df790>"
     },
     {
         "Id": 20045,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcecb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc310>"
     },
     {
         "Id": 20045,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdf30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7610>"
     },
     {
         "Id": 20046,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f4400>"
     },
     {
         "Id": 20046,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fceec0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f070f70>"
     },
     {
         "Id": 20046,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd810>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072860>"
     },
     {
         "Id": 23000,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd360>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f070f70>"
     },
     {
         "Id": 23000,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd6c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743040>"
     },
     {
         "Id": 23000,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcda50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743190>"
     },
     {
         "Id": 23001,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcec20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743880>"
     },
     {
         "Id": 23001,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875fca0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742f80>"
     },
     {
         "Id": 23001,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c790>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7410c0>"
     },
     {
         "Id": 23002,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875dcc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740c70>"
     },
     {
         "Id": 23002,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875cdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22fb80>"
     },
     {
         "Id": 23002,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9326e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22de70>"
     },
     {
         "Id": 23003,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9325f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22ec20>"
     },
     {
         "Id": 23003,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931db0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d810>"
     },
     {
         "Id": 23003,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931cf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e830>"
     },
     {
         "Id": 23004,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b190>"
     },
     {
         "Id": 23004,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9317b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419d80>"
     },
     {
         "Id": 23004,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933670>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bc10>"
     },
     {
         "Id": 23005,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55390>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b130>"
     },
     {
         "Id": 23005,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217dc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418bb0>"
     },
     {
         "Id": 23005,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706aa0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a7a0>"
     },
     {
         "Id": 23006,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706650>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78e80>"
     },
     {
         "Id": 23006,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87076a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b730>"
     },
     {
         "Id": 23006,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707880>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a4d0>"
     },
     {
         "Id": 23007,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d783a0>"
     },
     {
         "Id": 23007,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b73a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a980>"
     },
     {
         "Id": 23007,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6920>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b0a0>"
     },
     {
         "Id": 23008,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4f70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78eb0>"
     },
     {
         "Id": 23008,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b42b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d797b0>"
     },
     {
         "Id": 23008,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5cf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79840>"
     },
     {
         "Id": 26000,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6ec0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bc10>"
     },
     {
         "Id": 26000,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1138e0>"
     },
     {
         "Id": 26000,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56e30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1119f0>"
     },
     {
         "Id": 26001,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55f60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110ee0>"
     },
     {
         "Id": 26001,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55e40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1116f0>"
     },
     {
         "Id": 26001,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54df0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113520>"
     },
     {
         "Id": 26002,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110250>"
     },
     {
         "Id": 26002,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc556c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e5f0>"
     },
     {
         "Id": 26002,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57130>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d8d0>"
     },
     {
         "Id": 26003,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44460>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c0a0>"
     },
     {
         "Id": 26003,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a466e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e7d0>"
     },
     {
         "Id": 26003,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ecb0>"
     },
     {
         "Id": 26004,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45270>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cdf0>"
     },
     {
         "Id": 26004,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a453c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c640>"
     },
     {
         "Id": 26004,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e350>"
     },
     {
         "Id": 26005,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f967d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1acc40>"
     },
     {
         "Id": 26005,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97a60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1120>"
     },
     {
         "Id": 26005,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95690>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2530>"
     },
     {
         "Id": 26006,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ac8e0>"
     },
     {
         "Id": 26006,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab2e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8de10>"
     },
     {
         "Id": 26006,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c460>"
     },
     {
         "Id": 26007,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45060>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d030>"
     },
     {
         "Id": 26007,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a466e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d060>"
     },
     {
         "Id": 26007,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47ac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8dc00>"
     },
     {
         "Id": 26008,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44f40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ee90>"
     },
     {
         "Id": 26008,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56bf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8eef0>"
     },
     {
         "Id": 26008,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56e90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cd60>"
     },
     {
         "Id": 26009,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1107c0>"
     },
     {
         "Id": 26009,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54af0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110af0>"
     },
     {
         "Id": 26009,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110ca0>"
     },
     {
         "Id": 26010,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55330>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110c40>"
     },
     {
         "Id": 26010,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54fd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113070>"
     },
     {
         "Id": 26010,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6050>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113d60>"
     },
     {
         "Id": 26011,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4280>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78a30>"
     },
     {
         "Id": 26011,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bbb0>"
     },
     {
         "Id": 26011,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5ff0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b580>"
     },
     {
         "Id": 26012,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b48e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79ff0>"
     },
     {
         "Id": 26012,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d790c0>"
     },
     {
         "Id": 26012,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78ca0>"
     },
     {
         "Id": 26013,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b5420>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78d90>"
     },
     {
         "Id": 26013,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707790>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b790>"
     },
     {
         "Id": 26013,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706680>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78d90>"
     },
     {
         "Id": 26014,
         "PotentialStatBonusRateType": 1,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707430>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a770>"
     },
     {
         "Id": 26014,
         "PotentialStatBonusRateType": 2,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b370>"
     },
     {
         "Id": 26014,
         "PotentialStatBonusRateType": 3,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215b70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419990>"
     }
 ]

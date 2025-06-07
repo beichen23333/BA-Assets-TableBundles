@@ -2,3101 +2,3101 @@
     {
         "Id": 1,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceffcd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1aec50>"
     },
     {
         "Id": 2,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97a00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113acc7a00>"
     },
     {
         "Id": 3,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf4f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743df0>"
     },
     {
         "Id": 4,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1114b0>"
     },
     {
         "Id": 5,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c8b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0cd0>"
     },
     {
         "Id": 6,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45cc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1c00>"
     },
     {
         "Id": 7,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a90c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d5750>"
     },
     {
         "Id": 8,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f957e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468400>"
     },
     {
         "Id": 9,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f965f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ef970>"
     },
     {
         "Id": 10,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2aa320>"
     },
     {
         "Id": 11,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b7f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767730>"
     },
     {
         "Id": 12,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6350>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de230>"
     },
     {
         "Id": 13,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4bb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dfd90>"
     },
     {
         "Id": 14,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45ea0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f071720>"
     },
     {
         "Id": 15,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55cf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a470>"
     },
     {
         "Id": 16,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a9240>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9d1b0>"
     },
     {
         "Id": 17,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab280>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9eb30>"
     },
     {
         "Id": 18,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54250>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b430>"
     },
     {
         "Id": 19,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44700>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419660>"
     },
     {
         "Id": 20,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0fa0>"
     },
     {
         "Id": 21,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7af0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dceb0>"
     },
     {
         "Id": 22,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828ad70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dce20>"
     },
     {
         "Id": 23,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bdf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2a9ff0>"
     },
     {
         "Id": 24,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f962f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1acdc0>"
     },
     {
         "Id": 25,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e4680d0>"
     },
     {
         "Id": 26,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfb50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741f60>"
     },
     {
         "Id": 27,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113e80>"
     },
     {
         "Id": 28,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a88b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9ce50>"
     },
     {
         "Id": 29,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefe260>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2aa800>"
     },
     {
         "Id": 30,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abc10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5deda0>"
     },
     {
         "Id": 31,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddc30>"
     },
     {
         "Id": 32,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8738e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d7f40>"
     },
     {
         "Id": 33,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab3d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113880>"
     },
     {
         "Id": 34,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108670>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110d30>"
     },
     {
         "Id": 35,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810bdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a020>"
     },
     {
         "Id": 36,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a9e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6080>"
     },
     {
         "Id": 37,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccca0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766ef0>"
     },
     {
         "Id": 38,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd210>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3790>"
     },
     {
         "Id": 39,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0460>"
     },
     {
         "Id": 40,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2050>"
     },
     {
         "Id": 41,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdd20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7650f0>"
     },
     {
         "Id": 42,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289e70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5f30>"
     },
     {
         "Id": 43,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810afb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469f00>"
     },
     {
         "Id": 44,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108df0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112c50>"
     },
     {
         "Id": 45,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aa890>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1103a0>"
     },
     {
         "Id": 46,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e770>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d4250>"
     },
     {
         "Id": 47,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aa8c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de980>"
     },
     {
         "Id": 48,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a9270>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd1e0>"
     },
     {
         "Id": 49,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55420>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ef460>"
     },
     {
         "Id": 50,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6830>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79150>"
     },
     {
         "Id": 51,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a740>"
     },
     {
         "Id": 52,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b57e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ecac0>"
     },
     {
         "Id": 53,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefcd90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddd50>"
     },
     {
         "Id": 54,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab550>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df790>"
     },
     {
         "Id": 55,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ea10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d75e0>"
     },
     {
         "Id": 56,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873af20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1114b0>"
     },
     {
         "Id": 57,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9390>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112fe0>"
     },
     {
         "Id": 58,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b7f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46bf70>"
     },
     {
         "Id": 59,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289a80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6a10>"
     },
     {
         "Id": 60,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a110>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7658a0>"
     },
     {
         "Id": 61,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcda80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bf40>"
     },
     {
         "Id": 62,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931840>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419870>"
     },
     {
         "Id": 63,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc575b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a418160>"
     },
     {
         "Id": 64,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdf90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d780a0>"
     },
     {
         "Id": 65,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767550>"
     },
     {
         "Id": 66,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289780>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f67a0>"
     },
     {
         "Id": 67,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b5b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46ab90>"
     },
     {
         "Id": 68,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b86df1f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ad720>"
     },
     {
         "Id": 69,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113310>"
     },
     {
         "Id": 70,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ceb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110e80>"
     },
     {
         "Id": 71,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ddfc0>"
     },
     {
         "Id": 72,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a9e70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd6c0>"
     },
     {
         "Id": 73,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56710>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc5b0>"
     },
     {
         "Id": 74,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a5c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f070af0>"
     },
     {
         "Id": 75,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55510>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df850>"
     },
     {
         "Id": 76,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abeb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df760>"
     },
     {
         "Id": 77,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a8190>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d51b0>"
     },
     {
         "Id": 78,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875d690>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110a30>"
     },
     {
         "Id": 79,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110250>"
     },
     {
         "Id": 80,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109840>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1adba0>"
     },
     {
         "Id": 81,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109ea0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b670>"
     },
     {
         "Id": 82,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82880a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7640>"
     },
     {
         "Id": 83,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a764b50>"
     },
     {
         "Id": 84,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac269b70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2710>"
     },
     {
         "Id": 85,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a5f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ae7d0>"
     },
     {
         "Id": 86,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96ce0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740310>"
     },
     {
         "Id": 87,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26be80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b06a0>"
     },
     {
         "Id": 88,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc3d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b130>"
     },
     {
         "Id": 89,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a3e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767e20>"
     },
     {
         "Id": 90,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f52d0>"
     },
     {
         "Id": 91,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a3e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469630>"
     },
     {
         "Id": 92,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aab00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1afc40>"
     },
     {
         "Id": 93,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84520e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112860>"
     },
     {
         "Id": 94,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f130>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d5000>"
     },
     {
         "Id": 95,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aac20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5ded10>"
     },
     {
         "Id": 96,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dce80>"
     },
     {
         "Id": 97,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f942e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7424d0>"
     },
     {
         "Id": 98,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45c30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9ce50>"
     },
     {
         "Id": 99,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a8250>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5debf0>"
     },
     {
         "Id": 100,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a8cd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d5390>"
     },
     {
         "Id": 101,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56bc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113a90>"
     },
     {
         "Id": 102,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0abe20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111f00>"
     },
     {
         "Id": 103,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b760>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1aedd0>"
     },
     {
         "Id": 104,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a680>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46ae90>"
     },
     {
         "Id": 105,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a7d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f49a0>"
     },
     {
         "Id": 106,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce5f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767010>"
     },
     {
         "Id": 107,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a140>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3d00>"
     },
     {
         "Id": 108,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96b00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741600>"
     },
     {
         "Id": 109,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f370>"
     },
     {
         "Id": 110,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95a50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743be0>"
     },
     {
         "Id": 111,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfc10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79240>"
     },
     {
         "Id": 112,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a764cd0>"
     },
     {
         "Id": 113,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b880>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f50f0>"
     },
     {
         "Id": 114,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109e70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b910>"
     },
     {
         "Id": 115,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8e20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ac3a0>"
     },
     {
         "Id": 116,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aa830>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111e40>"
     },
     {
         "Id": 117,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875dc60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d65f0>"
     },
     {
         "Id": 118,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abb50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5deb30>"
     },
     {
         "Id": 119,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df250>"
     },
     {
         "Id": 120,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706fe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82a70>"
     },
     {
         "Id": 121,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707c70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa83c70>"
     },
     {
         "Id": 122,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd8d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de920>"
     },
     {
         "Id": 123,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df8e0>"
     },
     {
         "Id": 124,
         "BossGroupId": "EN0008",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aa020>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d4730>"
     },
     {
         "Id": 125,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111de0>"
     },
     {
         "Id": 126,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8ee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111030>"
     },
     {
         "Id": 127,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109030>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a050>"
     },
     {
         "Id": 128,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6080>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7190>"
     },
     {
         "Id": 129,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a230>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766b30>"
     },
     {
         "Id": 130,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccf40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79de0>"
     },
     {
         "Id": 131,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26b6d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766560>"
     },
     {
         "Id": 132,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa800a0>"
     },
     {
         "Id": 133,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd7b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3ee0>"
     },
     {
         "Id": 134,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7678e0>"
     },
     {
         "Id": 135,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828af20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7700>"
     },
     {
         "Id": 136,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810af20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b460>"
     },
     {
         "Id": 137,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a96f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1acc10>"
     },
     {
         "Id": 138,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113070>"
     },
     {
         "Id": 139,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c400>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111690>"
     },
     {
         "Id": 140,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a8400>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d65f0>"
     },
     {
         "Id": 141,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a80d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df400>"
     },
     {
         "Id": 142,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27f10>"
     },
     {
         "Id": 143,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bd30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26f50>"
     },
     {
         "Id": 144,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefdf30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd570>"
     },
     {
         "Id": 145,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abf40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dfcd0>"
     },
     {
         "Id": 146,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a9270>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d7610>"
     },
     {
         "Id": 147,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450df0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111840>"
     },
     {
         "Id": 148,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8d90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a112590>"
     },
     {
         "Id": 149,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469330>"
     },
     {
         "Id": 150,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b43d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f4610>"
     },
     {
         "Id": 151,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96a10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a765690>"
     },
     {
         "Id": 152,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf1c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bc10>"
     },
     {
         "Id": 153,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842fa00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f0a0>"
     },
     {
         "Id": 154,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842fdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8dbd0>"
     },
     {
         "Id": 155,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd9c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b0a0>"
     },
     {
         "Id": 156,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7658d0>"
     },
     {
         "Id": 157,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82880d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7760>"
     },
     {
         "Id": 158,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a4a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e4690f0>"
     },
     {
         "Id": 159,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aafe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ada20>"
     },
     {
         "Id": 160,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873ad70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1120e0>"
     },
     {
         "Id": 161,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e920>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d5840>"
     },
     {
         "Id": 162,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aab90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd300>"
     },
     {
         "Id": 163,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefe8c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de470>"
     },
     {
         "Id": 164,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842dc00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ff40>"
     },
     {
         "Id": 165,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215c90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f7c0>"
     },
     {
         "Id": 166,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875da50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa265c0>"
     },
     {
         "Id": 167,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bc70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d4130>"
     },
     {
         "Id": 168,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b730>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5a80>"
     },
     {
         "Id": 169,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bf70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa83ac0>"
     },
     {
         "Id": 170,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82350>"
     },
     {
         "Id": 171,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289e70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82560>"
     },
     {
         "Id": 172,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bf70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9c970>"
     },
     {
         "Id": 173,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47af0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9fe80>"
     },
     {
         "Id": 174,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a447c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7407c0>"
     },
     {
         "Id": 175,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a444f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740af0>"
     },
     {
         "Id": 176,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a620>"
     },
     {
         "Id": 177,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44400>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743040>"
     },
     {
         "Id": 178,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46650>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740580>"
     },
     {
         "Id": 179,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9d090>"
     },
     {
         "Id": 180,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bd60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f700>"
     },
     {
         "Id": 181,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87074f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80520>"
     },
     {
         "Id": 182,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706830>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80f70>"
     },
     {
         "Id": 183,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81690>"
     },
     {
         "Id": 184,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876ab90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f50f0>"
     },
     {
         "Id": 185,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768910>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d5870>"
     },
     {
         "Id": 186,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ff40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27580>"
     },
     {
         "Id": 187,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26b370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b1b40>"
     },
     {
         "Id": 188,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26ae90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2dd0>"
     },
     {
         "Id": 189,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873bf10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa269e0>"
     },
     {
         "Id": 190,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875cdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa267d0>"
     },
     {
         "Id": 191,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769b70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f50f0>"
     },
     {
         "Id": 192,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81120>"
     },
     {
         "Id": 193,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a260>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80760>"
     },
     {
         "Id": 194,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707be0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82380>"
     },
     {
         "Id": 195,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f700>"
     },
     {
         "Id": 196,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bb80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9cc40>"
     },
     {
         "Id": 197,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741e10>"
     },
     {
         "Id": 198,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a444c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743ac0>"
     },
     {
         "Id": 199,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268130>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2abe20>"
     },
     {
         "Id": 200,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45810>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7401f0>"
     },
     {
         "Id": 201,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44430>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741420>"
     },
     {
         "Id": 202,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289c00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f550>"
     },
     {
         "Id": 203,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81a80>"
     },
     {
         "Id": 204,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706020>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa839a0>"
     },
     {
         "Id": 205,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81360>"
     },
     {
         "Id": 206,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876add0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7160>"
     },
     {
         "Id": 207,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87696c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d5120>"
     },
     {
         "Id": 208,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c8b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26ce0>"
     },
     {
         "Id": 209,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a8eb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072a10>"
     },
     {
         "Id": 210,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc546d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41abf0>"
     },
     {
         "Id": 211,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56e60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110ca0>"
     },
     {
         "Id": 212,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab700>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b5e0>"
     },
     {
         "Id": 213,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8739030>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa266b0>"
     },
     {
         "Id": 214,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26290>"
     },
     {
         "Id": 215,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876ae30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f73a0>"
     },
     {
         "Id": 216,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769090>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82470>"
     },
     {
         "Id": 217,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876be50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81960>"
     },
     {
         "Id": 218,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82440>"
     },
     {
         "Id": 219,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828ac80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9cf70>"
     },
     {
         "Id": 220,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9ca60>"
     },
     {
         "Id": 221,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46a70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743730>"
     },
     {
         "Id": 222,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932f50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111900>"
     },
     {
         "Id": 223,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b63b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dde10>"
     },
     {
         "Id": 224,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742b30>"
     },
     {
         "Id": 225,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f0a0>"
     },
     {
         "Id": 226,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a260>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82da0>"
     },
     {
         "Id": 227,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769ea0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80f40>"
     },
     {
         "Id": 228,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768d60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80d00>"
     },
     {
         "Id": 229,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87692a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d4220>"
     },
     {
         "Id": 230,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8738430>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa278b0>"
     },
     {
         "Id": 231,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b4f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f072860>"
     },
     {
         "Id": 232,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288a00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b1a80>"
     },
     {
         "Id": 233,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4af0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df280>"
     },
     {
         "Id": 234,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b78b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5decb0>"
     },
     {
         "Id": 235,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6fb0>"
     },
     {
         "Id": 236,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288190>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111f30>"
     },
     {
         "Id": 237,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a230>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa277c0>"
     },
     {
         "Id": 238,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa278e0>"
     },
     {
         "Id": 239,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bbe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81060>"
     },
     {
         "Id": 240,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82c50>"
     },
     {
         "Id": 241,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769c00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81de0>"
     },
     {
         "Id": 242,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706fe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f9d0>"
     },
     {
         "Id": 243,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705c00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9e500>"
     },
     {
         "Id": 244,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742da0>"
     },
     {
         "Id": 245,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55870>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b580>"
     },
     {
         "Id": 246,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfe80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79b40>"
     },
     {
         "Id": 247,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47250>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742bc0>"
     },
     {
         "Id": 248,
         "BossGroupId": "EN0008_LightArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45ba0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9de10>"
     },
     {
         "Id": 10001,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707af0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9e5c0>"
     },
     {
         "Id": 10002,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80910>"
     },
     {
         "Id": 10003,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769420>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82d10>"
     },
     {
         "Id": 10004,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768b50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80bb0>"
     },
     {
         "Id": 10005,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875db70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d6ef0>"
     },
     {
         "Id": 10006,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873b5b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26800>"
     },
     {
         "Id": 10007,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288be0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41a830>"
     },
     {
         "Id": 10008,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abb50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5300>"
     },
     {
         "Id": 10009,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce7a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7baf0>"
     },
     {
         "Id": 10010,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f75e0>"
     },
     {
         "Id": 10011,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828be80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4181f0>"
     },
     {
         "Id": 10012,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87386a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26a70>"
     },
     {
         "Id": 10013,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d5750>"
     },
     {
         "Id": 10014,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876ada0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82d70>"
     },
     {
         "Id": 10015,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769de0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80d60>"
     },
     {
         "Id": 10016,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa816c0>"
     },
     {
         "Id": 10017,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707250>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9c280>"
     },
     {
         "Id": 10018,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46fb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742bc0>"
     },
     {
         "Id": 10019,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce230>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ed840>"
     },
     {
         "Id": 10020,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842dfc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2080>"
     },
     {
         "Id": 10021,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842e3e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2ce0>"
     },
     {
         "Id": 10022,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1aee60>"
     },
     {
         "Id": 10023,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47c40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740e20>"
     },
     {
         "Id": 10024,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707a60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9d570>"
     },
     {
         "Id": 10025,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87680a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9de10>"
     },
     {
         "Id": 10026,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769fc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa83e20>"
     },
     {
         "Id": 10027,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876beb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa838b0>"
     },
     {
         "Id": 10028,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81900>"
     },
     {
         "Id": 10029,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873af20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d6230>"
     },
     {
         "Id": 10030,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26f80>"
     },
     {
         "Id": 10031,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41b130>"
     },
     {
         "Id": 10032,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109e40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767190>"
     },
     {
         "Id": 10033,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a170>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d690>"
     },
     {
         "Id": 10034,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288a30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7250>"
     },
     {
         "Id": 10035,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa279a0>"
     },
     {
         "Id": 10036,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81690>"
     },
     {
         "Id": 10037,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768d90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81f90>"
     },
     {
         "Id": 10038,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87693c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82e90>"
     },
     {
         "Id": 10039,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768f10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9d690>"
     },
     {
         "Id": 10040,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706c20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9dde0>"
     },
     {
         "Id": 10041,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707d30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740730>"
     },
     {
         "Id": 10042,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766f50>"
     },
     {
         "Id": 10043,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109630>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8fc40>"
     },
     {
         "Id": 10044,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aae60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f100>"
     },
     {
         "Id": 10045,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d58a0>"
     },
     {
         "Id": 10046,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a450f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1accd0>"
     },
     {
         "Id": 10047,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707ac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742650>"
     },
     {
         "Id": 10048,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768bb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f910>"
     },
     {
         "Id": 10049,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769c90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9dbd0>"
     },
     {
         "Id": 10050,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa824a0>"
     },
     {
         "Id": 10051,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e1d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82b60>"
     },
     {
         "Id": 10052,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873a920>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82e30>"
     },
     {
         "Id": 10053,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82883a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26860>"
     },
     {
         "Id": 10054,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842fdc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111f30>"
     },
     {
         "Id": 10055,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84538e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22c2b0>"
     },
     {
         "Id": 10056,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab670>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e890>"
     },
     {
         "Id": 10057,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd690>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e9e0>"
     },
     {
         "Id": 10058,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810bee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ae170>"
     },
     {
         "Id": 10059,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d060>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7663e0>"
     },
     {
         "Id": 10060,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842c460>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1c60>"
     },
     {
         "Id": 10061,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccd90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e27a0>"
     },
     {
         "Id": 10062,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf1c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ed3c0>"
     },
     {
         "Id": 10063,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd2a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7220>"
     },
     {
         "Id": 10064,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87060e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b430>"
     },
     {
         "Id": 10065,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace555d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79540>"
     },
     {
         "Id": 10066,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289960>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa805e0>"
     },
     {
         "Id": 10067,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82899c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa826e0>"
     },
     {
         "Id": 10068,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b520>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78be0>"
     },
     {
         "Id": 10069,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ac80>"
     },
     {
         "Id": 10070,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87066e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78490>"
     },
     {
         "Id": 10071,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcda20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6e90>"
     },
     {
         "Id": 10072,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf0a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e15a0>"
     },
     {
         "Id": 10073,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87060e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0b80>"
     },
     {
         "Id": 10074,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d330>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a764f70>"
     },
     {
         "Id": 10075,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109810>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ac490>"
     },
     {
         "Id": 10076,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108670>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ee00>"
     },
     {
         "Id": 10077,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d780>"
     },
     {
         "Id": 10078,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b47f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa818d0>"
     },
     {
         "Id": 10079,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aa290>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e170>"
     },
     {
         "Id": 10080,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a1d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c5b0>"
     },
     {
         "Id": 10081,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842ea40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1afc40>"
     },
     {
         "Id": 10082,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842df00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7653f0>"
     },
     {
         "Id": 10083,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcceb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0a30>"
     },
     {
         "Id": 10084,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcde10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ecdf0>"
     },
     {
         "Id": 10085,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce890>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f74f0>"
     },
     {
         "Id": 10086,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706770>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78f10>"
     },
     {
         "Id": 10087,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace544f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78eb0>"
     },
     {
         "Id": 10088,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b53f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcb80>"
     },
     {
         "Id": 10089,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e1d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de320>"
     },
     {
         "Id": 10090,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56b90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111f00>"
     },
     {
         "Id": 10091,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931720>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dea10>"
     },
     {
         "Id": 10092,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace566b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bdc0>"
     },
     {
         "Id": 10093,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87072e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79ab0>"
     },
     {
         "Id": 10094,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706020>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79a80>"
     },
     {
         "Id": 10095,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfd00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7700>"
     },
     {
         "Id": 10096,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc8b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1510>"
     },
     {
         "Id": 10097,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706020>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0160>"
     },
     {
         "Id": 10098,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f7c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767dc0>"
     },
     {
         "Id": 10099,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b9a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1acdf0>"
     },
     {
         "Id": 10100,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd690>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c2e0>"
     },
     {
         "Id": 10101,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111420>"
     },
     {
         "Id": 10102,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aa0b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bca0>"
     },
     {
         "Id": 10103,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108b50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cf70>"
     },
     {
         "Id": 10104,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f6a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ac3a0>"
     },
     {
         "Id": 10105,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766050>"
     },
     {
         "Id": 10106,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdde0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3be0>"
     },
     {
         "Id": 10107,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fceef0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ee7a0>"
     },
     {
         "Id": 10108,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd900>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f5540>"
     },
     {
         "Id": 10109,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706f80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1aec50>"
     },
     {
         "Id": 10110,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56ec0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a380>"
     },
     {
         "Id": 10111,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6140>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc3d0>"
     },
     {
         "Id": 10112,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a9240>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a41bca0>"
     },
     {
         "Id": 10113,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abcd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f071e10>"
     },
     {
         "Id": 10114,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a110640>"
     },
     {
         "Id": 10115,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a1d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d784f0>"
     },
     {
         "Id": 10116,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57a30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7afb0>"
     },
     {
         "Id": 10117,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707f40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a0b0>"
     },
     {
         "Id": 10118,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdb10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7190>"
     },
     {
         "Id": 10119,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf1f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0a60>"
     },
     {
         "Id": 10120,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf550>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e34f0>"
     },
     {
         "Id": 10121,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842fc70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7653c0>"
     },
     {
         "Id": 10122,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a8f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1af820>"
     },
     {
         "Id": 10123,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e710>"
     },
     {
         "Id": 10124,
         "BossGroupId": "EN0009",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26b940>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9e140>"
     },
     {
         "Id": 11001,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26af20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9f8e0>"
     },
     {
         "Id": 11002,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aab00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f580>"
     },
     {
         "Id": 11003,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b8e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c310>"
     },
     {
         "Id": 11004,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842fe80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1aefb0>"
     },
     {
         "Id": 11005,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842ebc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7661a0>"
     },
     {
         "Id": 11006,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2ef0>"
     },
     {
         "Id": 11007,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf2b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7efa90>"
     },
     {
         "Id": 11008,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd2a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f74f0>"
     },
     {
         "Id": 11009,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706920>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b100>"
     },
     {
         "Id": 11010,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57d30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79420>"
     },
     {
         "Id": 11011,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932fb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dfdf0>"
     },
     {
         "Id": 11012,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b4c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a2d42e0>"
     },
     {
         "Id": 11013,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56350>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd0c0>"
     },
     {
         "Id": 11014,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79990>"
     },
     {
         "Id": 11015,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706b30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79330>"
     },
     {
         "Id": 11016,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcebf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f57e0>"
     },
     {
         "Id": 11017,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc310>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80760>"
     },
     {
         "Id": 11018,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdff0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e11b0>"
     },
     {
         "Id": 11019,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842c490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766ad0>"
     },
     {
         "Id": 11020,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f1f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1af310>"
     },
     {
         "Id": 11021,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109780>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ee60>"
     },
     {
         "Id": 11022,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769270>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27070>"
     },
     {
         "Id": 11023,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768c70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b0850>"
     },
     {
         "Id": 11024,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45720>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b13f0>"
     },
     {
         "Id": 11025,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26740>"
     },
     {
         "Id": 11026,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefea10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d720>"
     },
     {
         "Id": 11027,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81090c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e380>"
     },
     {
         "Id": 11028,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d1b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a765210>"
     },
     {
         "Id": 11029,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842ebc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2e30>"
     },
     {
         "Id": 11030,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc7c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1390>"
     },
     {
         "Id": 11031,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce170>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ecac0>"
     },
     {
         "Id": 11032,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87079d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7670>"
     },
     {
         "Id": 11033,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707c10>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ac50>"
     },
     {
         "Id": 11034,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54cd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ae30>"
     },
     {
         "Id": 11035,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a456c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b37f0>"
     },
     {
         "Id": 11036,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a470a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a080>"
     },
     {
         "Id": 11037,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54af0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7a110>"
     },
     {
         "Id": 11038,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706a40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b0d0>"
     },
     {
         "Id": 11039,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd9c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7400>"
     },
     {
         "Id": 11040,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcebf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3520>"
     },
     {
         "Id": 11041,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdff0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1810>"
     },
     {
         "Id": 11042,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f3d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a765d20>"
     },
     {
         "Id": 11043,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842ee00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1af490>"
     },
     {
         "Id": 11044,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81081f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8c460>"
     },
     {
         "Id": 11045,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b2b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27730>"
     },
     {
         "Id": 11046,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a473d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b37f0>"
     },
     {
         "Id": 11047,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743100>"
     },
     {
         "Id": 11048,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47bb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3580>"
     },
     {
         "Id": 11049,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefe6e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d4e0>"
     },
     {
         "Id": 11050,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81088b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8f940>"
     },
     {
         "Id": 11051,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842eef0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a764760>"
     },
     {
         "Id": 11052,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842e620>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e11b0>"
     },
     {
         "Id": 11053,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf0d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e18a0>"
     },
     {
         "Id": 11054,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccc70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ed7e0>"
     },
     {
         "Id": 11055,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288c70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6800>"
     },
     {
         "Id": 11056,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706a70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7af80>"
     },
     {
         "Id": 11057,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54e20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d798d0>"
     },
     {
         "Id": 11058,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743dc0>"
     },
     {
         "Id": 11059,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82150c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742170>"
     },
     {
         "Id": 11060,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79750>"
     },
     {
         "Id": 11061,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4b80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d794b0>"
     },
     {
         "Id": 11062,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87061a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78970>"
     },
     {
         "Id": 11063,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd180>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f6dd0>"
     },
     {
         "Id": 11064,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc5b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2a70>"
     },
     {
         "Id": 11065,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf6a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3160>"
     },
     {
         "Id": 11066,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d0f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766530>"
     },
     {
         "Id": 11067,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1af490>"
     },
     {
         "Id": 11068,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109e70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8df00>"
     },
     {
         "Id": 11069,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a3b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26290>"
     },
     {
         "Id": 11070,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f760>"
     },
     {
         "Id": 11071,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873a200>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ae7d0>"
     },
     {
         "Id": 11072,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96c50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7406a0>"
     },
     {
         "Id": 11073,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d570>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743430>"
     },
     {
         "Id": 11074,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d840>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1630>"
     },
     {
         "Id": 11075,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706aa0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e02e0>"
     },
     {
         "Id": 11076,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87063b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e4698a0>"
     },
     {
         "Id": 11077,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47940>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b0100>"
     },
     {
         "Id": 11078,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45ab0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b1060>"
     },
     {
         "Id": 11079,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bac0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27190>"
     },
     {
         "Id": 11080,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769060>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa260e0>"
     },
     {
         "Id": 11081,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876ba00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27a90>"
     },
     {
         "Id": 11082,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87682b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26080>"
     },
     {
         "Id": 11083,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876ae60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b18a0>"
     },
     {
         "Id": 11084,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2500>"
     },
     {
         "Id": 11085,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45ae0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b1c60>"
     },
     {
         "Id": 11086,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87076a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469570>"
     },
     {
         "Id": 11087,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87062f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3700>"
     },
     {
         "Id": 11088,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0580>"
     },
     {
         "Id": 11089,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95a20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742560>"
     },
     {
         "Id": 11090,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f942e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742f80>"
     },
     {
         "Id": 11091,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac2690f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9e770>"
     },
     {
         "Id": 11092,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac2698d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7670a0>"
     },
     {
         "Id": 11093,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd120>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7efa90>"
     },
     {
         "Id": 11094,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a800>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767100>"
     },
     {
         "Id": 11095,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ad4e0>"
     },
     {
         "Id": 11096,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f959c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741720>"
     },
     {
         "Id": 11097,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d180>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740e20>"
     },
     {
         "Id": 11098,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842e620>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0670>"
     },
     {
         "Id": 11099,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706560>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e02e0>"
     },
     {
         "Id": 11100,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a474c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b760>"
     },
     {
         "Id": 11101,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44f70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b16c0>"
     },
     {
         "Id": 11102,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46d40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b30a0>"
     },
     {
         "Id": 11103,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bc40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26620>"
     },
     {
         "Id": 11104,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab610>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112f071720>"
     },
     {
         "Id": 11105,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a7d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa26890>"
     },
     {
         "Id": 11106,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a466e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b02b0>"
     },
     {
         "Id": 11107,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45f60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b0520>"
     },
     {
         "Id": 11108,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706770>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b700>"
     },
     {
         "Id": 11109,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706f50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3ac0>"
     },
     {
         "Id": 11110,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f0d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2350>"
     },
     {
         "Id": 11111,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842eaa0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7432e0>"
     },
     {
         "Id": 11112,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96380>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7412a0>"
     },
     {
         "Id": 11113,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873b5b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ac670>"
     },
     {
         "Id": 11114,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933a30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7490>"
     },
     {
         "Id": 11115,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc578b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419fc0>"
     },
     {
         "Id": 11116,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc558d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113f40>"
     },
     {
         "Id": 11117,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55930>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a4198d0>"
     },
     {
         "Id": 11118,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26add0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a765750>"
     },
     {
         "Id": 11119,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96020>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740df0>"
     },
     {
         "Id": 11120,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f974f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743730>"
     },
     {
         "Id": 11121,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743e20>"
     },
     {
         "Id": 11122,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842df00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e12d0>"
     },
     {
         "Id": 11123,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706cb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469cc0>"
     },
     {
         "Id": 11124,
         "BossGroupId": "EN0009_HeavyArmor",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46800>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27ee0>"
     },
     {
         "Id": 30001,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a449d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3100>"
     },
     {
         "Id": 30002,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46350>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2860>"
     },
     {
         "Id": 30003,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875d030>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dc190>"
     },
     {
         "Id": 30004,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0abf40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcb80>"
     },
     {
         "Id": 30005,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44070>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b02e0>"
     },
     {
         "Id": 30006,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a447c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2800>"
     },
     {
         "Id": 30007,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706c50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e469360>"
     },
     {
         "Id": 30008,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87060e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a020>"
     },
     {
         "Id": 30009,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f1f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3fd0>"
     },
     {
         "Id": 30010,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d120>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743a30>"
     },
     {
         "Id": 30011,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97a90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740820>"
     },
     {
         "Id": 30012,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8739030>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1acd00>"
     },
     {
         "Id": 30013,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9314b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a767dc0>"
     },
     {
         "Id": 30014,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9a50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dd7b0>"
     },
     {
         "Id": 30015,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a8f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5dcf70>"
     },
     {
         "Id": 30016,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f1f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7d30>"
     },
     {
         "Id": 30017,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268370>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133c9fac0>"
     },
     {
         "Id": 30018,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96fb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742080>"
     },
     {
         "Id": 30019,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95ba0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a740e50>"
     },
     {
         "Id": 30020,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d1e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e0700>"
     },
     {
         "Id": 30021,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842fbb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1ae0>"
     },
     {
         "Id": 30022,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707730>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e4691e0>"
     },
     {
         "Id": 30023,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46080>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa27400>"
     },
     {
         "Id": 30024,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2e30>"
     },
     {
         "Id": 30025,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44850>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3eb0>"
     },
     {
         "Id": 30026,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4550>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e0b0>"
     },
     {
         "Id": 30027,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b7010>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8ddb0>"
     },
     {
         "Id": 30028,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87680d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a113ac0>"
     },
     {
         "Id": 30029,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a455d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3310>"
     },
     {
         "Id": 30030,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a470d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2470>"
     },
     {
         "Id": 30031,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707fa0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b190>"
     },
     {
         "Id": 30032,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706c50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2290>"
     },
     {
         "Id": 30033,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842e9e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e26b0>"
     },
     {
         "Id": 30034,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94a00>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7429b0>"
     },
     {
         "Id": 30035,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743d60>"
     },
     {
         "Id": 30036,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a860>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1ad150>"
     },
     {
         "Id": 30037,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933580>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7460>"
     },
     {
         "Id": 30038,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf700>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa83e80>"
     },
     {
         "Id": 30039,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9309a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5f7d30>"
     },
     {
         "Id": 30040,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8739ff0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7efa90>"
     },
     {
         "Id": 30041,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95c90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7406d0>"
     },
     {
         "Id": 30042,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842e080>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743eb0>"
     },
     {
         "Id": 30043,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842faf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e01f0>"
     },
     {
         "Id": 30044,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707790>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468a30>"
     },
     {
         "Id": 30045,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707640>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e468970>"
     },
     {
         "Id": 30046,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a462f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b06a0>"
     },
     {
         "Id": 30047,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a445e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b2140>"
     },
     {
         "Id": 30048,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf250>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80a00>"
     },
     {
         "Id": 30049,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc2b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81bd0>"
     },
     {
         "Id": 30050,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828afe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bfd0>"
     },
     {
         "Id": 30051,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf220>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81210>"
     },
     {
         "Id": 30052,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44e50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa265c0>"
     },
     {
         "Id": 30053,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a451b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b11e0>"
     },
     {
         "Id": 30054,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46380>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b1840>"
     },
     {
         "Id": 30055,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707c70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e4689d0>"
     },
     {
         "Id": 30056,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705f90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3730>"
     },
     {
         "Id": 30057,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842f490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3850>"
     },
     {
         "Id": 30058,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873b5e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7436d0>"
     },
     {
         "Id": 30059,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742620>"
     },
     {
         "Id": 30060,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268400>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a766860>"
     },
     {
         "Id": 30061,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55990>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7ba60>"
     },
     {
         "Id": 30062,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217340>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f6a0>"
     },
     {
         "Id": 30063,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd120>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1acfa0>"
     },
     {
         "Id": 30064,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95ab0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a741ed0>"
     },
     {
         "Id": 30065,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d0f0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7431f0>"
     },
     {
         "Id": 30066,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842cf40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3dc0>"
     },
     {
         "Id": 30067,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706710>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46a830>"
     },
     {
         "Id": 30068,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706560>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b9a0>"
     },
     {
         "Id": 30069,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a440a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b3880>"
     },
     {
         "Id": 30070,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44250>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b1600>"
     },
     {
         "Id": 30071,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd090>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa830d0>"
     },
     {
         "Id": 30072,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217ee0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7bfd0>"
     },
     {
         "Id": 30073,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a0c490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d750>"
     },
     {
         "Id": 30074,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf460>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82c80>"
     },
     {
         "Id": 30075,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45fc0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a1120b0>"
     },
     {
         "Id": 30076,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44d60>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b12d0>"
     },
     {
         "Id": 30077,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a443a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5b06d0>"
     },
     {
         "Id": 30078,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706170>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46ac80>"
     },
     {
         "Id": 30079,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705f90>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e00d0>"
     },
     {
         "Id": 30080,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842c7c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1c60>"
     },
     {
         "Id": 30081,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94b50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a742980>"
     },
     {
         "Id": 30082,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96c80>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a743250>"
     },
     {
         "Id": 30083,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26b700>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a764040>"
     },
     {
         "Id": 30084,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a0d750>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa59ea0>"
     },
     {
         "Id": 30085,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96530>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3850>"
     },
     {
         "Id": 30086,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f948e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3820>"
     },
     {
         "Id": 30087,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216f20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22d7b0>"
     },
     {
         "Id": 30088,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace549a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b310>"
     },
     {
         "Id": 30089,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82896c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d78fa0>"
     },
     {
         "Id": 30090,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289600>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b0d0>"
     },
     {
         "Id": 30091,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcddb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa806d0>"
     },
     {
         "Id": 30092,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcda50>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82bf0>"
     },
     {
         "Id": 30093,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706920>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa83550>"
     },
     {
         "Id": 30094,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87075e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8d2d0>"
     },
     {
         "Id": 30095,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b57b0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8e8c0>"
     },
     {
         "Id": 30096,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706320>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa8cbb0>"
     },
     {
         "Id": 30097,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87066e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa806a0>"
     },
     {
         "Id": 30098,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce6e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa81180>"
     },
     {
         "Id": 30099,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce5c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80130>"
     },
     {
         "Id": 30100,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288040>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79690>"
     },
     {
         "Id": 30101,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288b20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79f30>"
     },
     {
         "Id": 30102,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace550c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d79c00>"
     },
     {
         "Id": 30103,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214f70>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e6b0>"
     },
     {
         "Id": 30104,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97730>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3640>"
     },
     {
         "Id": 30105,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4c40>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e46b970>"
     },
     {
         "Id": 30106,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108e20>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df6a0>"
     },
     {
         "Id": 30107,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8bb0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5df640>"
     },
     {
         "Id": 30108,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81089d0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a5de050>"
     },
     {
         "Id": 30109,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f942e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e3b50>"
     },
     {
         "Id": 30110,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96680>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e2dd0>"
     },
     {
         "Id": 30111,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215bd0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22f640>"
     },
     {
         "Id": 30112,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57100>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7afe0>"
     },
     {
         "Id": 30113,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289030>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d7b160>"
     },
     {
         "Id": 30114,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289c30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f1133d794b0>"
     },
     {
         "Id": 30115,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf3a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa82aa0>"
     },
     {
         "Id": 30116,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccbe0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80f40>"
     },
     {
         "Id": 30117,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707820>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa805e0>"
     },
     {
         "Id": 30118,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875faf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a419780>"
     },
     {
         "Id": 30119,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55240>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a111570>"
     },
     {
         "Id": 30120,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706b30>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa80040>"
     },
     {
         "Id": 30121,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc970>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa805b0>"
     },
     {
         "Id": 30122,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfaf0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113aa800a0>"
     },
     {
         "Id": 30123,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57160>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a22e920>"
     },
     {
         "Id": 30124,
         "BossGroupId": "EN0011",
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215690>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f112e7e1b70>"
     }
 ]

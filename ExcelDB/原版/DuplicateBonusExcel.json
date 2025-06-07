@@ -2,26 +2,26 @@
     {
         "ItemId": 30000000,
         "CharacterId": 10010,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ec6a0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ee800>"
     },
     {
         "ItemId": 30000001,
         "CharacterId": 13008,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ed900>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ec730>"
     },
     {
         "ItemId": 30000002,
         "CharacterId": 13004,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ed1e0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ef0d0>"
     },
     {
         "ItemId": 30000003,
         "CharacterId": 23005,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ec1c0>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a7ed420>"
     },
     {
         "ItemId": 30000004,
         "CharacterId": 10005,
-        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ef490>"
+        "_tab": "<flatbuffers.table.Table object at 0x7f113a506050>"
     }
 ]

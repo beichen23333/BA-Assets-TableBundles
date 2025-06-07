@@ -1,86 +1,107 @@
 [
     {
         "Id": 1,
-        "WorldRaidBossGroupId": 10000002
+        "WorldRaidBossGroupId": 10000002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aa8f0>"
     },
     {
         "Id": 8141,
-        "WorldRaidBossGroupId": 814000
+        "WorldRaidBossGroupId": 814000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc490>"
     },
     {
         "Id": 8142,
-        "WorldRaidBossGroupId": 814100
+        "WorldRaidBossGroupId": 814100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf670>"
     },
     {
         "Id": 8211,
-        "WorldRaidBossGroupId": 821000
+        "WorldRaidBossGroupId": 821000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf130>"
     },
     {
         "Id": 8212,
-        "WorldRaidBossGroupId": 821100
+        "WorldRaidBossGroupId": 821100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56830>"
     },
     {
         "Id": 8213,
-        "WorldRaidBossGroupId": 821200
+        "WorldRaidBossGroupId": 821200,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55cc0>"
     },
     {
         "Id": 8214,
-        "WorldRaidBossGroupId": 821300
+        "WorldRaidBossGroupId": 821300,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f3d0>"
     },
     {
         "Id": 8215,
-        "WorldRaidBossGroupId": 821400
+        "WorldRaidBossGroupId": 821400,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812cf70>"
     },
     {
         "Id": 8216,
-        "WorldRaidBossGroupId": 821001
+        "WorldRaidBossGroupId": 821001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e4d0>"
     },
     {
         "Id": 8217,
-        "WorldRaidBossGroupId": 821101
+        "WorldRaidBossGroupId": 821101,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d720>"
     },
     {
         "Id": 8218,
-        "WorldRaidBossGroupId": 821201
+        "WorldRaidBossGroupId": 821201,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216ec0>"
     },
     {
         "Id": 8219,
-        "WorldRaidBossGroupId": 821301
+        "WorldRaidBossGroupId": 821301,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f940a0>"
     },
     {
         "Id": 8220,
-        "WorldRaidBossGroupId": 821401
+        "WorldRaidBossGroupId": 821401,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97370>"
     },
     {
         "Id": 8221,
-        "WorldRaidBossGroupId": 821501
+        "WorldRaidBossGroupId": 821501,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96320>"
     },
     {
         "Id": 8222,
-        "WorldRaidBossGroupId": 821602
+        "WorldRaidBossGroupId": 821602,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefc580>"
     },
     {
         "Id": 8231,
-        "WorldRaidBossGroupId": 823000
+        "WorldRaidBossGroupId": 823000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefece0>"
     },
     {
         "Id": 8232,
-        "WorldRaidBossGroupId": 823100
+        "WorldRaidBossGroupId": 823100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceffac0>"
     },
     {
         "Id": 1081400,
-        "WorldRaidBossGroupId": 10814000
+        "WorldRaidBossGroupId": 10814000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94130>"
     },
     {
         "Id": 1081401,
-        "WorldRaidBossGroupId": 10814100
+        "WorldRaidBossGroupId": 10814100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f961a0>"
     },
     {
         "Id": 90081400,
-        "WorldRaidBossGroupId": 900814000
+        "WorldRaidBossGroupId": 900814000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94820>"
     },
     {
         "Id": 90081401,
-        "WorldRaidBossGroupId": 900814100
+        "WorldRaidBossGroupId": 900814100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95f60>"
     }
 ]

@@ -2,41 +2,49 @@
     {
         "Id": 100,
         "EventContentId": 836,
-        "ParameterType": 1
+        "ParameterType": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933640>"
     },
     {
         "Id": 200,
         "EventContentId": 836,
-        "ParameterType": 2
+        "ParameterType": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930b50>"
     },
     {
         "Id": 300,
         "EventContentId": 836,
-        "ParameterType": 3
+        "ParameterType": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac933400>"
     },
     {
         "Id": 400,
         "EventContentId": 836,
-        "ParameterType": 4
+        "ParameterType": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac9334f0>"
     },
     {
         "Id": 10100,
         "EventContentId": 10836,
-        "ParameterType": 1
+        "ParameterType": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45f30>"
     },
     {
         "Id": 10200,
         "EventContentId": 10836,
-        "ParameterType": 2
+        "ParameterType": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47df0>"
     },
     {
         "Id": 10300,
         "EventContentId": 10836,
-        "ParameterType": 3
+        "ParameterType": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45c30>"
     },
     {
         "Id": 10400,
         "EventContentId": 10836,
-        "ParameterType": 4
+        "ParameterType": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45fc0>"
     }
 ]

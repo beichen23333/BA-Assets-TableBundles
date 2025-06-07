@@ -1,674 +1,898 @@
 [
     {
-        "CharacterId": 10000
+        "CharacterId": 10000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcea40>"
     },
     {
-        "CharacterId": 10001
+        "CharacterId": 10001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc700>"
     },
     {
-        "CharacterId": 10002
+        "CharacterId": 10002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf3a0>"
     },
     {
-        "CharacterId": 10003
+        "CharacterId": 10003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceffd90>"
     },
     {
-        "CharacterId": 10004
+        "CharacterId": 10004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefe110>"
     },
     {
-        "CharacterId": 10005
+        "CharacterId": 10005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceff5b0>"
     },
     {
-        "CharacterId": 10006
+        "CharacterId": 10006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceffbe0>"
     },
     {
-        "CharacterId": 10007
+        "CharacterId": 10007,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceff250>"
     },
     {
-        "CharacterId": 10008
+        "CharacterId": 10008,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd090>"
     },
     {
-        "CharacterId": 10009
+        "CharacterId": 10009,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefea10>"
     },
     {
-        "CharacterId": 10010
+        "CharacterId": 10010,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fceb30>"
     },
     {
-        "CharacterId": 10011
+        "CharacterId": 10011,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcddb0>"
     },
     {
-        "CharacterId": 10012
+        "CharacterId": 10012,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd870>"
     },
     {
-        "CharacterId": 10013
+        "CharacterId": 10013,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccfd0>"
     },
     {
-        "CharacterId": 10014
+        "CharacterId": 10014,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc520>"
     },
     {
-        "CharacterId": 10015
+        "CharacterId": 10015,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a950>"
     },
     {
-        "CharacterId": 10016
+        "CharacterId": 10016,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87691e0>"
     },
     {
-        "CharacterId": 10017
+        "CharacterId": 10017,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87681c0>"
     },
     {
-        "CharacterId": 10018
+        "CharacterId": 10018,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769810>"
     },
     {
-        "CharacterId": 10019
+        "CharacterId": 10019,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a380>"
     },
     {
-        "CharacterId": 10020
+        "CharacterId": 10020,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a860>"
     },
     {
-        "CharacterId": 10021
+        "CharacterId": 10021,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876ba60>"
     },
     {
-        "CharacterId": 10022
+        "CharacterId": 10022,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94580>"
     },
     {
-        "CharacterId": 10023
+        "CharacterId": 10023,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94820>"
     },
     {
-        "CharacterId": 10024
+        "CharacterId": 10024,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94460>"
     },
     {
-        "CharacterId": 10025
+        "CharacterId": 10025,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96c50>"
     },
     {
-        "CharacterId": 10026
+        "CharacterId": 10026,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96e60>"
     },
     {
-        "CharacterId": 10027
+        "CharacterId": 10027,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97e80>"
     },
     {
-        "CharacterId": 10028
+        "CharacterId": 10028,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97c70>"
     },
     {
-        "CharacterId": 10029
+        "CharacterId": 10029,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453ee0>"
     },
     {
-        "CharacterId": 10030
+        "CharacterId": 10030,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82178b0>"
     },
     {
-        "CharacterId": 10031
+        "CharacterId": 10031,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812dff0>"
     },
     {
-        "CharacterId": 10032
+        "CharacterId": 10032,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812db70>"
     },
     {
-        "CharacterId": 10033
+        "CharacterId": 10033,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c910>"
     },
     {
-        "CharacterId": 10034
+        "CharacterId": 10034,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e290>"
     },
     {
-        "CharacterId": 10035
+        "CharacterId": 10035,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812eaa0>"
     },
     {
-        "CharacterId": 10036
+        "CharacterId": 10036,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812fe80>"
     },
     {
-        "CharacterId": 10037
+        "CharacterId": 10037,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c040>"
     },
     {
-        "CharacterId": 10038
+        "CharacterId": 10038,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ee30>"
     },
     {
-        "CharacterId": 10039
+        "CharacterId": 10039,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812dc30>"
     },
     {
-        "CharacterId": 10040
+        "CharacterId": 10040,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c1c0>"
     },
     {
-        "CharacterId": 10041
+        "CharacterId": 10041,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ec80>"
     },
     {
-        "CharacterId": 10042
+        "CharacterId": 10042,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d1b0>"
     },
     {
-        "CharacterId": 10043
+        "CharacterId": 10043,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812cd30>"
     },
     {
-        "CharacterId": 10044
+        "CharacterId": 10044,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e620>"
     },
     {
-        "CharacterId": 10045
+        "CharacterId": 10045,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56fb0>"
     },
     {
-        "CharacterId": 10046
+        "CharacterId": 10046,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc567a0>"
     },
     {
-        "CharacterId": 10047
+        "CharacterId": 10047,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc564d0>"
     },
     {
-        "CharacterId": 10048
+        "CharacterId": 10048,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc556c0>"
     },
     {
-        "CharacterId": 10049
+        "CharacterId": 10049,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57310>"
     },
     {
-        "CharacterId": 10050
+        "CharacterId": 10050,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc542b0>"
     },
     {
-        "CharacterId": 10051
+        "CharacterId": 10051,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56ef0>"
     },
     {
-        "CharacterId": 10052
+        "CharacterId": 10052,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54730>"
     },
     {
-        "CharacterId": 10053
+        "CharacterId": 10053,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aa860>"
     },
     {
-        "CharacterId": 10054
+        "CharacterId": 10054,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a96f0>"
     },
     {
-        "CharacterId": 10055
+        "CharacterId": 10055,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abfd0>"
     },
     {
-        "CharacterId": 10056
+        "CharacterId": 10056,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8156050>"
     },
     {
-        "CharacterId": 10057
+        "CharacterId": 10057,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8154a90>"
     },
     {
-        "CharacterId": 10058
+        "CharacterId": 10058,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8155480>"
     },
     {
-        "CharacterId": 10059
+        "CharacterId": 10059,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a8580>"
     },
     {
-        "CharacterId": 10060
+        "CharacterId": 10060,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a86d0>"
     },
     {
-        "CharacterId": 10061
+        "CharacterId": 10061,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54f10>"
     },
     {
-        "CharacterId": 10062
+        "CharacterId": 10062,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc571c0>"
     },
     {
-        "CharacterId": 10063
+        "CharacterId": 10063,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56980>"
     },
     {
-        "CharacterId": 10064
+        "CharacterId": 10064,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57ac0>"
     },
     {
-        "CharacterId": 10065
+        "CharacterId": 10065,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55f90>"
     },
     {
-        "CharacterId": 10066
+        "CharacterId": 10066,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55390>"
     },
     {
-        "CharacterId": 10067
+        "CharacterId": 10067,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54e50>"
     },
     {
-        "CharacterId": 10068
+        "CharacterId": 10068,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc547f0>"
     },
     {
-        "CharacterId": 10069
+        "CharacterId": 10069,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f970>"
     },
     {
-        "CharacterId": 10070
+        "CharacterId": 10070,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812cfd0>"
     },
     {
-        "CharacterId": 10071
+        "CharacterId": 10071,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812cdc0>"
     },
     {
-        "CharacterId": 10072
+        "CharacterId": 10072,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812dbd0>"
     },
     {
-        "CharacterId": 13000
+        "CharacterId": 13000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ca00>"
     },
     {
-        "CharacterId": 13001
+        "CharacterId": 13001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ffa0>"
     },
     {
-        "CharacterId": 13002
+        "CharacterId": 13002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ff10>"
     },
     {
-        "CharacterId": 13003
+        "CharacterId": 13003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f100>"
     },
     {
-        "CharacterId": 13004
+        "CharacterId": 13004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c700>"
     },
     {
-        "CharacterId": 13005
+        "CharacterId": 13005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e7a0>"
     },
     {
-        "CharacterId": 13006
+        "CharacterId": 13006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ea10>"
     },
     {
-        "CharacterId": 13007
+        "CharacterId": 13007,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e980>"
     },
     {
-        "CharacterId": 13008
+        "CharacterId": 13008,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d450>"
     },
     {
-        "CharacterId": 13009
+        "CharacterId": 13009,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f9a0>"
     },
     {
-        "CharacterId": 13010
+        "CharacterId": 13010,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450c70>"
     },
     {
-        "CharacterId": 13011
+        "CharacterId": 13011,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94a60>"
     },
     {
-        "CharacterId": 13012
+        "CharacterId": 13012,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f956f0>"
     },
     {
-        "CharacterId": 16000
+        "CharacterId": 16000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96710>"
     },
     {
-        "CharacterId": 16001
+        "CharacterId": 16001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95180>"
     },
     {
-        "CharacterId": 16002
+        "CharacterId": 16002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96020>"
     },
     {
-        "CharacterId": 16003
+        "CharacterId": 16003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96da0>"
     },
     {
-        "CharacterId": 16004
+        "CharacterId": 16004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95780>"
     },
     {
-        "CharacterId": 16005
+        "CharacterId": 16005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87684c0>"
     },
     {
-        "CharacterId": 16006
+        "CharacterId": 16006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768d30>"
     },
     {
-        "CharacterId": 16007
+        "CharacterId": 16007,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a4d0>"
     },
     {
-        "CharacterId": 16008
+        "CharacterId": 16008,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769a20>"
     },
     {
-        "CharacterId": 16009
+        "CharacterId": 16009,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bcd0>"
     },
     {
-        "CharacterId": 16010
+        "CharacterId": 16010,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876af80>"
     },
     {
-        "CharacterId": 16011
+        "CharacterId": 16011,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87694b0>"
     },
     {
-        "CharacterId": 16012
+        "CharacterId": 16012,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e080>"
     },
     {
-        "CharacterId": 20000
+        "CharacterId": 20000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf5e0>"
     },
     {
-        "CharacterId": 20001
+        "CharacterId": 20001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fccaf0>"
     },
     {
-        "CharacterId": 20002
+        "CharacterId": 20002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd810>"
     },
     {
-        "CharacterId": 20003
+        "CharacterId": 20003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcffd0>"
     },
     {
-        "CharacterId": 20004
+        "CharacterId": 20004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a93f0>"
     },
     {
-        "CharacterId": 20005
+        "CharacterId": 20005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9db0>"
     },
     {
-        "CharacterId": 20006
+        "CharacterId": 20006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9240>"
     },
     {
-        "CharacterId": 20007
+        "CharacterId": 20007,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8b50>"
     },
     {
-        "CharacterId": 20008
+        "CharacterId": 20008,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8b80>"
     },
     {
-        "CharacterId": 20009
+        "CharacterId": 20009,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdc00>"
     },
     {
-        "CharacterId": 20010
+        "CharacterId": 20010,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfdc0>"
     },
     {
-        "CharacterId": 20011
+        "CharacterId": 20011,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcdb70>"
     },
     {
-        "CharacterId": 20012
+        "CharacterId": 20012,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce7d0>"
     },
     {
-        "CharacterId": 20013
+        "CharacterId": 20013,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876aa40>"
     },
     {
-        "CharacterId": 20014
+        "CharacterId": 20014,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768be0>"
     },
     {
-        "CharacterId": 20015
+        "CharacterId": 20015,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769bd0>"
     },
     {
-        "CharacterId": 20016
+        "CharacterId": 20016,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768520>"
     },
     {
-        "CharacterId": 20017
+        "CharacterId": 20017,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876a620>"
     },
     {
-        "CharacterId": 20018
+        "CharacterId": 20018,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b550>"
     },
     {
-        "CharacterId": 20019
+        "CharacterId": 20019,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876aa70>"
     },
     {
-        "CharacterId": 20020
+        "CharacterId": 20020,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97bb0>"
     },
     {
-        "CharacterId": 20021
+        "CharacterId": 20021,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f974c0>"
     },
     {
-        "CharacterId": 20022
+        "CharacterId": 20022,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96c80>"
     },
     {
-        "CharacterId": 20023
+        "CharacterId": 20023,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94070>"
     },
     {
-        "CharacterId": 20024
+        "CharacterId": 20024,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96b00>"
     },
     {
-        "CharacterId": 20025
+        "CharacterId": 20025,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f976d0>"
     },
     {
-        "CharacterId": 20026
+        "CharacterId": 20026,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450c70>"
     },
     {
-        "CharacterId": 20027
+        "CharacterId": 20027,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217cd0>"
     },
     {
-        "CharacterId": 23000
+        "CharacterId": 23000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f9a0>"
     },
     {
-        "CharacterId": 23001
+        "CharacterId": 23001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d240>"
     },
     {
-        "CharacterId": 23002
+        "CharacterId": 23002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e1a0>"
     },
     {
-        "CharacterId": 23003
+        "CharacterId": 23003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e2c0>"
     },
     {
-        "CharacterId": 23004
+        "CharacterId": 23004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f4f0>"
     },
     {
-        "CharacterId": 23005
+        "CharacterId": 23005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d7e0>"
     },
     {
-        "CharacterId": 23006
+        "CharacterId": 23006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d270>"
     },
     {
-        "CharacterId": 23007
+        "CharacterId": 23007,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c670>"
     },
     {
-        "CharacterId": 23008
+        "CharacterId": 23008,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812fdf0>"
     },
     {
-        "CharacterId": 26000
+        "CharacterId": 26000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812fee0>"
     },
     {
-        "CharacterId": 26001
+        "CharacterId": 26001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e9b0>"
     },
     {
-        "CharacterId": 26002
+        "CharacterId": 26002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c7c0>"
     },
     {
-        "CharacterId": 26003
+        "CharacterId": 26003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ed70>"
     },
     {
-        "CharacterId": 26004
+        "CharacterId": 26004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812df90>"
     },
     {
-        "CharacterId": 26005
+        "CharacterId": 26005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57760>"
     },
     {
-        "CharacterId": 26006
+        "CharacterId": 26006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54bb0>"
     },
     {
-        "CharacterId": 26007
+        "CharacterId": 26007,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56830>"
     },
     {
-        "CharacterId": 26008
+        "CharacterId": 26008,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56d10>"
     },
     {
-        "CharacterId": 26009
+        "CharacterId": 26009,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc569e0>"
     },
     {
-        "CharacterId": 26010
+        "CharacterId": 26010,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57be0>"
     },
     {
-        "CharacterId": 10073
+        "CharacterId": 10073,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55360>"
     },
     {
-        "CharacterId": 10074
+        "CharacterId": 10074,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a86d0>"
     },
     {
-        "CharacterId": 16013
+        "CharacterId": 16013,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a9300>"
     },
     {
-        "CharacterId": 20028
+        "CharacterId": 20028,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a8ca0>"
     },
     {
-        "CharacterId": 20029
+        "CharacterId": 20029,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81573a0>"
     },
     {
-        "CharacterId": 10075
+        "CharacterId": 10075,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefe6e0>"
     },
     {
-        "CharacterId": 10076
+        "CharacterId": 10076,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefe170>"
     },
     {
-        "CharacterId": 13013
+        "CharacterId": 13013,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefca60>"
     },
     {
-        "CharacterId": 20030
+        "CharacterId": 20030,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8154a90>"
     },
     {
-        "CharacterId": 10077
+        "CharacterId": 10077,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aa590>"
     },
     {
-        "CharacterId": 10078
+        "CharacterId": 10078,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8a9ae0>"
     },
     {
-        "CharacterId": 20031
+        "CharacterId": 20031,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc546d0>"
     },
     {
-        "CharacterId": 10079
+        "CharacterId": 10079,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57040>"
     },
     {
-        "CharacterId": 10080
+        "CharacterId": 10080,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc56200>"
     },
     {
-        "CharacterId": 10081
+        "CharacterId": 10081,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc566b0>"
     },
     {
-        "CharacterId": 26011
+        "CharacterId": 26011,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc546a0>"
     },
     {
-        "CharacterId": 10082
+        "CharacterId": 10082,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54490>"
     },
     {
-        "CharacterId": 10083
+        "CharacterId": 10083,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55480>"
     },
     {
-        "CharacterId": 20032
+        "CharacterId": 20032,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812fd90>"
     },
     {
-        "CharacterId": 10084
+        "CharacterId": 10084,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e020>"
     },
     {
-        "CharacterId": 10085
+        "CharacterId": 10085,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c310>"
     },
     {
-        "CharacterId": 10086
+        "CharacterId": 10086,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812e9e0>"
     },
     {
-        "CharacterId": 10087
+        "CharacterId": 10087,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d000>"
     },
     {
-        "CharacterId": 16014
+        "CharacterId": 16014,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ece0>"
     },
     {
-        "CharacterId": 20033
+        "CharacterId": 20033,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812eda0>"
     },
     {
-        "CharacterId": 10088
+        "CharacterId": 10088,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f640>"
     },
     {
-        "CharacterId": 10089
+        "CharacterId": 10089,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d420>"
     },
     {
-        "CharacterId": 20034
+        "CharacterId": 20034,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ddb0>"
     },
     {
-        "CharacterId": 10090
+        "CharacterId": 10090,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f250>"
     },
     {
-        "CharacterId": 20035
+        "CharacterId": 20035,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812cac0>"
     },
     {
-        "CharacterId": 10091
+        "CharacterId": 10091,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812cdc0>"
     },
     {
-        "CharacterId": 10092
+        "CharacterId": 10092,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812f460>"
     },
     {
-        "CharacterId": 10093
+        "CharacterId": 10093,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451ed0>"
     },
     {
-        "CharacterId": 16015
+        "CharacterId": 16015,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f94490>"
     },
     {
-        "CharacterId": 10094
+        "CharacterId": 10094,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97700>"
     },
     {
-        "CharacterId": 10095
+        "CharacterId": 10095,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97e50>"
     },
     {
-        "CharacterId": 20036
+        "CharacterId": 20036,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97640>"
     },
     {
-        "CharacterId": 10096
+        "CharacterId": 10096,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97d90>"
     },
     {
-        "CharacterId": 10097
+        "CharacterId": 10097,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97730>"
     },
     {
-        "CharacterId": 20037
+        "CharacterId": 20037,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f97ca0>"
     },
     {
-        "CharacterId": 26012
+        "CharacterId": 26012,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768e50>"
     },
     {
-        "CharacterId": 10098
+        "CharacterId": 10098,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b160>"
     },
     {
-        "CharacterId": 10099
+        "CharacterId": 10099,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769600>"
     },
     {
-        "CharacterId": 10100
+        "CharacterId": 10100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b820>"
     },
     {
-        "CharacterId": 10101
+        "CharacterId": 10101,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bd90>"
     },
     {
-        "CharacterId": 10102
+        "CharacterId": 10102,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d000>"
     },
     {
-        "CharacterId": 26013
+        "CharacterId": 26013,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875d870>"
     },
     {
-        "CharacterId": 10103
+        "CharacterId": 10103,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcd870>"
     },
     {
-        "CharacterId": 20038
+        "CharacterId": 20038,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfa90>"
     },
     {
-        "CharacterId": 10104
+        "CharacterId": 10104,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc0a0>"
     },
     {
-        "CharacterId": 20039
+        "CharacterId": 20039,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce6b0>"
     },
     {
-        "CharacterId": 10105
+        "CharacterId": 10105,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a8670>"
     },
     {
-        "CharacterId": 10106
+        "CharacterId": 10106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0abdf0>"
     },
     {
-        "CharacterId": 16016
+        "CharacterId": 16016,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefc7f0>"
     },
     {
-        "CharacterId": 10107
+        "CharacterId": 10107,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd6c0>"
     },
     {
-        "CharacterId": 20040
+        "CharacterId": 20040,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd480>"
     },
     {
-        "CharacterId": 10108
+        "CharacterId": 10108,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aa470>"
     },
     {
-        "CharacterId": 10109
+        "CharacterId": 10109,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcc280>"
     },
     {
-        "CharacterId": 10110
+        "CharacterId": 10110,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf2e0>"
     },
     {
-        "CharacterId": 10111
+        "CharacterId": 10111,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcfd30>"
     },
     {
-        "CharacterId": 10112
+        "CharacterId": 10112,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fcf160>"
     },
     {
-        "CharacterId": 20041
+        "CharacterId": 20041,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875fa00>"
     },
     {
-        "CharacterId": 20042
+        "CharacterId": 20042,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769300>"
     },
     {
-        "CharacterId": 26014
+        "CharacterId": 26014,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769120>"
     },
     {
-        "CharacterId": 10113
+        "CharacterId": 10113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768d60>"
     },
     {
-        "CharacterId": 10114
+        "CharacterId": 10114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876b040>"
     },
     {
-        "CharacterId": 20043
+        "CharacterId": 20043,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876ae90>"
     },
     {
-        "CharacterId": 10115
+        "CharacterId": 10115,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b876bd30>"
     },
     {
-        "CharacterId": 10116
+        "CharacterId": 10116,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f946d0>"
     },
     {
-        "CharacterId": 20044
+        "CharacterId": 20044,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95450>"
     },
     {
-        "CharacterId": 10117
+        "CharacterId": 10117,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95180>"
     },
     {
-        "CharacterId": 10118
+        "CharacterId": 10118,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95300>"
     },
     {
-        "CharacterId": 16017
+        "CharacterId": 16017,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f95270>"
     },
     {
-        "CharacterId": 20045
+        "CharacterId": 20045,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96e00>"
     },
     {
-        "CharacterId": 10119
+        "CharacterId": 10119,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7f96020>"
     },
     {
-        "CharacterId": 10120
+        "CharacterId": 10120,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214100>"
     },
     {
-        "CharacterId": 20046
+        "CharacterId": 20046,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812d000>"
     }
 ]

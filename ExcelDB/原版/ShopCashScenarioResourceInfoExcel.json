@@ -1,626 +1,782 @@
 [
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 103
+        "ShopCashId": 103,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac269690>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 104
+        "ShopCashId": 104,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac269f30>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1000
+        "ShopCashId": 1000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26b4c0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1001
+        "ShopCashId": 1001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268040>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1002
+        "ShopCashId": 1002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26be50>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1003
+        "ShopCashId": 1003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac269150>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1004
+        "ShopCashId": 1004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45e70>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1005
+        "ShopCashId": 1005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47250>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1006
+        "ShopCashId": 1006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a457b0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1106
+        "ShopCashId": 1106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214400>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1113
+        "ShopCashId": 1113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82143d0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1114
+        "ShopCashId": 1114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26b4c0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 1206
+        "ShopCashId": 1206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82164d0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 503
+        "ShopCashId": 503,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217cd0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 504
+        "ShopCashId": 504,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214520>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5000
+        "ShopCashId": 5000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216ad0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5001
+        "ShopCashId": 5001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215db0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5002
+        "ShopCashId": 5002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216710>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5003
+        "ShopCashId": 5003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82153f0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5004
+        "ShopCashId": 5004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215f60>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5005
+        "ShopCashId": 5005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8460d00>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5006
+        "ShopCashId": 5006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84600a0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5106
+        "ShopCashId": 5106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84620b0>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5113
+        "ShopCashId": 5113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8461990>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5114
+        "ShopCashId": 5114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108e20>"
     },
     {
         "ScenarioResrouceInfoId": 2,
-        "ShopCashId": 5206
+        "ShopCashId": 5206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842ee90>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 103
+        "ShopCashId": 103,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d030>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 104
+        "ShopCashId": 104,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842e380>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1000
+        "ShopCashId": 1000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842c2e0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1001
+        "ShopCashId": 1001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842c400>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1002
+        "ShopCashId": 1002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842c940>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1003
+        "ShopCashId": 1003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842cdf0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1004
+        "ShopCashId": 1004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842dde0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1005
+        "ShopCashId": 1005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a860>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1006
+        "ShopCashId": 1006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8462dd0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1106
+        "ShopCashId": 1106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84629b0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1113
+        "ShopCashId": 1113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8462e60>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1114
+        "ShopCashId": 1114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8462ad0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 1206
+        "ShopCashId": 1206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214c70>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 503
+        "ShopCashId": 503,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82154e0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 504
+        "ShopCashId": 504,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215c60>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5000
+        "ShopCashId": 5000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82151b0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5001
+        "ShopCashId": 5001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215cf0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5002
+        "ShopCashId": 5002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214880>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5003
+        "ShopCashId": 5003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217610>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5004
+        "ShopCashId": 5004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b790>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5005
+        "ShopCashId": 5005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216d70>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5006
+        "ShopCashId": 5006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214130>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5106
+        "ShopCashId": 5106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268c40>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5113
+        "ShopCashId": 5113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268bb0>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5114
+        "ShopCashId": 5114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac269720>"
     },
     {
         "ScenarioResrouceInfoId": 3,
-        "ShopCashId": 5206
+        "ShopCashId": 5206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac2688b0>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 103
+        "ShopCashId": 103,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a4d0>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 104
+        "ShopCashId": 104,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268700>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1000
+        "ShopCashId": 1000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46740>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1001
+        "ShopCashId": 1001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44e50>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1002
+        "ShopCashId": 1002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45150>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1003
+        "ShopCashId": 1003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46050>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1004
+        "ShopCashId": 1004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46ec0>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1005
+        "ShopCashId": 1005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45840>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1006
+        "ShopCashId": 1006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a461a0>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1106
+        "ShopCashId": 1106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45840>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1113
+        "ShopCashId": 1113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44880>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1114
+        "ShopCashId": 1114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45840>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 1206
+        "ShopCashId": 1206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45120>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 503
+        "ShopCashId": 503,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45840>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 504
+        "ShopCashId": 504,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44d00>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5000
+        "ShopCashId": 5000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45840>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5001
+        "ShopCashId": 5001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45570>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5002
+        "ShopCashId": 5002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45840>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5003
+        "ShopCashId": 5003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84501c0>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5004
+        "ShopCashId": 5004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450340>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5005
+        "ShopCashId": 5005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452080>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5006
+        "ShopCashId": 5006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452170>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5106
+        "ShopCashId": 5106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84506d0>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5113
+        "ShopCashId": 5113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453130>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5114
+        "ShopCashId": 5114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451c00>"
     },
     {
         "ScenarioResrouceInfoId": 4,
-        "ShopCashId": 5206
+        "ShopCashId": 5206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee83a0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 103
+        "ShopCashId": 103,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee91e0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 104
+        "ShopCashId": 104,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee9030>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1000
+        "ShopCashId": 1000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee8910>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1001
+        "ShopCashId": 1001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee99f0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1002
+        "ShopCashId": 1002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee86d0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1003
+        "ShopCashId": 1003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceeba90>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1004
+        "ShopCashId": 1004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee8b50>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1005
+        "ShopCashId": 1005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee9b10>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1006
+        "ShopCashId": 1006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab9a0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1106
+        "ShopCashId": 1106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee83d0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1113
+        "ShopCashId": 1113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceeab60>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1114
+        "ShopCashId": 1114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee90f0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 1206
+        "ShopCashId": 1206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee9f90>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 503
+        "ShopCashId": 503,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceebee0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 504
+        "ShopCashId": 504,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee8fd0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5000
+        "ShopCashId": 5000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acee9fc0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5001
+        "ShopCashId": 5001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceeab30>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5002
+        "ShopCashId": 5002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452980>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5003
+        "ShopCashId": 5003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453970>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5004
+        "ShopCashId": 5004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453d60>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5005
+        "ShopCashId": 5005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450c40>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5006
+        "ShopCashId": 5006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451660>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5106
+        "ShopCashId": 5106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84509d0>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5113
+        "ShopCashId": 5113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452560>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5114
+        "ShopCashId": 5114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47280>"
     },
     {
         "ScenarioResrouceInfoId": 5,
-        "ShopCashId": 5206
+        "ShopCashId": 5206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a444f0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 103
+        "ShopCashId": 103,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45510>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 104
+        "ShopCashId": 104,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45de0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1000
+        "ShopCashId": 1000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a465c0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1001
+        "ShopCashId": 1001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45540>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1002
+        "ShopCashId": 1002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46410>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1003
+        "ShopCashId": 1003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47e20>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1004
+        "ShopCashId": 1004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a441f0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1005
+        "ShopCashId": 1005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a475e0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1006
+        "ShopCashId": 1006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44fd0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1106
+        "ShopCashId": 1106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45660>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1113
+        "ShopCashId": 1113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45e70>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1114
+        "ShopCashId": 1114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452980>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 1206
+        "ShopCashId": 1206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26ad70>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 503
+        "ShopCashId": 503,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a890>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 504
+        "ShopCashId": 504,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac2686a0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5000
+        "ShopCashId": 5000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac269d50>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5001
+        "ShopCashId": 5001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26abf0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5002
+        "ShopCashId": 5002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26bbe0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5003
+        "ShopCashId": 5003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac268cd0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5004
+        "ShopCashId": 5004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82161d0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5005
+        "ShopCashId": 5005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216a40>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5006
+        "ShopCashId": 5006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217a30>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5106
+        "ShopCashId": 5106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214fa0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5113
+        "ShopCashId": 5113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217910>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5114
+        "ShopCashId": 5114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216cb0>"
     },
     {
         "ScenarioResrouceInfoId": 6,
-        "ShopCashId": 5206
+        "ShopCashId": 5206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216590>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 103
+        "ShopCashId": 103,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217f70>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 104
+        "ShopCashId": 104,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217520>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1000
+        "ShopCashId": 1000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84612d0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1001
+        "ShopCashId": 1001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8461fc0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1002
+        "ShopCashId": 1002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84624d0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1003
+        "ShopCashId": 1003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8462a10>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1004
+        "ShopCashId": 1004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8462500>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1005
+        "ShopCashId": 1005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109f60>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1006
+        "ShopCashId": 1006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8abf10>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1106
+        "ShopCashId": 1106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aa650>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1113
+        "ShopCashId": 1113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842d810>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1114
+        "ShopCashId": 1114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26a890>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 1206
+        "ShopCashId": 1206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b842c310>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 503
+        "ShopCashId": 503,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aafb0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 504
+        "ShopCashId": 504,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8aa350>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5000
+        "ShopCashId": 5000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac8ab910>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5001
+        "ShopCashId": 5001,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8460c10>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5002
+        "ShopCashId": 5002,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8462da0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5003
+        "ShopCashId": 5003,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8460880>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5004
+        "ShopCashId": 5004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8460cd0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5005
+        "ShopCashId": 5005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8214610>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5006
+        "ShopCashId": 5006,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217bb0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5106
+        "ShopCashId": 5106,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217b80>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5113
+        "ShopCashId": 5113,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82163e0>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5114
+        "ShopCashId": 5114,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216410>"
     },
     {
         "ScenarioResrouceInfoId": 7,
-        "ShopCashId": 5206
+        "ShopCashId": 5206,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8216770>"
     }
 ]

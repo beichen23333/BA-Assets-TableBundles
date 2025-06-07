@@ -1,50 +1,66 @@
 [
     {
-        "SeasonId": 1
+        "SeasonId": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828afb0>"
     },
     {
-        "SeasonId": 2
+        "SeasonId": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87390c0>"
     },
     {
-        "SeasonId": 3
+        "SeasonId": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4730>"
     },
     {
-        "SeasonId": 4
+        "SeasonId": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6230>"
     },
     {
-        "SeasonId": 5
+        "SeasonId": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6410>"
     },
     {
-        "SeasonId": 6
+        "SeasonId": 6,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b4160>"
     },
     {
-        "SeasonId": 7
+        "SeasonId": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81097e0>"
     },
     {
-        "SeasonId": 8
+        "SeasonId": 8,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8738250>"
     },
     {
-        "SeasonId": 9
+        "SeasonId": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6140>"
     },
     {
-        "SeasonId": 10
+        "SeasonId": 10,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b42b0>"
     },
     {
-        "SeasonId": 11
+        "SeasonId": 11,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6fb0>"
     },
     {
-        "SeasonId": 12
+        "SeasonId": 12,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81b6c20>"
     },
     {
-        "SeasonId": 13
+        "SeasonId": 13,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828abf0>"
     },
     {
-        "SeasonId": 14
+        "SeasonId": 14,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828af20>"
     },
     {
-        "SeasonId": 15
+        "SeasonId": 15,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289b10>"
     },
     {
-        "SeasonId": 16
+        "SeasonId": 16,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828bac0>"
     }
 ]

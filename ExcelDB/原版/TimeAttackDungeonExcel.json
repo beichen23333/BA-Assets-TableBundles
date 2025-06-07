@@ -1,14 +1,18 @@
 [
     {
-        "Id": 1000
+        "Id": 1000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217a90>"
     },
     {
-        "Id": 2000
+        "Id": 2000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812ee60>"
     },
     {
-        "Id": 3000
+        "Id": 3000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812fbb0>"
     },
     {
-        "Id": 4000
+        "Id": 4000,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c5b0>"
     }
 ]

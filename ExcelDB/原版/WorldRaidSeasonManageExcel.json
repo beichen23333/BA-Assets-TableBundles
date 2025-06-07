@@ -1,17 +1,22 @@
 [
     {
-        "SeasonId": 814
+        "SeasonId": 814,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce1a0>"
     },
     {
-        "SeasonId": 821
+        "SeasonId": 821,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b7fce8c0>"
     },
     {
-        "SeasonId": 823
+        "SeasonId": 823,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8769a50>"
     },
     {
-        "SeasonId": 10814
+        "SeasonId": 10814,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8768820>"
     },
     {
-        "SeasonId": 900814
+        "SeasonId": 900814,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ebc0>"
     }
 ]

@@ -1,26 +1,34 @@
 [
     {
-        "ClanRewardType": 3
+        "ClanRewardType": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8738400>"
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873a2f0>"
     },
     {
-        "ClanRewardType": 2
+        "ClanRewardType": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceff610>"
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceffd30>"
     },
     {
-        "ClanRewardType": 2
+        "ClanRewardType": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceff160>"
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceffaf0>"
     },
     {
-        "ClanRewardType": 2
+        "ClanRewardType": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefdb70>"
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefdd20>"
     }
 ]

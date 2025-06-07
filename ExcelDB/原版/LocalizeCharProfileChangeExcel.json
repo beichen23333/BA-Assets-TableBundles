@@ -1,11 +1,14 @@
 [
     {
-        "CharacterId": 10005
+        "CharacterId": 10005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875fb20>"
     },
     {
-        "CharacterId": 10098
+        "CharacterId": 10098,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875fd90>"
     },
     {
-        "CharacterId": 10099
+        "CharacterId": 10099,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875fb20>"
     }
 ]

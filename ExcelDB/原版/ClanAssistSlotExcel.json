@@ -1,38 +1,50 @@
 [
     {
-        "SlotId": 0
+        "SlotId": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc578b0>"
     },
     {
-        "SlotId": 1
+        "SlotId": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc54670>"
     },
     {
-        "SlotId": 2
+        "SlotId": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc55e10>"
     },
     {
-        "SlotId": 3
+        "SlotId": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57af0>"
     },
     {
-        "SlotId": 4
+        "SlotId": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc570d0>"
     },
     {
-        "SlotId": 5
+        "SlotId": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1aceff7f0>"
     },
     {
-        "SlotId": 100
+        "SlotId": 100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefdea0>"
     },
     {
-        "SlotId": 110
+        "SlotId": 110,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefc640>"
     },
     {
-        "SlotId": 120
+        "SlotId": 120,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefee30>"
     },
     {
-        "SlotId": 130
+        "SlotId": 130,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8739b40>"
     },
     {
-        "SlotId": 131
+        "SlotId": 131,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b873a620>"
     },
     {
-        "SlotId": 132
+        "SlotId": 132,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8738a00>"
     }
 ]

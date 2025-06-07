@@ -1,34 +1,42 @@
 [
     {
         "EventContentId": 836,
-        "EndingId": 100
+        "EndingId": 100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b2e0>"
     },
     {
         "EventContentId": 836,
-        "EndingId": 200
+        "EndingId": 200,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e5f0>"
     },
     {
         "EventContentId": 836,
-        "EndingId": 100
+        "EndingId": 100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875fdc0>"
     },
     {
         "EventContentId": 836,
-        "EndingId": 200
+        "EndingId": 200,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875dea0>"
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10100
+        "EndingId": 10100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f8e0>"
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10200
+        "EndingId": 10200,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45e40>"
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10100
+        "EndingId": 10100,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44df0>"
     },
     {
         "EventContentId": 10836,
-        "EndingId": 10200
+        "EndingId": 10200,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45ba0>"
     }
 ]

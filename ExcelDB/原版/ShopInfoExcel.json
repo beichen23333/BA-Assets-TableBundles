@@ -1,47 +1,62 @@
 [
     {
-        "CategoryType": 0
+        "CategoryType": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b19dcf10>"
     },
     {
-        "CategoryType": 1
+        "CategoryType": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46530>"
     },
     {
-        "CategoryType": 2
+        "CategoryType": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47d90>"
     },
     {
-        "CategoryType": 33
+        "CategoryType": 33,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c070>"
     },
     {
-        "CategoryType": 3
+        "CategoryType": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875f910>"
     },
     {
-        "CategoryType": 4
+        "CategoryType": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a9060>"
     },
     {
-        "CategoryType": 9
+        "CategoryType": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0ab640>"
     },
     {
-        "CategoryType": 10
+        "CategoryType": 10,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aaf50>"
     },
     {
-        "CategoryType": 21
+        "CategoryType": 21,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc564d0>"
     },
     {
-        "CategoryType": 25
+        "CategoryType": 25,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc571c0>"
     },
     {
-        "CategoryType": 20
+        "CategoryType": 20,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87064a0>"
     },
     {
-        "CategoryType": 26
+        "CategoryType": 26,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc57250>"
     },
     {
-        "CategoryType": 27
+        "CategoryType": 27,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acc559c0>"
     },
     {
-        "CategoryType": 28
+        "CategoryType": 28,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0a93f0>"
     },
     {
-        "CategoryType": 29
+        "CategoryType": 29,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aba00>"
     }
 ]

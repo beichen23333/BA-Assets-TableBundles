@@ -1,26 +1,34 @@
 [
     {
-        "FarmingDungeonLocationId": 1
+        "FarmingDungeonLocationId": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac932e90>"
     },
     {
-        "FarmingDungeonLocationId": 2
+        "FarmingDungeonLocationId": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45e10>"
     },
     {
-        "FarmingDungeonLocationId": 3
+        "FarmingDungeonLocationId": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82156c0>"
     },
     {
-        "FarmingDungeonLocationId": 5
+        "FarmingDungeonLocationId": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82153c0>"
     },
     {
-        "FarmingDungeonLocationId": 6
+        "FarmingDungeonLocationId": 6,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217820>"
     },
     {
-        "FarmingDungeonLocationId": 7
+        "FarmingDungeonLocationId": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8215420>"
     },
     {
-        "FarmingDungeonLocationId": 8
+        "FarmingDungeonLocationId": 8,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c280>"
     },
     {
-        "FarmingDungeonLocationId": 9
+        "FarmingDungeonLocationId": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b812c9a0>"
     }
 ]

@@ -1,22 +1,27 @@
 [
     {
         "ItemId": 30000000,
-        "CharacterId": 10010
+        "CharacterId": 10010,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ec6a0>"
     },
     {
         "ItemId": 30000001,
-        "CharacterId": 13008
+        "CharacterId": 13008,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ed900>"
     },
     {
         "ItemId": 30000002,
-        "CharacterId": 13004
+        "CharacterId": 13004,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ed1e0>"
     },
     {
         "ItemId": 30000003,
-        "CharacterId": 23005
+        "CharacterId": 23005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ec1c0>"
     },
     {
         "ItemId": 30000004,
-        "CharacterId": 10005
+        "CharacterId": 10005,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac5ef490>"
     }
 ]

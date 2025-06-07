@@ -1,842 +1,1052 @@
 [
     {
         "GroupId": "StrategyStart",
-        "OperatorCondition": 1
+        "OperatorCondition": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108850>"
     },
     {
         "GroupId": "StrategyStart",
-        "OperatorCondition": 1
+        "OperatorCondition": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810aef0>"
     },
     {
         "GroupId": "StrategyStart",
-        "OperatorCondition": 1
+        "OperatorCondition": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109a50>"
     },
     {
         "GroupId": "StrategyStart",
-        "OperatorCondition": 1
+        "OperatorCondition": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45870>"
     },
     {
         "GroupId": "StrategyStart",
-        "OperatorCondition": 1
+        "OperatorCondition": 1,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a443d0>"
     },
     {
         "GroupId": "StrategyVictory",
-        "OperatorCondition": 2
+        "OperatorCondition": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b9f12680>"
     },
     {
         "GroupId": "StrategyVictory",
-        "OperatorCondition": 2
+        "OperatorCondition": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a260>"
     },
     {
         "GroupId": "StrategyVictory",
-        "OperatorCondition": 2
+        "OperatorCondition": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108310>"
     },
     {
         "GroupId": "StrategyVictory",
-        "OperatorCondition": 2
+        "OperatorCondition": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810be50>"
     },
     {
         "GroupId": "StrategyVictory",
-        "OperatorCondition": 2
+        "OperatorCondition": 2,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56590>"
     },
     {
         "GroupId": "StrategyDefeat",
-        "OperatorCondition": 3
+        "OperatorCondition": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54910>"
     },
     {
         "GroupId": "StrategyDefeat",
-        "OperatorCondition": 3
+        "OperatorCondition": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57a60>"
     },
     {
         "GroupId": "StrategyDefeat",
-        "OperatorCondition": 3
+        "OperatorCondition": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56380>"
     },
     {
         "GroupId": "StrategyDefeat",
-        "OperatorCondition": 3
+        "OperatorCondition": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54bb0>"
     },
     {
         "GroupId": "StrategyDefeat",
-        "OperatorCondition": 3
+        "OperatorCondition": 3,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace559c0>"
     },
     {
         "GroupId": "AdventureCombatStart",
-        "OperatorCondition": 4
+        "OperatorCondition": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82148b0>"
     },
     {
         "GroupId": "AdventureCombatStart",
-        "OperatorCondition": 4
+        "OperatorCondition": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217e20>"
     },
     {
         "GroupId": "AdventureCombatStart",
-        "OperatorCondition": 4
+        "OperatorCondition": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82167a0>"
     },
     {
         "GroupId": "AdventureCombatStart",
-        "OperatorCondition": 4
+        "OperatorCondition": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810a530>"
     },
     {
         "GroupId": "AdventureCombatStart",
-        "OperatorCondition": 4
+        "OperatorCondition": 4,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705ed0>"
     },
     {
         "GroupId": "AdventureCombatVictory",
-        "OperatorCondition": 5
+        "OperatorCondition": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac930e20>"
     },
     {
         "GroupId": "AdventureCombatVictory",
-        "OperatorCondition": 5
+        "OperatorCondition": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac931a80>"
     },
     {
         "GroupId": "AdventureCombatVictory",
-        "OperatorCondition": 5
+        "OperatorCondition": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875db40>"
     },
     {
         "GroupId": "AdventureCombatVictory",
-        "OperatorCondition": 5
+        "OperatorCondition": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288760>"
     },
     {
         "GroupId": "AdventureCombatVictory",
-        "OperatorCondition": 5
+        "OperatorCondition": 5,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450700>"
     },
     {
         "GroupId": "AdventureCombatDefeat",
-        "OperatorCondition": 6
+        "OperatorCondition": 6,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46530>"
     },
     {
         "GroupId": "AdventureCombatDefeat",
-        "OperatorCondition": 6
+        "OperatorCondition": 6,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefdcf0>"
     },
     {
         "GroupId": "AdventureCombatDefeat",
-        "OperatorCondition": 6
+        "OperatorCondition": 6,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1acefd1e0>"
     },
     {
         "GroupId": "AdventureCombatDefeat",
-        "OperatorCondition": 6
+        "OperatorCondition": 6,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84501c0>"
     },
     {
         "GroupId": "AdventureCombatDefeat",
-        "OperatorCondition": 6
+        "OperatorCondition": 6,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452470>"
     },
     {
         "GroupId": "ArenaCombatStart",
-        "OperatorCondition": 7
+        "OperatorCondition": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451fc0>"
     },
     {
         "GroupId": "ArenaCombatStart",
-        "OperatorCondition": 7
+        "OperatorCondition": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451ae0>"
     },
     {
         "GroupId": "ArenaCombatStart",
-        "OperatorCondition": 7
+        "OperatorCondition": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453820>"
     },
     {
         "GroupId": "ArenaCombatStart",
-        "OperatorCondition": 7
+        "OperatorCondition": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84518d0>"
     },
     {
         "GroupId": "ArenaCombatStart",
-        "OperatorCondition": 7
+        "OperatorCondition": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452fb0>"
     },
     {
         "GroupId": "ArenaCombatStart",
-        "OperatorCondition": 7
+        "OperatorCondition": 7,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289f90>"
     },
     {
         "GroupId": "ArenaCombatVictory",
-        "OperatorCondition": 8
+        "OperatorCondition": 8,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82886d0>"
     },
     {
         "GroupId": "ArenaCombatVictory",
-        "OperatorCondition": 8
+        "OperatorCondition": 8,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82896c0>"
     },
     {
         "GroupId": "ArenaCombatVictory",
-        "OperatorCondition": 8
+        "OperatorCondition": 8,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8d39f00>"
     },
     {
         "GroupId": "ArenaCombatVictory",
-        "OperatorCondition": 8
+        "OperatorCondition": 8,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57f40>"
     },
     {
         "GroupId": "ArenaCombatVictory",
-        "OperatorCondition": 8
+        "OperatorCondition": 8,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54730>"
     },
     {
         "GroupId": "ArenaCombatDefeat",
-        "OperatorCondition": 9
+        "OperatorCondition": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54040>"
     },
     {
         "GroupId": "ArenaCombatDefeat",
-        "OperatorCondition": 9
+        "OperatorCondition": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452470>"
     },
     {
         "GroupId": "ArenaCombatDefeat",
-        "OperatorCondition": 9
+        "OperatorCondition": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57760>"
     },
     {
         "GroupId": "ArenaCombatDefeat",
-        "OperatorCondition": 9
+        "OperatorCondition": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706a40>"
     },
     {
         "GroupId": "ArenaCombatDefeat",
-        "OperatorCondition": 9
+        "OperatorCondition": 9,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705180>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87066e0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45030>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a477c0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47fa0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a455a0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45420>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45330>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45b40>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_01_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706950>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706a70>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8a80340>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55cc0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54c10>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54880>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54fa0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57370>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b6d0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_02_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288fd0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289bd0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828ace0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452b00>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84538e0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451db0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84517e0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452080>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84505e0>"
     },
     {
         "GroupId": "WeekDungeonCombatStart_03_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84525c0>"
     },
     {
         "GroupId": "WeekDungeonCombatVictory",
-        "OperatorCondition": 11
+        "OperatorCondition": 11,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875efb0>"
     },
     {
         "GroupId": "WeekDungeonCombatVictory",
-        "OperatorCondition": 11
+        "OperatorCondition": 11,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e770>"
     },
     {
         "GroupId": "WeekDungeonCombatVictory",
-        "OperatorCondition": 11
+        "OperatorCondition": 11,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b96123b0>"
     },
     {
         "GroupId": "WeekDungeonCombatVictory",
-        "OperatorCondition": 11
+        "OperatorCondition": 11,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450c10>"
     },
     {
         "GroupId": "WeekDungeonCombatVictory",
-        "OperatorCondition": 11
+        "OperatorCondition": 11,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453010>"
     },
     {
         "GroupId": "WeekDungeonCombatDefeat",
-        "OperatorCondition": 12
+        "OperatorCondition": 12,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84509a0>"
     },
     {
         "GroupId": "WeekDungeonCombatDefeat",
-        "OperatorCondition": 12
+        "OperatorCondition": 12,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452140>"
     },
     {
         "GroupId": "WeekDungeonCombatDefeat",
-        "OperatorCondition": 12
+        "OperatorCondition": 12,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450e20>"
     },
     {
         "GroupId": "WeekDungeonCombatDefeat",
-        "OperatorCondition": 12
+        "OperatorCondition": 12,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453700>"
     },
     {
         "GroupId": "WeekDungeonCombatDefeat",
-        "OperatorCondition": 12
+        "OperatorCondition": 12,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288100>"
     },
     {
         "GroupId": "Chesed_Wave01_Count01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b430>"
     },
     {
         "GroupId": "Chesed_Wave01_Count01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82894b0>"
     },
     {
         "GroupId": "Chesed_Wave01_Count02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289810>"
     },
     {
         "GroupId": "Chesed_Wave02_Count01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace576d0>"
     },
     {
         "GroupId": "Chesed_Wave02_Count01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54250>"
     },
     {
         "GroupId": "Chesed_Wave02_Count02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55900>"
     },
     {
         "GroupId": "Chesed_Wave02_Count02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56f50>"
     },
     {
         "GroupId": "AdventureCombatTutorial_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace571c0>"
     },
     {
         "GroupId": "AdventureCombatTutorial_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8d9a560>"
     },
     {
         "GroupId": "AdventureCombatTutorial_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706da0>"
     },
     {
         "GroupId": "AdventureCombatTutorial_03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706470>"
     },
     {
         "GroupId": "AdventureCombatTutorial_04",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45f00>"
     },
     {
         "GroupId": "AdventureCombatTutorial_04",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a460e0>"
     },
     {
         "GroupId": "AdventureCombatTutorial_04",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44550>"
     },
     {
         "GroupId": "AdventureCombatTutorial_05",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ded0>"
     },
     {
         "GroupId": "AdventureCombatTutorial_05",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47550>"
     },
     {
         "GroupId": "AdventureCombatTutorial_06",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46e90>"
     },
     {
         "GroupId": "AdventureCombatTutorial_07",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a451e0>"
     },
     {
         "GroupId": "AdventureCombatTutorial_08",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87053f0>"
     },
     {
         "GroupId": "StrategyWarpUnitFromHideTile",
-        "OperatorCondition": 16
+        "OperatorCondition": 16,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706770>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatStart01",
-        "OperatorCondition": 17
+        "OperatorCondition": 17,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54790>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatStart01",
-        "OperatorCondition": 17
+        "OperatorCondition": 17,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54e80>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatStart01",
-        "OperatorCondition": 17
+        "OperatorCondition": 17,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace544c0>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatVictory01",
-        "OperatorCondition": 18
+        "OperatorCondition": 18,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace540a0>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatVictory01",
-        "OperatorCondition": 18
+        "OperatorCondition": 18,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54880>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatVictory01",
-        "OperatorCondition": 18
+        "OperatorCondition": 18,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55180>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatDefeat01",
-        "OperatorCondition": 19
+        "OperatorCondition": 19,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289300>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatDefeat01",
-        "OperatorCondition": 19
+        "OperatorCondition": 19,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289600>"
     },
     {
         "GroupId": "TimeAttackDungeonCombatDefeat01",
-        "OperatorCondition": 19
+        "OperatorCondition": 19,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288250>"
     },
     {
         "GroupId": "HOD_Start_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289120>"
     },
     {
         "GroupId": "HOD_TemporaryTower_CrowdControlGauge_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84513f0>"
     },
     {
         "GroupId": "HOD_TemporaryTower_CrowdControlGauge_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453c70>"
     },
     {
         "GroupId": "HOD_CrowdControlGauge_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451450>"
     },
     {
         "GroupId": "806EventCombatInfo_01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453ca0>"
     },
     {
         "GroupId": "806EventCombatInfo_02_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452440>"
     },
     {
         "GroupId": "806EventCombatInfo_03_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450e80>"
     },
     {
         "GroupId": "811EventCombatInfo_Permanent_01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e0b0>"
     },
     {
         "GroupId": "811EventCombatInfo_Permanent_01_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875fa30>"
     },
     {
         "GroupId": "815EventConquestInfo_01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82152d0>"
     },
     {
         "GroupId": "821_WorldRaidBossSpawn01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875e290>"
     },
     {
         "GroupId": "821_WorldRaidBossSpawn02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453190>"
     },
     {
         "GroupId": "821_WorldRaidBossSpawn03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450d90>"
     },
     {
         "GroupId": "821_WorldRaidScenarioBattle",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453d30>"
     },
     {
         "GroupId": "821_WorldRaidScenarioBattle",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450190>"
     },
     {
         "GroupId": "821_WorldRaidScenarioBattle",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451bd0>"
     },
     {
         "GroupId": "821_WorldRaidBossKill",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84529e0>"
     },
     {
         "GroupId": "821_WorldRaidBossKill",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b9613a00>"
     },
     {
         "GroupId": "821_WorldRaidBossKill",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828ad70>"
     },
     {
         "GroupId": "821_WorldRaidFinalClear",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288940>"
     },
     {
         "GroupId": "822_ConquestMapOpen01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82897e0>"
     },
     {
         "GroupId": "822_ConquestMapOpen02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8a44460>"
     },
     {
         "GroupId": "822_ConquestMapOpen03",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace546a0>"
     },
     {
         "GroupId": "822_ConquestTileLevelup",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54520>"
     },
     {
         "GroupId": "822_ConquestTileLevelup",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55450>"
     },
     {
         "GroupId": "822_ConquestTileLevelup",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56ce0>"
     },
     {
         "GroupId": "822_ConquestTileConquest",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55f90>"
     },
     {
         "GroupId": "822_ConquestTileConquest",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707730>"
     },
     {
         "GroupId": "822_ConquestTileConquest",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707af0>"
     },
     {
         "GroupId": "822_ConquestBossTileConquest",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706f80>"
     },
     {
         "GroupId": "822_ConquestBossTileConquest",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47a90>"
     },
     {
         "GroupId": "822_ConquestBossTileConquest",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47400>"
     },
     {
         "GroupId": "822_ConquestTileComplete",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8217400>"
     },
     {
         "GroupId": "822_ConquestTileManageReward",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82153f0>"
     },
     {
         "GroupId": "822_ConquestTileManageReward",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a449d0>"
     },
     {
         "GroupId": "822_ConquestTileManageReward",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46a70>"
     },
     {
         "GroupId": "822_ConquestErosion",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47940>"
     },
     {
         "GroupId": "822_ConquestErosion",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706dd0>"
     },
     {
         "GroupId": "822_ConquestErosion",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706200>"
     },
     {
         "GroupId": "822_ConquestErosionRemove",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8d3a050>"
     },
     {
         "GroupId": "822_ConquestErosionRemove",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55b70>"
     },
     {
         "GroupId": "822_ConquestErosionRemove",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56f20>"
     },
     {
         "GroupId": "822_ConquestChallenge_05",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54a00>"
     },
     {
         "GroupId": "822_ConquestChallenge_05_02",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace552a0>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase1",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace54d60>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase1",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288280>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase1",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828b4f0>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase1",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289360>"
     },
     {
         "GroupId": "823_FrenapatisCinematicSkill1Ready",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288970>"
     },
     {
         "GroupId": "823_FrenapatisCinematicSkill1",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84533a0>"
     },
     {
         "GroupId": "823_FrenapatisCinematicSkill1",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451930>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase2Disable",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450040>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase2",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8451150>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase2",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8450b20>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase2",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84529b0>"
     },
     {
         "GroupId": "823_FrenapatisCinematicSkill2",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875ed70>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase3Disable",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81086a0>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase3",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b875c820>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase3",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453040>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase3",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8453a90>"
     },
     {
         "GroupId": "823_FrenapatisCinematicPhase3",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84527a0>"
     },
     {
         "GroupId": "823_FrenapatisCinematicEnd",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452050>"
     },
     {
         "GroupId": "823_WorldRaidEnter_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84524a0>"
     },
     {
         "GroupId": "823_WorldRaidEnter_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b84507f0>"
     },
     {
         "GroupId": "823_EN0002Open",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288490>"
     },
     {
         "GroupId": "823_EN0004Open",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289960>"
     },
     {
         "GroupId": "823_EN0002Enter_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8289f90>"
     },
     {
         "GroupId": "823_EN0002Enter_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8dbe4a0>"
     },
     {
         "GroupId": "823_EN0002Enter_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace556f0>"
     },
     {
         "GroupId": "823_EN0002Enter_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56680>"
     },
     {
         "GroupId": "823_EN0002Skill01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55840>"
     },
     {
         "GroupId": "823_EN0002Skill01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace57ca0>"
     },
     {
         "GroupId": "823_EN0002Skill01_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace55840>"
     },
     {
         "GroupId": "823_EN0002Skill02_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8707eb0>"
     },
     {
         "GroupId": "823_EN0002Skill02_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8706b60>"
     },
     {
         "GroupId": "823_EN0002Phase2_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b87065f0>"
     },
     {
         "GroupId": "823_EN0002Phase2_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47700>"
     },
     {
         "GroupId": "823_EN0002FeverTime_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a45ba0>"
     },
     {
         "GroupId": "823_EN0002Victory_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108a60>"
     },
     {
         "GroupId": "823_EN0002Victory_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109a80>"
     },
     {
         "GroupId": "823_EN0002Defeat_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109c90>"
     },
     {
         "GroupId": "823_EN0002Defeat_01",
-        "OperatorCondition": 0
+        "OperatorCondition": 0,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108f10>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaEnter",
-        "OperatorCondition": 24
+        "OperatorCondition": 24,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a47040>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaEnter",
-        "OperatorCondition": 24
+        "OperatorCondition": 24,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a46fb0>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaEnter",
-        "OperatorCondition": 24
+        "OperatorCondition": 24,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b1a44dc0>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaEnter",
-        "OperatorCondition": 24
+        "OperatorCondition": 24,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705c30>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaComeback",
-        "OperatorCondition": 25
+        "OperatorCondition": 25,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8705ed0>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaComeback",
-        "OperatorCondition": 25
+        "OperatorCondition": 25,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b9613a00>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaComeback",
-        "OperatorCondition": 25
+        "OperatorCondition": 25,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56f50>"
     },
     {
         "GroupId": "828_MinigameTBG_ThemaComeback",
-        "OperatorCondition": 25
+        "OperatorCondition": 25,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace56320>"
     },
     {
         "GroupId": "828_MinigameTBG_Revive",
-        "OperatorCondition": 26
+        "OperatorCondition": 26,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace566b0>"
     },
     {
         "GroupId": "828_MinigameTBG_Revive",
-        "OperatorCondition": 26
+        "OperatorCondition": 26,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace546d0>"
     },
     {
         "GroupId": "828_MinigameTBG_Revive",
-        "OperatorCondition": 26
+        "OperatorCondition": 26,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ace540d0>"
     },
     {
         "GroupId": "828_MinigameTBG_Revive",
-        "OperatorCondition": 26
+        "OperatorCondition": 26,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b82895a0>"
     },
     {
         "GroupId": "828_MinigameTBG_ItemUse",
-        "OperatorCondition": 27
+        "OperatorCondition": 27,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828ada0>"
     },
     {
         "GroupId": "828_MinigameTBG_ItemUse",
-        "OperatorCondition": 27
+        "OperatorCondition": 27,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b828a7d0>"
     },
     {
         "GroupId": "828_MinigameTBG_ItemUse",
-        "OperatorCondition": 27
+        "OperatorCondition": 27,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8288970>"
     },
     {
         "GroupId": "828_MinigameTBG_ItemUse",
-        "OperatorCondition": 27
+        "OperatorCondition": 27,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8452e60>"
     }
 ]

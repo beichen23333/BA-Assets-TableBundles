@@ -1,20 +1,26 @@
 [
     {
-        "CostumeUniqueId": 2000501
+        "CostumeUniqueId": 2000501,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8108d00>"
     },
     {
-        "CostumeUniqueId": 2000901
+        "CostumeUniqueId": 2000901,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b8109db0>"
     },
     {
-        "CostumeUniqueId": 2001601
+        "CostumeUniqueId": 2001601,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b810b280>"
     },
     {
-        "CostumeUniqueId": 2003401
+        "CostumeUniqueId": 2003401,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ac26af80>"
     },
     {
-        "CostumeUniqueId": 2600701
+        "CostumeUniqueId": 2600701,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1b81097e0>"
     },
     {
-        "CostumeUniqueId": 1009801
+        "CostumeUniqueId": 1009801,
+        "_tab": "<flatbuffers.table.Table object at 0x7fc1ad0aaf50>"
     }
 ]

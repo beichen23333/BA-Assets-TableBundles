@@ -1,4 +1,4 @@
-# Blue Archive Assets File
+# Blue Archive TableBundles
 本仓库用于储存BA的TableBundles/ExcelDB.db与Excel.zip反序列化文件，游戏更新后10～30分钟后运行并自动部署（6分钟运行过程），后续会更新国服和国际服的自动化获取，以及Excel.zip解包数据。
 
 This repository stores BA's TableBundles/ExcelDB.db and deserialized Excel.zip files. It automatically runs and deploys 10–30 minutes after a game update (takes ~6 minutes). Future updates will include automated fetching for CN and Global servers, as well as unpacked Excel.zip data.

@@ -16,3 +16,26 @@ This project is intended solely for educational and demonstrative purposes and d
 “蔚蓝档案”是上海星啸网络科技有限公司的注册商标，版权所有。 
 
 「ブルーアーカイブ」は株式会社Yostarの登録商標です。著作権はすべて保有されています。 
+
+## 游戏文本所在文件（DB）
+CharacterDialogEmojiExcel.json
+CharacterDialogEventExcel.json
+CharacterDialogExcel.json
+LocalizeErrorExcel.json
+LocalizeEtcExcel.json
+LocalizeExcel.json
+LocalizeSkillExcel.json
+ScenarioCharacterNameExcel.json
+ScenarioScriptExcel.json
+TutorialCharacterDialogExcel.json
+
+以下为日服和国际服特供（角色语音档案）
+CharacterVoiceSubtitleExcel.json
+CharacterDialogSubtitleExcel.json
+
+## 游戏文本所在文件（Excel）
+AcademyMessanger1ExcelTable.json
+AcademyMessanger2ExcelTable.json
+CharacterDialogFieldExcelTable.json
+LocalizeCharProfileExcelTable.json
+LocalizeGachaShopExcelTable.json

@@ -1,17 +1,52 @@
 [
     {
-        "Id": 6000701
+        "Id": 6000701,
+        "LocalizeCodeID": "Event_Treasure_CellReward_60000",
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 1,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 1,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 1
     },
     {
-        "Id": 6000801
+        "Id": 6000801,
+        "LocalizeCodeID": "Event_Treasure_CellReward_60000",
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 1,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 1,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 1
     },
     {
-        "Id": 84001
+        "Id": 84001,
+        "LocalizeCodeID": "Event_Treasure_CellReward",
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 1,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 1,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 1
     },
     {
-        "Id": 84201
+        "Id": 84201,
+        "LocalizeCodeID": "Event_Treasure_CellReward",
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 1,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 1,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 1
     },
     {
-        "Id": 6001201
+        "Id": 6001201,
+        "LocalizeCodeID": "Event_Treasure_CellReward_60000",
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 1,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 1,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 1
     }
 ]

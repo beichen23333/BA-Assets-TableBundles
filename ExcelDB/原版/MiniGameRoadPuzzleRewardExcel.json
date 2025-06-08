@@ -1,30 +1,72 @@
 [
     {
         "EventContentId": 846,
-        "UniqueId": 100
+        "UniqueId": 100,
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 14,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 14,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 14
     },
     {
         "EventContentId": 846,
-        "UniqueId": 200
+        "UniqueId": 200,
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 16,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 16,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 16
     },
     {
         "EventContentId": 846,
-        "UniqueId": 300
+        "UniqueId": 300,
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 16,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 16,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 16
     },
     {
         "EventContentId": 846,
-        "UniqueId": 400
+        "UniqueId": 400,
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 16,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 16,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 16
     },
     {
         "EventContentId": 846,
-        "UniqueId": 500
+        "UniqueId": 500,
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 16,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 16,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 16
     },
     {
         "EventContentId": 846,
-        "UniqueId": 600
+        "UniqueId": 600,
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 16,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 16,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 16
     },
     {
         "EventContentId": 846,
-        "UniqueId": 700
+        "UniqueId": 700,
+        "RewardParcelAmountIsNone": false,
+        "RewardParcelAmountLength": 11,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 11,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 11
     }
 ]

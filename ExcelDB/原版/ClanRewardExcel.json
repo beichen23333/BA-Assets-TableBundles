@@ -1,26 +1,58 @@
 [
     {
-        "ClanRewardType": 3
+        "ClanRewardType": 3,
+        "EchelonType": 0,
+        "RewardParcelAmount": 10,
+        "RewardParcelId": 5,
+        "RewardParcelType": 2
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "EchelonType": 2,
+        "RewardParcelAmount": 20,
+        "RewardParcelId": 1,
+        "RewardParcelType": 2
     },
     {
-        "ClanRewardType": 2
+        "ClanRewardType": 2,
+        "EchelonType": 2,
+        "RewardParcelAmount": 50000,
+        "RewardParcelId": 1,
+        "RewardParcelType": 2
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "EchelonType": 15,
+        "RewardParcelAmount": 20,
+        "RewardParcelId": 1,
+        "RewardParcelType": 2
     },
     {
-        "ClanRewardType": 2
+        "ClanRewardType": 2,
+        "EchelonType": 15,
+        "RewardParcelAmount": 50000,
+        "RewardParcelId": 1,
+        "RewardParcelType": 2
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "EchelonType": 11,
+        "RewardParcelAmount": 20,
+        "RewardParcelId": 1,
+        "RewardParcelType": 2
     },
     {
-        "ClanRewardType": 2
+        "ClanRewardType": 2,
+        "EchelonType": 11,
+        "RewardParcelAmount": 50000,
+        "RewardParcelId": 1,
+        "RewardParcelType": 2
     },
     {
-        "ClanRewardType": 1
+        "ClanRewardType": 1,
+        "EchelonType": 24,
+        "RewardParcelAmount": 20,
+        "RewardParcelId": 1,
+        "RewardParcelType": 2
     }
 ]

@@ -1,50 +1,226 @@
 [
     {
-        "SeasonId": 1
+        "SeasonId": 1,
+        "EndNoteLabelStartDate": "2024-04-13 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-04-24 03:59:59",
+        "SeasonStartDate": "2024-03-28 11:00:00",
+        "SettlementEndDate": "2024-04-25 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 2
+        "SeasonId": 2,
+        "EndNoteLabelStartDate": "2024-05-11 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008_LightArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-05-22 03:59:59",
+        "SeasonStartDate": "2024-04-25 11:00:00",
+        "SettlementEndDate": "2024-05-23 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 3
+        "SeasonId": 3,
+        "EndNoteLabelStartDate": "2024-06-15 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-06-26 03:59:59",
+        "SeasonStartDate": "2024-05-23 11:00:00",
+        "SettlementEndDate": "2024-06-27 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 4
+        "SeasonId": 4,
+        "EndNoteLabelStartDate": "2024-07-11 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008_LightArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-07-22 03:59:59",
+        "SeasonStartDate": "2024-06-27 11:00:00",
+        "SettlementEndDate": "2024-07-23 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 5
+        "SeasonId": 5,
+        "EndNoteLabelStartDate": "2024-08-10 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-08-21 03:59:59",
+        "SeasonStartDate": "2024-07-23 11:00:00",
+        "SettlementEndDate": "2024-08-22 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 6
+        "SeasonId": 6,
+        "EndNoteLabelStartDate": "2024-09-14 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008_LightArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-09-25 03:59:59",
+        "SeasonStartDate": "2024-08-22 11:00:00",
+        "SettlementEndDate": "2024-09-26 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 7
+        "SeasonId": 7,
+        "EndNoteLabelStartDate": "2024-10-12 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-10-23 03:59:59",
+        "SeasonStartDate": "2024-09-26 11:00:00",
+        "SettlementEndDate": "2024-10-24 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 8
+        "SeasonId": 8,
+        "EndNoteLabelStartDate": "2024-11-09 03:59:59",
+        "EnterScenarioKey": 242141529,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00002",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00002",
+        "OpenRaidBossGroupId": "EN0009",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_Chokmah_PlayTipLabel",
+        "SeasonEndDate": "2024-11-20 03:59:59",
+        "SeasonStartDate": "2024-10-24 11:00:00",
+        "SettlementEndDate": "2024-11-21 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 9
+        "SeasonId": 9,
+        "EndNoteLabelStartDate": "2024-12-13 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008_LightArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2024-12-24 03:59:59",
+        "SeasonStartDate": "2024-11-21 11:00:00",
+        "SettlementEndDate": "2024-12-25 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 10
+        "SeasonId": 10,
+        "EndNoteLabelStartDate": "2025-01-09 03:59:59",
+        "EnterScenarioKey": 242141529,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00002",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00002",
+        "OpenRaidBossGroupId": "EN0009_HeavyArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_Chokmah_PlayTipLabel",
+        "SeasonEndDate": "2025-01-20 03:59:59",
+        "SeasonStartDate": "2024-12-25 11:00:00",
+        "SettlementEndDate": "2025-01-21 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 11
+        "SeasonId": 11,
+        "EndNoteLabelStartDate": "2025-02-15 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2025-02-26 03:59:59",
+        "SeasonStartDate": "2025-01-21 11:00:00",
+        "SettlementEndDate": "2025-02-27 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 12
+        "SeasonId": 12,
+        "EndNoteLabelStartDate": "2025-03-15 03:59:59",
+        "EnterScenarioKey": 242141529,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00002",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00002",
+        "OpenRaidBossGroupId": "EN0009",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_Chokmah_PlayTipLabel",
+        "SeasonEndDate": "2025-03-26 03:59:59",
+        "SeasonStartDate": "2025-02-27 11:00:00",
+        "SettlementEndDate": "2025-03-27 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 13
+        "SeasonId": 13,
+        "EndNoteLabelStartDate": "2025-04-11 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008_LightArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2025-04-22 03:59:59",
+        "SeasonStartDate": "2025-03-27 11:00:00",
+        "SettlementEndDate": "2025-04-23 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 14
+        "SeasonId": 14,
+        "EndNoteLabelStartDate": "2025-05-10 03:59:59",
+        "EnterScenarioKey": 1226332916,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00003",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00003",
+        "OpenRaidBossGroupId": "EN0011",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_Tipereth_PlayTipLabel",
+        "SeasonEndDate": "2025-05-21 03:59:59",
+        "SeasonStartDate": "2025-04-23 11:00:00",
+        "SettlementEndDate": "2025-05-22 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 15
+        "SeasonId": 15,
+        "EndNoteLabelStartDate": "2025-06-14 03:59:59",
+        "EnterScenarioKey": 242141529,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00002",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00002",
+        "OpenRaidBossGroupId": "EN0009_HeavyArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_Chokmah_PlayTipLabel",
+        "SeasonEndDate": "2025-06-25 03:59:59",
+        "SeasonStartDate": "2025-05-22 11:00:00",
+        "SettlementEndDate": "2025-06-26 11:00:00",
+        "ShowLobbyBanner": 0
     },
     {
-        "SeasonId": 16
+        "SeasonId": 16,
+        "EndNoteLabelStartDate": "2025-07-11 03:59:59",
+        "EnterScenarioKey": 121582915,
+        "LevelImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_Minimap_00001",
+        "LobbyEnterScenario": 0,
+        "LobbyImgPath": "UIs/01_Common/46_MultiFloorRaid/Resources/MultiFloorRaid_LobbyImg_00001",
+        "OpenRaidBossGroupId": "EN0008_LightArmor",
+        "PlayTip": "UI_MultiFloorRaid_FloorList_FuryOfSeth_PlayTipLabel",
+        "SeasonEndDate": "2025-07-22 03:59:59",
+        "SeasonStartDate": "2025-06-26 11:00:00",
+        "SettlementEndDate": "2025-07-23 11:00:00",
+        "ShowLobbyBanner": 0
     }
 ]

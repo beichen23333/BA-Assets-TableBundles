@@ -1,5 +1,18 @@
 [
     {
-        "Id": 1
+        "Id": 1,
+        "RewardMaxPoint": 301500,
+        "RewardMinPointIsNone": false,
+        "RewardMinPointLength": 21,
+        "RewardParcelDefaultAmountIsNone": false,
+        "RewardParcelDefaultAmountLength": 21,
+        "RewardParcelIdIsNone": false,
+        "RewardParcelIdLength": 21,
+        "RewardParcelMaxAmountIsNone": false,
+        "RewardParcelMaxAmountLength": 21,
+        "RewardParcelTypeIsNone": false,
+        "RewardParcelTypeLength": 21,
+        "RewardTypeIsNone": false,
+        "RewardTypeLength": 21
     }
 ]

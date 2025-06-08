@@ -1,38 +1,110 @@
 [
     {
-        "Id": 1
+        "Id": 1,
+        "EventNotifyType": 1,
+        "EventTargetType": 7,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_exp",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 2677521194,
+        "ShortcutEventTargetType": 2
     },
     {
-        "Id": 2
+        "Id": 2,
+        "EventNotifyType": 0,
+        "EventTargetType": 2,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_reward",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 3304210687,
+        "ShortcutEventTargetType": 2
     },
     {
-        "Id": 3
+        "Id": 3,
+        "EventNotifyType": 0,
+        "EventTargetType": 3,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_reward",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 4244842346,
+        "ShortcutEventTargetType": 3
     },
     {
-        "Id": 4
+        "Id": 4,
+        "EventNotifyType": 0,
+        "EventTargetType": 1,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_reward",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 3159675439,
+        "ShortcutEventTargetType": 1
     },
     {
-        "Id": 5
+        "Id": 5,
+        "EventNotifyType": 0,
+        "EventTargetType": 0,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_reward",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 3169167042,
+        "ShortcutEventTargetType": 0
     },
     {
-        "Id": 6
+        "Id": 6,
+        "EventNotifyType": 0,
+        "EventTargetType": 5,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_reward",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 1671798706,
+        "ShortcutEventTargetType": 5
     },
     {
-        "Id": 7
+        "Id": 7,
+        "EventNotifyType": 0,
+        "EventTargetType": 4,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_reward",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 1252278296,
+        "ShortcutEventTargetType": 4
     },
     {
-        "Id": 8
+        "Id": 8,
+        "EventNotifyType": 2,
+        "EventTargetType": 8,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_open_raid",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 3822483356,
+        "ShortcutEventTargetType": 8
     },
     {
-        "Id": 9
+        "Id": 9,
+        "EventNotifyType": 3,
+        "EventTargetType": 6,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_open_timeattack",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 2351712965,
+        "ShortcutEventTargetType": 6
     },
     {
-        "Id": 10
+        "Id": 10,
+        "EventNotifyType": 0,
+        "EventTargetType": 6,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/img_eventnotice_twice_timeattack",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 2160121253,
+        "ShortcutEventTargetType": 6
     },
     {
-        "Id": 11
+        "Id": 11,
+        "EventNotifyType": 4,
+        "EventTargetType": 9,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/Img_EventNotice_Open_EliminateRaid",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 308153054,
+        "ShortcutEventTargetType": 9
     },
     {
-        "Id": 12
+        "Id": 12,
+        "EventNotifyType": 5,
+        "EventTargetType": 10,
+        "IconPath": "uis/01_common/27_eventcontent/eventnotice/Img_EventNotice_Open_MultiFloorRaid",
+        "IsShortcutEnable": true,
+        "LocalizeEtcId": 4065088019,
+        "ShortcutEventTargetType": 10
     }
 ]

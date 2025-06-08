@@ -1,23 +1,65 @@
 [
     {
-        "Id": 1
+        "Id": 1,
+        "FreeRecruitDecorationImagePath": "",
+        "FreeRecruitPeriodFrom": "2022-01-26 04:00:00",
+        "FreeRecruitPeriodTo": "2022-02-09 03:59:59",
+        "FreeRecruitType": 1,
+        "ShopRecruitIdIsNone": false,
+        "ShopRecruitIdLength": 4
     },
     {
-        "Id": 2
+        "Id": 2,
+        "FreeRecruitDecorationImagePath": "",
+        "FreeRecruitPeriodFrom": "2022-07-25 11:00:00",
+        "FreeRecruitPeriodTo": "2022-08-03 11:00:00",
+        "FreeRecruitType": 1,
+        "ShopRecruitIdIsNone": false,
+        "ShopRecruitIdLength": 3
     },
     {
-        "Id": 3
+        "Id": 3,
+        "FreeRecruitDecorationImagePath": "",
+        "FreeRecruitPeriodFrom": "2023-01-31 11:00:00",
+        "FreeRecruitPeriodTo": "2023-02-10 03:59:59",
+        "FreeRecruitType": 1,
+        "ShopRecruitIdIsNone": false,
+        "ShopRecruitIdLength": 3
     },
     {
-        "Id": 4
+        "Id": 4,
+        "FreeRecruitDecorationImagePath": "",
+        "FreeRecruitPeriodFrom": "2023-07-24 11:00:00",
+        "FreeRecruitPeriodTo": "2023-08-02 10:59:59",
+        "FreeRecruitType": 1,
+        "ShopRecruitIdIsNone": false,
+        "ShopRecruitIdLength": 3
     },
     {
-        "Id": 5
+        "Id": 5,
+        "FreeRecruitDecorationImagePath": "",
+        "FreeRecruitPeriodFrom": "2024-01-24 11:00:00",
+        "FreeRecruitPeriodTo": "2024-01-31 10:59:59",
+        "FreeRecruitType": 1,
+        "ShopRecruitIdIsNone": false,
+        "ShopRecruitIdLength": 4
     },
     {
-        "Id": 6
+        "Id": 6,
+        "FreeRecruitDecorationImagePath": "",
+        "FreeRecruitPeriodFrom": "2024-07-29 11:00:00",
+        "FreeRecruitPeriodTo": "2024-08-07 10:59:59",
+        "FreeRecruitType": 1,
+        "ShopRecruitIdIsNone": false,
+        "ShopRecruitIdLength": 3
     },
     {
-        "Id": 7
+        "Id": 7,
+        "FreeRecruitDecorationImagePath": "",
+        "FreeRecruitPeriodFrom": "2025-01-20 11:00:00",
+        "FreeRecruitPeriodTo": "2025-01-27 10:59:59",
+        "FreeRecruitType": 1,
+        "ShopRecruitIdIsNone": false,
+        "ShopRecruitIdLength": 3
     }
 ]

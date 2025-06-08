@@ -1,74 +1,200 @@
 [
     {
         "RequireParcelType": 4,
-        "RequireParcelId": 10
+        "RequireParcelId": 10,
+        "RequireParcelAmount": 10,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 11,
+        "ResultParcelType": 4,
+        "SynthEndAmount": 985000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 990000
     },
     {
         "RequireParcelType": 4,
-        "RequireParcelId": 11
+        "RequireParcelId": 11,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 12,
+        "ResultParcelType": 4,
+        "SynthEndAmount": 985000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 990000
     },
     {
         "RequireParcelType": 4,
-        "RequireParcelId": 12
+        "RequireParcelId": 12,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 13,
+        "ResultParcelType": 4,
+        "SynthEndAmount": 985000,
+        "SynthMaxItem": true,
+        "SynthStartAmount": 990000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 1
+        "RequireParcelId": 1,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 2,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 2
+        "RequireParcelId": 2,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 3,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 3
+        "RequireParcelId": 3,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 4,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": true,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 10
+        "RequireParcelId": 10,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 11,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 11
+        "RequireParcelId": 11,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 12,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 12
+        "RequireParcelId": 12,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 13,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": true,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 20
+        "RequireParcelId": 20,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 21,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 21
+        "RequireParcelId": 21,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 22,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 22
+        "RequireParcelId": 22,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 23,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": true,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 30
+        "RequireParcelId": 30,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 31,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 31
+        "RequireParcelId": 31,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 32,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 32
+        "RequireParcelId": 32,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 33,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": true,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 40
+        "RequireParcelId": 40,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 41,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 41
+        "RequireParcelId": 41,
+        "RequireParcelAmount": 4,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 42,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": 0,
+        "SynthStartAmount": 90000
     },
     {
         "RequireParcelType": 3,
-        "RequireParcelId": 42
+        "RequireParcelId": 42,
+        "RequireParcelAmount": 5,
+        "ResultParcelAmount": 1,
+        "ResultParcelId": 43,
+        "ResultParcelType": 3,
+        "SynthEndAmount": 85000,
+        "SynthMaxItem": true,
+        "SynthStartAmount": 90000
     }
 ]

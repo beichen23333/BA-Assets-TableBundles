@@ -1,1025 +1,2389 @@
 [
     {
-        "Contents": 1
+        "Contents": 1,
+        "Id": 10001,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+        "Type": "1041105"
     },
     {
-        "Contents": 1
+        "Contents": 1,
+        "Id": 10002,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+        "Type": "1101105"
     },
     {
-        "Contents": 1
+        "Contents": 1,
+        "Id": 10003,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+        "Type": "1111104"
     },
     {
-        "Contents": 1
+        "Contents": 1,
+        "Id": 10004,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+        "Type": "1111105"
     },
     {
-        "Contents": 1
+        "Contents": 1,
+        "Id": 10005,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Lowlevel_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Lowlevel_kr",
+        "Type": "Lowlevel"
     },
     {
-        "Contents": 1
+        "Contents": 1,
+        "Id": 10006,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowEquipment_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowEquipment_kr",
+        "Type": "LowEquipment"
     },
     {
-        "Contents": 1
+        "Contents": 1,
+        "Id": 10007,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowSkill_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_LowSkill_kr",
+        "Type": "LowSkill"
     },
     {
-        "Contents": 2
+        "Contents": 2,
+        "Id": 20101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser_kr",
+        "Type": "Chaser"
     },
     {
-        "Contents": 2
+        "Contents": 2,
+        "Id": 20201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_kr",
+        "Type": "FindGift"
     },
     {
-        "Contents": 2
+        "Contents": 2,
+        "Id": 20301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_kr",
+        "Type": "Blood"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla"
     },
     {
-        "Contents": 0
+        "Contents": 0,
+        "Id": 90001,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_kr",
+        "Type": "None"
     },
     {
-        "Contents": 0
+        "Contents": 0,
+        "Id": 90002,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_kr",
+        "Type": "None"
     },
     {
-        "Contents": 0
+        "Contents": 0,
+        "Id": 90003,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_kr",
+        "Type": "None"
     },
     {
-        "Contents": 0
+        "Contents": 0,
+        "Id": 90004,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_kr",
+        "Type": "None"
     },
     {
-        "Contents": 0
+        "Contents": 0,
+        "Id": 90005,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_kr",
+        "Type": "None"
     },
     {
-        "Contents": 0
+        "Contents": 0,
+        "Id": 90006,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EffectIconColor_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EffectIconColor_kr",
+        "Type": "None"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30211,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Outdoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30212,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Outdoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30213,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Outdoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30611,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Outdoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30612,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Outdoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30111,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30311,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Indoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30312,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Indoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30313,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Indoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30411,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30412,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30413,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30414,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30511,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30512,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30513,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30514,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Street"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30711,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Indoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30712,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Indoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30811,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Outdoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30812,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Outdoor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 30903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005"
     },
     {
-        "Contents": 4
+        "Contents": 4,
+        "Id": 50001,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_01_kr",
+        "Type": "None"
     },
     {
-        "Contents": 4
+        "Contents": 4,
+        "Id": 50002,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_TimeAttackDungeon_02_kr",
+        "Type": "None"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 40101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Kr",
+        "Type": "814000"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 40201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_Kr",
+        "Type": "814100"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 40202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_Kr",
+        "Type": "814100"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 40301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EN0002_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EN0002_01_kr",
+        "Type": "823000"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 40302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EN0002_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EN0002_02_kr",
+        "Type": "823000"
     },
     {
-        "Contents": 6
+        "Contents": 6,
+        "Id": 60101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_kr",
+        "Type": "815"
     },
     {
-        "Contents": 6
+        "Contents": 6,
+        "Id": 60201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_kr",
+        "Type": "822"
     },
     {
-        "Contents": 6
+        "Contents": 6,
+        "Id": 60202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Conquest_SchoolBuff_kr",
+        "Type": "50822"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "821000"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030151,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "821001"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "821100"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "821100"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "821100"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030251,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "821101"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030252,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "821101"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030253,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "821101"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "821200"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "821200"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "821200"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030351,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "821201"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030352,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "821201"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030353,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "821201"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "821300"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "821300"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "821300"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "821300"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030451,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "821301"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030452,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "821301"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030453,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "821301"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030454,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "821301"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030651,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "821501"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030652,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "821501"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "821400"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "821400"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030751,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "821401"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 1030752,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "821401"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 10814000,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Kr",
+        "Type": "10814000"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 10814010,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_Kr",
+        "Type": "10814100"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 10814011,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_Kr",
+        "Type": "10814100"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60211001,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Kr",
+        "Type": "HoverCraft_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60211002,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Kr",
+        "Type": "HoverCraft_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60211003,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Kr",
+        "Type": "HoverCraft_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60211004,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Kr",
+        "Type": "HoverCraft_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60111101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Kr",
+        "Type": "EN0006_Street_LIghtArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60111102,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Kr",
+        "Type": "EN0006_Street_LIghtArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60111103,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Kr",
+        "Type": "EN0006_Street_LIghtArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60221001,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Kr",
+        "Type": "HoverCraft_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60221002,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Kr",
+        "Type": "HoverCraft_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60221003,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Kr",
+        "Type": "HoverCraft_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60221004,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Kr",
+        "Type": "HoverCraft_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60121101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Kr",
+        "Type": "EN0006_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60121102,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Kr",
+        "Type": "EN0006_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60121103,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Kr",
+        "Type": "EN0006_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Indoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60231001,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Kr",
+        "Type": "HoverCraft_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60231002,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Kr",
+        "Type": "HoverCraft_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60231003,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Kr",
+        "Type": "HoverCraft_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60231004,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Kr",
+        "Type": "HoverCraft_Outdoor_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60131101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Kr",
+        "Type": "EN0006_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60131102,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Kr",
+        "Type": "EN0006_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60131103,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Kr",
+        "Type": "EN0006_Street_UnArmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60241001,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Kr",
+        "Type": "HoverCraft_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60241002,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Kr",
+        "Type": "HoverCraft_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60241003,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Kr",
+        "Type": "HoverCraft_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60241004,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Kr",
+        "Type": "HoverCraft_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60141101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Kr",
+        "Type": "EN0006_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60141102,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Kr",
+        "Type": "EN0006_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60141103,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Kr",
+        "Type": "EN0006_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60110504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Street_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60310702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Indoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60210903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Outdoor_LightArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60120504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Street_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60320702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Indoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60220903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Outdoor_HeavyArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Indoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Indoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Indoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60130504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Street_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Indoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60330702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Indoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60230903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Outdoor_Unarmed"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+        "Type": "Binah_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+        "Type": "Chesed_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+        "Type": "Chesed_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+        "Type": "Chesed_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+        "Type": "ShiroKuro_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340302,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+        "Type": "ShiroKuro_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340303,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+        "Type": "ShiroKuro_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+        "Type": "Hieronymus_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+        "Type": "Hieronymus_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+        "Type": "Hieronymus_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140404,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+        "Type": "Hieronymus_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140501,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+        "Type": "Kaitenger_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140502,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+        "Type": "Kaitenger_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140503,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+        "Type": "Kaitenger_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60140504,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+        "Type": "Kaitenger_Street_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240601,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+        "Type": "Perorozilla_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240602,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+        "Type": "Perorozilla_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340701,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_01_kr",
+        "Type": "HOD_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60340702,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hod_02_kr",
+        "Type": "HOD_Indoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240801,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_01_kr",
+        "Type": "Goz_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240802,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Goz_02_kr",
+        "Type": "Goz_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240901,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_01_kr",
+        "Type": "EN0005_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240902,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_02_kr",
+        "Type": "EN0005_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 7
+        "Contents": 7,
+        "Id": 60240903,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0005_03_kr",
+        "Type": "EN0005_Outdoor_ElasticArmor"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1102201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_01_Kr",
+        "Type": "HoverCraft"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1102202,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_02_Kr",
+        "Type": "HoverCraft"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1102203,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_03_Kr",
+        "Type": "HoverCraft"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1102204,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_HoverCraft_04_Kr",
+        "Type": "HoverCraft"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1111401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_01_Kr",
+        "Type": "EN0006"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1111402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_02_Kr",
+        "Type": "EN0006"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1111403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0006_03_Kr",
+        "Type": "EN0006"
     },
     {
-        "Contents": 8
+        "Contents": 8,
+        "Id": 1120100,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_01_Kr",
+        "Type": "EN0008"
     },
     {
-        "Contents": 8
+        "Contents": 8,
+        "Id": 1120101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_02_Kr",
+        "Type": "EN0008"
     },
     {
-        "Contents": 8
+        "Contents": 8,
+        "Id": 1120102,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_03_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0008_03_Kr",
+        "Type": "EN0008"
     },
     {
-        "Contents": 8
+        "Contents": 8,
+        "Id": 1120200,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_01_Kr",
+        "Type": "EN0009"
     },
     {
-        "Contents": 8
+        "Contents": 8,
+        "Id": 1120201,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0009_02_Kr",
+        "Type": "EN0009"
     },
     {
-        "Contents": 8
+        "Contents": 8,
+        "Id": 1120300,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_01_Kr",
+        "Type": "EN0011"
     },
     {
-        "Contents": 8
+        "Contents": 8,
+        "Id": 1120301,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_02_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_MultiFloorRaid_EN0011_02_Kr",
+        "Type": "EN0011"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1122100,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0010_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0010_01_kr",
+        "Type": "EN0010"
     },
     {
-        "Contents": 3
+        "Contents": 3,
+        "Id": 1122101,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0010_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_EN0010_02_kr",
+        "Type": "EN0010"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 90081401,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_WakamoSwimsuit_01_Kr",
+        "Type": "900814000"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 90081402,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_01_Kr",
+        "Type": "900814100"
     },
     {
-        "Contents": 5
+        "Contents": 5,
+        "Id": 90081403,
+        "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_jp",
+        "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WorldRaid_HoverCraft_02_Kr",
+        "Type": "900814100"
     }
 ]

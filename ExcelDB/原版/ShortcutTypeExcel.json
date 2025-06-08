@@ -1,17 +1,32 @@
 [
     {
-        "Id": 1
+        "Id": 1,
+        "ContentTypeIsNone": false,
+        "ContentTypeLength": 8,
+        "IsAscending": 0
     },
     {
-        "Id": 2
+        "Id": 2,
+        "ContentTypeIsNone": false,
+        "ContentTypeLength": 7,
+        "IsAscending": 0
     },
     {
-        "Id": 10
+        "Id": 10,
+        "ContentTypeIsNone": false,
+        "ContentTypeLength": 9,
+        "IsAscending": 0
     },
     {
-        "Id": 20
+        "Id": 20,
+        "ContentTypeIsNone": false,
+        "ContentTypeLength": 1,
+        "IsAscending": 0
     },
     {
-        "Id": 30
+        "Id": 30,
+        "ContentTypeIsNone": false,
+        "ContentTypeLength": 1,
+        "IsAscending": 0
     }
 ]

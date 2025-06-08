@@ -1,20 +1,32 @@
 [
     {
-        "CostumeUniqueId": 2000501
+        "CostumeUniqueId": 2000501,
+        "LinkedCharacterVoicePrintType": 2,
+        "LinkedCostumeUniqueId": 3000001
     },
     {
-        "CostumeUniqueId": 2000901
+        "CostumeUniqueId": 2000901,
+        "LinkedCharacterVoicePrintType": 2,
+        "LinkedCostumeUniqueId": 3000101
     },
     {
-        "CostumeUniqueId": 2001601
+        "CostumeUniqueId": 2001601,
+        "LinkedCharacterVoicePrintType": 2,
+        "LinkedCostumeUniqueId": 3000301
     },
     {
-        "CostumeUniqueId": 2003401
+        "CostumeUniqueId": 2003401,
+        "LinkedCharacterVoicePrintType": 2,
+        "LinkedCostumeUniqueId": 3000401
     },
     {
-        "CostumeUniqueId": 2600701
+        "CostumeUniqueId": 2600701,
+        "LinkedCharacterVoicePrintType": 2,
+        "LinkedCostumeUniqueId": 3600101
     },
     {
-        "CostumeUniqueId": 1009801
+        "CostumeUniqueId": 1009801,
+        "LinkedCharacterVoicePrintType": 2,
+        "LinkedCostumeUniqueId": 1009901
     }
 ]

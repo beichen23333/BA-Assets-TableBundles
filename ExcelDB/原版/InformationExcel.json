@@ -1,689 +1,2063 @@
 [
     {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 100001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 101001
-    },
-    {
-        "GroupID": 102001
-    },
-    {
-        "GroupID": 102001
-    },
-    {
-        "GroupID": 102001
-    },
-    {
-        "GroupID": 102001
-    },
-    {
-        "GroupID": 102001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 103001
-    },
-    {
-        "GroupID": 104001
-    },
-    {
-        "GroupID": 104001
-    },
-    {
-        "GroupID": 104001
-    },
-    {
-        "GroupID": 104001
-    },
-    {
-        "GroupID": 104001
-    },
-    {
-        "GroupID": 105001
-    },
-    {
-        "GroupID": 105001
-    },
-    {
-        "GroupID": 105001
-    },
-    {
-        "GroupID": 105001
-    },
-    {
-        "GroupID": 106001
-    },
-    {
-        "GroupID": 106001
-    },
-    {
-        "GroupID": 106001
-    },
-    {
-        "GroupID": 106001
-    },
-    {
-        "GroupID": 106001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 107001
-    },
-    {
-        "GroupID": 108001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 109001
-    },
-    {
-        "GroupID": 110001
-    },
-    {
-        "GroupID": 110001
-    },
-    {
-        "GroupID": 110001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 111001
-    },
-    {
-        "GroupID": 112001
-    },
-    {
-        "GroupID": 112001
-    },
-    {
-        "GroupID": 112001
-    },
-    {
-        "GroupID": 112001
-    },
-    {
-        "GroupID": 113001
-    },
-    {
-        "GroupID": 113001
-    },
-    {
-        "GroupID": 113001
-    },
-    {
-        "GroupID": 113001
-    },
-    {
-        "GroupID": 114001
-    },
-    {
-        "GroupID": 114001
-    },
-    {
-        "GroupID": 115001
-    },
-    {
-        "GroupID": 115001
-    },
-    {
-        "GroupID": 115001
-    },
-    {
-        "GroupID": 115011
-    },
-    {
-        "GroupID": 115011
-    },
-    {
-        "GroupID": 115011
-    },
-    {
-        "GroupID": 115011
-    },
-    {
-        "GroupID": 115011
-    },
-    {
-        "GroupID": 116001
-    },
-    {
-        "GroupID": 116001
-    },
-    {
-        "GroupID": 116001
-    },
-    {
-        "GroupID": 116001
-    },
-    {
-        "GroupID": 116001
-    },
-    {
-        "GroupID": 116001
-    },
-    {
-        "GroupID": 116001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 117001
-    },
-    {
-        "GroupID": 118001
-    },
-    {
-        "GroupID": 118001
-    },
-    {
-        "GroupID": 118001
-    },
-    {
-        "GroupID": 118001
-    },
-    {
-        "GroupID": 118001
-    },
-    {
-        "GroupID": 119001
-    },
-    {
-        "GroupID": 119001
-    },
-    {
-        "GroupID": 119001
-    },
-    {
-        "GroupID": 119001
-    },
-    {
-        "GroupID": 120001
-    },
-    {
-        "GroupID": 120001
-    },
-    {
-        "GroupID": 120001
-    },
-    {
-        "GroupID": 120001
-    },
-    {
-        "GroupID": 120001
-    },
-    {
-        "GroupID": 121001
-    },
-    {
-        "GroupID": 122001
-    },
-    {
-        "GroupID": 122001
-    },
-    {
-        "GroupID": 122001
-    },
-    {
-        "GroupID": 123001
-    },
-    {
-        "GroupID": 123001
-    },
-    {
-        "GroupID": 123001
-    },
-    {
-        "GroupID": 123001
-    },
-    {
-        "GroupID": 124001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125001
-    },
-    {
-        "GroupID": 125002
-    },
-    {
-        "GroupID": 125003
-    },
-    {
-        "GroupID": 125004
-    },
-    {
-        "GroupID": 125005
-    },
-    {
-        "GroupID": 126001
-    },
-    {
-        "GroupID": 126011
-    },
-    {
-        "GroupID": 126021
-    },
-    {
-        "GroupID": 126021
-    },
-    {
-        "GroupID": 127001
-    },
-    {
-        "GroupID": 127001
-    },
-    {
-        "GroupID": 127001
-    },
-    {
-        "GroupID": 128001
-    },
-    {
-        "GroupID": 128001
-    },
-    {
-        "GroupID": 128001
-    },
-    {
-        "GroupID": 129001
-    },
-    {
-        "GroupID": 130001
-    },
-    {
-        "GroupID": 130001
-    },
-    {
-        "GroupID": 130001
-    },
-    {
-        "GroupID": 130001
-    },
-    {
-        "GroupID": 131001
-    },
-    {
-        "GroupID": 131001
-    },
-    {
-        "GroupID": 131001
-    },
-    {
-        "GroupID": 131001
-    },
-    {
-        "GroupID": 131001
-    },
-    {
-        "GroupID": 131001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 132001
-    },
-    {
-        "GroupID": 133001
-    },
-    {
-        "GroupID": 133001
-    },
-    {
-        "GroupID": 133001
-    },
-    {
-        "GroupID": 133001
-    },
-    {
-        "GroupID": 133001
-    },
-    {
-        "GroupID": 133001
-    },
-    {
-        "GroupID": 133001
-    },
-    {
-        "GroupID": 134001
-    },
-    {
-        "GroupID": 134001
-    },
-    {
-        "GroupID": 134001
-    },
-    {
-        "GroupID": 134001
-    },
-    {
-        "GroupID": 135001
-    },
-    {
-        "GroupID": 135001
-    },
-    {
-        "GroupID": 135001
-    },
-    {
-        "GroupID": 135001
-    },
-    {
-        "GroupID": 135001
-    },
-    {
-        "GroupID": 136001
-    },
-    {
-        "GroupID": 136001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 137001
-    },
-    {
-        "GroupID": 138001
-    },
-    {
-        "GroupID": 138001
-    },
-    {
-        "GroupID": 138001
-    },
-    {
-        "GroupID": 138001
-    },
-    {
-        "GroupID": 138001
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation01",
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 100001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Formation08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop07",
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "UINameIsNone": false,
+        "UINameLength": 1
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 101001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Shop05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 102001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MemorialLobby01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 102001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MemorialLobby02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 102001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MemorialLobby03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 102001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MemorialLobby04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 102001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MemorialLobby05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 103001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterDetail09",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 104001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Advantage01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 104001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Advantage02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 104001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Advantage03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 104001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Advantage04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 104001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Advantage05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 105001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StudentCollection01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 105001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StudentCollection02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 105001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StudentCollection03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 105001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StudentCollection04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 106001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Strategy01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 106001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Strategy02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 106001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Strategy03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 106001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Strategy04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 106001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Strategy05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid09",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid10",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 107001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Raid11",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 108001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_WeekDungeon01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration10",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration11",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration12",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration13",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration14",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 109001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CraftDuration15",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 110001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_AcademyMessanger01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 110001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_AcademyMessanger02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 110001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_AcademyMessanger03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_09",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 111001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Campaign_10",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 112001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Chaser04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 112001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Chaser01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 112001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Chaser02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 112001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Chaser03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 113001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Equipment01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 113001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Equipment02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 113001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Equipment03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 113001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Equipment04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 114001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Gacha01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 114001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Gacha02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115011,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115011,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115011,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115011,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 115011,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Clan08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 116001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Arena02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 116001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Arena01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 116001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Arena03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 116001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Arena04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 116001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Arena05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 116001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Arena06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 116001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Arena07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe09",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe10",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe11",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe12",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe13",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe14",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe15",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe16",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 117001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Cafe17",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 118001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Academy01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 118001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Academy02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 118001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Academy03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 118001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Academy04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 118001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Academy05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 119001,
+        "LocalizeCodeId": "UI_Description_Warning_Information_Boxgacha",
+        "PageName": "UIInformationPopup_BoxGachaShop01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 119001,
+        "LocalizeCodeId": "UI_Description_Warning_Information_Boxgacha",
+        "PageName": "UIInformationPopup_BoxGachaShop02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 119001,
+        "LocalizeCodeId": "UI_Description_Warning_Information_Boxgacha",
+        "PageName": "UIInformationPopup_BoxGachaShop03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 119001,
+        "LocalizeCodeId": "UI_Description_Warning_Information_Boxgacha",
+        "PageName": "UIInformationPopup_BoxGachaShop04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 120001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CardShop01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 120001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CardShop02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 120001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CardShop03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 120001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CardShop04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 120001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CardShop05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 121001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_SpecialOperation_Permanent",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 122001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_SchoolDungeon03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 122001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_SchoolDungeon01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 122001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_SchoolDungeon02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 123001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EventSchedule01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 123001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EventSchedule02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 123001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EventSchedule03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 123001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EventSchedule04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 124001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_FortuneGacha02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon09",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon10",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon11",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon12",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon13",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon14",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125002,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon11",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125003,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon12",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125004,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon13",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 125005,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_TimeAttackDungeon14",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 126001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Friends01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 126011,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Friends02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 126021,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Friends03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 126021,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Friends04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 127001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_WorldRaid01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 127001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_WorldRaid02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 127001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_WorldRaid03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 128001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_DiceRace01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 128001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_DiceRace02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 128001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_DiceRace03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 129001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EventPermanent01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 130001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_FurnitureTemplate01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 130001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_FurnitureTemplate02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 130001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_FurnitureTemplate03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 130001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_FurnitureTemplate04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 131001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Preset01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 131001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Preset02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 131001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Preset03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 131001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Preset04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 131001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Preset05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 131001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Preset06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid09",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid10",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid11",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid12",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 132001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_EliminateRaid13",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 133001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_QuickCraft01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 133001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_QuickCraft02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 133001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_QuickCraft03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 133001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_QuickCraft04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 133001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_QuickCraft05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 133001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_QuickCraft06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 133001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_QuickCraft07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 134001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StickerBook01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 134001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StickerBook02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 134001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StickerBook03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 134001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_StickerBook04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 135001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MiniEvent_Treasure01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 135001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MiniEvent_Treasure02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 135001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MiniEvent_Treasure03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 135001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MiniEvent_Treasure04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 135001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MiniEvent_Treasure05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 136001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterPotential01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 136001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_CharacterPotential02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid06",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid07",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 137001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_MultiFloorRaid08",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 138001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Treasure01",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 138001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Treasure02",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 138001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Treasure03",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 138001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Treasure04",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
+    },
+    {
+        "GroupID": 138001,
+        "LocalizeCodeId": "UI_Description_Warning_Sample_Image",
+        "PageName": "UIInformationPopup_Treasure05",
+        "TutorialParentNameIsNone": true,
+        "TutorialParentNameLength": 0,
+        "UINameIsNone": true,
+        "UINameLength": 0
     }
 ]

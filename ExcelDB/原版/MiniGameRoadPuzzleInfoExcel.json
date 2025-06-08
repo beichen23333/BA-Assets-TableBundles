@@ -1,5 +1,10 @@
 [
     {
-        "EventContentId": 846
+        "EventContentId": 846,
+        "CostGoodsId": 130022,
+        "EventUseCostId": 80600,
+        "EventUseCostType": 4,
+        "InstantClearRound": 7,
+        "RailSetRewardId": 100
     }
 ]

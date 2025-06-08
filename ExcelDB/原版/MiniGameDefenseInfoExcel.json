@@ -1,5 +1,9 @@
 [
     {
-        "EventContentId": 838
+        "EventContentId": 838,
+        "DefenseBattleMultiplierMax": 99,
+        "DefenseBattleParcelId": 80450,
+        "DefenseBattleParcelType": 4,
+        "DisableRootMotion": true
     }
 ]

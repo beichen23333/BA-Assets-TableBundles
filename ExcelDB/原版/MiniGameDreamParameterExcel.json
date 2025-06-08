@@ -2,41 +2,89 @@
     {
         "Id": 100,
         "EventContentId": 836,
-        "ParameterType": 1
+        "ParameterType": 1,
+        "IconPath": "Dreammaker_Parameter_Icon_01",
+        "LocalizeEtcId": 96992560,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 900,
+        "ParameterMax": 2000,
+        "ParameterMin": 20
     },
     {
         "Id": 200,
         "EventContentId": 836,
-        "ParameterType": 2
+        "ParameterType": 2,
+        "IconPath": "Dreammaker_Parameter_Icon_02",
+        "LocalizeEtcId": 3717443816,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 900,
+        "ParameterMax": 2000,
+        "ParameterMin": 20
     },
     {
         "Id": 300,
         "EventContentId": 836,
-        "ParameterType": 3
+        "ParameterType": 3,
+        "IconPath": "Dreammaker_Parameter_Icon_03",
+        "LocalizeEtcId": 1571564573,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 900,
+        "ParameterMax": 2000,
+        "ParameterMin": 20
     },
     {
         "Id": 400,
         "EventContentId": 836,
-        "ParameterType": 4
+        "ParameterType": 4,
+        "IconPath": "Dreammaker_Parameter_Icon_04",
+        "LocalizeEtcId": 1685627228,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 125,
+        "ParameterMax": 200,
+        "ParameterMin": 1
     },
     {
         "Id": 10100,
         "EventContentId": 10836,
-        "ParameterType": 1
+        "ParameterType": 1,
+        "IconPath": "Dreammaker_Parameter_Icon_01",
+        "LocalizeEtcId": 96992560,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 900,
+        "ParameterMax": 2000,
+        "ParameterMin": 20
     },
     {
         "Id": 10200,
         "EventContentId": 10836,
-        "ParameterType": 2
+        "ParameterType": 2,
+        "IconPath": "Dreammaker_Parameter_Icon_02",
+        "LocalizeEtcId": 3717443816,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 900,
+        "ParameterMax": 2000,
+        "ParameterMin": 20
     },
     {
         "Id": 10300,
         "EventContentId": 10836,
-        "ParameterType": 3
+        "ParameterType": 3,
+        "IconPath": "Dreammaker_Parameter_Icon_03",
+        "LocalizeEtcId": 1571564573,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 900,
+        "ParameterMax": 2000,
+        "ParameterMin": 20
     },
     {
         "Id": 10400,
         "EventContentId": 10836,
-        "ParameterType": 4
+        "ParameterType": 4,
+        "IconPath": "Dreammaker_Parameter_Icon_04",
+        "LocalizeEtcId": 1685627228,
+        "ParameterBase": 100,
+        "ParameterBaseMax": 125,
+        "ParameterMax": 200,
+        "ParameterMin": 1
     }
 ]

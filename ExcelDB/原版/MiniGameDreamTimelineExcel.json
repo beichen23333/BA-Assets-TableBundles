@@ -2,351 +2,771 @@
     {
         "EventContentId": 836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 10034110,
+        "GroupId": 100,
+        "Id": 100
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 101
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 102
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 103
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 104
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 10034120,
+        "GroupId": 200,
+        "Id": 200
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 201
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 202
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 203
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 204
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0301",
+        "EnterScenarioGroupId": 10034130,
+        "GroupId": 300,
+        "Id": 300
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0301",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 300,
+        "Id": 301
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0302",
+        "EnterScenarioGroupId": 10034140,
+        "GroupId": 300,
+        "Id": 302
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0302",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 300,
+        "Id": 303
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0302",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 300,
+        "Id": 304
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 10034150,
+        "GroupId": 400,
+        "Id": 400
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 401
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 402
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 403
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 404
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 10034160,
+        "GroupId": 500,
+        "Id": 500
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 501
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 502
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 503
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 504
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 10034170,
+        "GroupId": 600,
+        "Id": 600
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 600,
+        "Id": 601
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 600,
+        "Id": 602
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 10034180,
+        "GroupId": 600,
+        "Id": 603
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 600,
+        "Id": 604
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 10034190,
+        "GroupId": 700,
+        "Id": 700
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 701
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 702
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 703
     },
     {
         "EventContentId": 836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 704
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 10034110,
+        "GroupId": 100,
+        "Id": 10000
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 10001
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 10002
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 10003
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 1,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0101",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 100,
+        "Id": 10004
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 10034120,
+        "GroupId": 200,
+        "Id": 20000
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 20001
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 20002
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 20003
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 2,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0201",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 200,
+        "Id": 20004
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0301",
+        "EnterScenarioGroupId": 10034130,
+        "GroupId": 300,
+        "Id": 30000
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0301",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 300,
+        "Id": 30001
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0302",
+        "EnterScenarioGroupId": 10034140,
+        "GroupId": 300,
+        "Id": 30002
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0302",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 300,
+        "Id": 30003
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 3,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0302",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 300,
+        "Id": 30004
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 10034150,
+        "GroupId": 400,
+        "Id": 40000
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 40001
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 40002
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 40003
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 4,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0401",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 400,
+        "Id": 40004
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 10034160,
+        "GroupId": 500,
+        "Id": 50000
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 50001
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 50002
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 50003
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 5,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0501",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 500,
+        "Id": 50004
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 10034170,
+        "GroupId": 600,
+        "Id": 60000
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 600,
+        "Id": 60001
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 600,
+        "Id": 60002
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 10034180,
+        "GroupId": 600,
+        "Id": 60003
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 6,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0601",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 600,
+        "Id": 60004
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 0
+        "DreamMakerActionPoint": 0,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 10034190,
+        "GroupId": 700,
+        "Id": 70000
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 1
+        "DreamMakerActionPoint": 1,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 70001
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 2
+        "DreamMakerActionPoint": 2,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 70002
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 3
+        "DreamMakerActionPoint": 3,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 70003
     },
     {
         "EventContentId": 10836,
         "DreamMakerDays": 7,
-        "DreamMakerActionPoint": 4
+        "DreamMakerActionPoint": 4,
+        "ArtLevelPath": "DreamMaker_836_Scene",
+        "Bgm": 214,
+        "DesignLevelPath": "DreamMaker_836_0701",
+        "EnterScenarioGroupId": 0,
+        "GroupId": 700,
+        "Id": 70004
     }
 ]

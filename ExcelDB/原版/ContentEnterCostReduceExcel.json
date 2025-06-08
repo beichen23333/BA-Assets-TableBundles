@@ -1,74 +1,194 @@
 [
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60101
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60102
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60103
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60104
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60201
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60202
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60203
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60204
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60301
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60302
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60303
     },
     {
-        "EnterCostReduceGroupId": 100
+        "EnterCostReduceGroupId": 100,
+        "ContentType": 8,
+        "ReduceAmount": 10,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60304
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60101
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60102
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60103
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60104
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60201
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60202
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60203
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60204
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60301
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60302
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60303
     },
     {
-        "EnterCostReduceGroupId": 101
+        "EnterCostReduceGroupId": 101,
+        "ContentType": 8,
+        "ReduceAmount": 5,
+        "ReduceEnterCostId": 5,
+        "ReduceEnterCostType": 2,
+        "StageId": 60304
     }
 ]

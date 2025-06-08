@@ -1,14 +1,30 @@
 [
     {
-        "Id": 1000
+        "Id": 1000,
+        "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Boxcat_Terror",
+        "InformationGroupID": 125002,
+        "LocalizeEtcKey": 1223379449,
+        "TimeAttackDungeonType": 2
     },
     {
-        "Id": 2000
+        "Id": 2000,
+        "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Sweeper_Decagram_Taser_White",
+        "InformationGroupID": 125003,
+        "LocalizeEtcKey": 546386169,
+        "TimeAttackDungeonType": 1
     },
     {
-        "Id": 3000
+        "Id": 3000,
+        "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Totem03_TimeAttack",
+        "InformationGroupID": 125004,
+        "LocalizeEtcKey": 1467902802,
+        "TimeAttackDungeonType": 3
     },
     {
-        "Id": 4000
+        "Id": 4000,
+        "IconPath": "UIs/01_Common/21_EnemyInfo/EnemyInfo_Avantgardekun_Millenium_AR",
+        "InformationGroupID": 125005,
+        "LocalizeEtcKey": 1161026647,
+        "TimeAttackDungeonType": 4
     }
 ]

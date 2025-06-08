@@ -1,34 +1,82 @@
 [
     {
         "EventContentId": 836,
-        "DreamMakerScheduleGroupId": 100
+        "DreamMakerScheduleGroupId": 100,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 1,
+        "IconPath": "Dreammaker_Schedule_Icon_01",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_01_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_01_B",
+        "LocalizeEtcId": 1866545121
     },
     {
         "EventContentId": 836,
-        "DreamMakerScheduleGroupId": 200
+        "DreamMakerScheduleGroupId": 200,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 2,
+        "IconPath": "Dreammaker_Schedule_Icon_02",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_02_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_02_B",
+        "LocalizeEtcId": 205218868
     },
     {
         "EventContentId": 836,
-        "DreamMakerScheduleGroupId": 300
+        "DreamMakerScheduleGroupId": 300,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 3,
+        "IconPath": "Dreammaker_Schedule_Icon_03",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_03_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_03_B",
+        "LocalizeEtcId": 334263546
     },
     {
         "EventContentId": 836,
-        "DreamMakerScheduleGroupId": 400
+        "DreamMakerScheduleGroupId": 400,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 4,
+        "IconPath": "Dreammaker_Schedule_Icon_04",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_04_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_04_B",
+        "LocalizeEtcId": 1820452736
     },
     {
         "EventContentId": 10836,
-        "DreamMakerScheduleGroupId": 10100
+        "DreamMakerScheduleGroupId": 10100,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 1,
+        "IconPath": "Dreammaker_Schedule_Icon_01",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_01_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_01_B",
+        "LocalizeEtcId": 1866545121
     },
     {
         "EventContentId": 10836,
-        "DreamMakerScheduleGroupId": 10200
+        "DreamMakerScheduleGroupId": 10200,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 2,
+        "IconPath": "Dreammaker_Schedule_Icon_02",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_02_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_02_B",
+        "LocalizeEtcId": 205218868
     },
     {
         "EventContentId": 10836,
-        "DreamMakerScheduleGroupId": 10300
+        "DreamMakerScheduleGroupId": 10300,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 3,
+        "IconPath": "Dreammaker_Schedule_Icon_03",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_03_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_03_B",
+        "LocalizeEtcId": 334263546
     },
     {
         "EventContentId": 10836,
-        "DreamMakerScheduleGroupId": 10400
+        "DreamMakerScheduleGroupId": 10400,
+        "AnimationName": "UiAnim_Dreammaker_Progress",
+        "DisplayOrder": 4,
+        "IconPath": "Dreammaker_Schedule_Icon_04",
+        "LoadingResource01": "Event_Photo_LoadingImage_836_04_A",
+        "LoadingResource02": "Event_Photo_LoadingImage_836_04_B",
+        "LocalizeEtcId": 1820452736
     }
 ]

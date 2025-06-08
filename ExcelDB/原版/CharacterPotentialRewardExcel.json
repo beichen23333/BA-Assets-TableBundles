@@ -1,674 +1,2242 @@
 [
     {
-        "Id": 10000
-    },
-    {
-        "Id": 10001
-    },
-    {
-        "Id": 10002
-    },
-    {
-        "Id": 10003
-    },
-    {
-        "Id": 10004
-    },
-    {
-        "Id": 10005
-    },
-    {
-        "Id": 10006
-    },
-    {
-        "Id": 10007
-    },
-    {
-        "Id": 10008
-    },
-    {
-        "Id": 10009
-    },
-    {
-        "Id": 10010
-    },
-    {
-        "Id": 10011
-    },
-    {
-        "Id": 10012
-    },
-    {
-        "Id": 10013
-    },
-    {
-        "Id": 10014
-    },
-    {
-        "Id": 10015
-    },
-    {
-        "Id": 10016
-    },
-    {
-        "Id": 10017
-    },
-    {
-        "Id": 10018
-    },
-    {
-        "Id": 10019
-    },
-    {
-        "Id": 10020
-    },
-    {
-        "Id": 10021
-    },
-    {
-        "Id": 10022
-    },
-    {
-        "Id": 10023
-    },
-    {
-        "Id": 10024
-    },
-    {
-        "Id": 10025
-    },
-    {
-        "Id": 10026
-    },
-    {
-        "Id": 10027
-    },
-    {
-        "Id": 10028
-    },
-    {
-        "Id": 10029
-    },
-    {
-        "Id": 10030
-    },
-    {
-        "Id": 10031
-    },
-    {
-        "Id": 10032
-    },
-    {
-        "Id": 10033
-    },
-    {
-        "Id": 10034
-    },
-    {
-        "Id": 10035
-    },
-    {
-        "Id": 10036
-    },
-    {
-        "Id": 10037
-    },
-    {
-        "Id": 10038
-    },
-    {
-        "Id": 10039
-    },
-    {
-        "Id": 10040
-    },
-    {
-        "Id": 10041
-    },
-    {
-        "Id": 10042
-    },
-    {
-        "Id": 10043
-    },
-    {
-        "Id": 10044
-    },
-    {
-        "Id": 10045
-    },
-    {
-        "Id": 10046
-    },
-    {
-        "Id": 10047
-    },
-    {
-        "Id": 10048
-    },
-    {
-        "Id": 10049
-    },
-    {
-        "Id": 10050
-    },
-    {
-        "Id": 10051
-    },
-    {
-        "Id": 10052
-    },
-    {
-        "Id": 10053
-    },
-    {
-        "Id": 10054
-    },
-    {
-        "Id": 10055
-    },
-    {
-        "Id": 10056
-    },
-    {
-        "Id": 10057
-    },
-    {
-        "Id": 10058
-    },
-    {
-        "Id": 10059
-    },
-    {
-        "Id": 10060
-    },
-    {
-        "Id": 10061
-    },
-    {
-        "Id": 10062
-    },
-    {
-        "Id": 10063
-    },
-    {
-        "Id": 10064
-    },
-    {
-        "Id": 10065
-    },
-    {
-        "Id": 10066
-    },
-    {
-        "Id": 10067
-    },
-    {
-        "Id": 10068
-    },
-    {
-        "Id": 10069
-    },
-    {
-        "Id": 10070
-    },
-    {
-        "Id": 10071
-    },
-    {
-        "Id": 10072
-    },
-    {
-        "Id": 10073
-    },
-    {
-        "Id": 10074
-    },
-    {
-        "Id": 10075
-    },
-    {
-        "Id": 10076
-    },
-    {
-        "Id": 10077
-    },
-    {
-        "Id": 10078
-    },
-    {
-        "Id": 10079
-    },
-    {
-        "Id": 10080
-    },
-    {
-        "Id": 10081
-    },
-    {
-        "Id": 10082
-    },
-    {
-        "Id": 10083
-    },
-    {
-        "Id": 10084
-    },
-    {
-        "Id": 10085
-    },
-    {
-        "Id": 10086
-    },
-    {
-        "Id": 10087
-    },
-    {
-        "Id": 10088
-    },
-    {
-        "Id": 10089
-    },
-    {
-        "Id": 10090
-    },
-    {
-        "Id": 10091
-    },
-    {
-        "Id": 10092
-    },
-    {
-        "Id": 10093
-    },
-    {
-        "Id": 10094
-    },
-    {
-        "Id": 10095
-    },
-    {
-        "Id": 10096
-    },
-    {
-        "Id": 10097
-    },
-    {
-        "Id": 10098
-    },
-    {
-        "Id": 10099
-    },
-    {
-        "Id": 10100
-    },
-    {
-        "Id": 10101
-    },
-    {
-        "Id": 10102
-    },
-    {
-        "Id": 10103
-    },
-    {
-        "Id": 10104
-    },
-    {
-        "Id": 10105
-    },
-    {
-        "Id": 10106
-    },
-    {
-        "Id": 10107
-    },
-    {
-        "Id": 10108
-    },
-    {
-        "Id": 10109
-    },
-    {
-        "Id": 10110
-    },
-    {
-        "Id": 10111
-    },
-    {
-        "Id": 10112
-    },
-    {
-        "Id": 10113
-    },
-    {
-        "Id": 10114
-    },
-    {
-        "Id": 10115
-    },
-    {
-        "Id": 10116
-    },
-    {
-        "Id": 10117
-    },
-    {
-        "Id": 10118
-    },
-    {
-        "Id": 10119
-    },
-    {
-        "Id": 10120
-    },
-    {
-        "Id": 13000
-    },
-    {
-        "Id": 13001
-    },
-    {
-        "Id": 13002
-    },
-    {
-        "Id": 13003
-    },
-    {
-        "Id": 13004
-    },
-    {
-        "Id": 13005
-    },
-    {
-        "Id": 13006
-    },
-    {
-        "Id": 13007
-    },
-    {
-        "Id": 13008
-    },
-    {
-        "Id": 13009
-    },
-    {
-        "Id": 13010
-    },
-    {
-        "Id": 13011
-    },
-    {
-        "Id": 13012
-    },
-    {
-        "Id": 13013
-    },
-    {
-        "Id": 16000
-    },
-    {
-        "Id": 16001
-    },
-    {
-        "Id": 16002
-    },
-    {
-        "Id": 16003
-    },
-    {
-        "Id": 16004
-    },
-    {
-        "Id": 16005
-    },
-    {
-        "Id": 16006
-    },
-    {
-        "Id": 16007
-    },
-    {
-        "Id": 16008
-    },
-    {
-        "Id": 16009
-    },
-    {
-        "Id": 16010
-    },
-    {
-        "Id": 16011
-    },
-    {
-        "Id": 16012
-    },
-    {
-        "Id": 16013
-    },
-    {
-        "Id": 16014
-    },
-    {
-        "Id": 16015
-    },
-    {
-        "Id": 16016
-    },
-    {
-        "Id": 16017
-    },
-    {
-        "Id": 20000
-    },
-    {
-        "Id": 20001
-    },
-    {
-        "Id": 20002
-    },
-    {
-        "Id": 20003
-    },
-    {
-        "Id": 20004
-    },
-    {
-        "Id": 20005
-    },
-    {
-        "Id": 20006
-    },
-    {
-        "Id": 20007
-    },
-    {
-        "Id": 20008
-    },
-    {
-        "Id": 20009
-    },
-    {
-        "Id": 20010
-    },
-    {
-        "Id": 20011
-    },
-    {
-        "Id": 20012
-    },
-    {
-        "Id": 20013
-    },
-    {
-        "Id": 20014
-    },
-    {
-        "Id": 20015
-    },
-    {
-        "Id": 20016
-    },
-    {
-        "Id": 20017
-    },
-    {
-        "Id": 20018
-    },
-    {
-        "Id": 20019
-    },
-    {
-        "Id": 20020
-    },
-    {
-        "Id": 20021
-    },
-    {
-        "Id": 20022
-    },
-    {
-        "Id": 20023
-    },
-    {
-        "Id": 20024
-    },
-    {
-        "Id": 20025
-    },
-    {
-        "Id": 20026
-    },
-    {
-        "Id": 20027
-    },
-    {
-        "Id": 20028
-    },
-    {
-        "Id": 20029
-    },
-    {
-        "Id": 20030
-    },
-    {
-        "Id": 20031
-    },
-    {
-        "Id": 20032
-    },
-    {
-        "Id": 20033
-    },
-    {
-        "Id": 20034
-    },
-    {
-        "Id": 20035
-    },
-    {
-        "Id": 20036
-    },
-    {
-        "Id": 20037
-    },
-    {
-        "Id": 20038
-    },
-    {
-        "Id": 20039
-    },
-    {
-        "Id": 20040
-    },
-    {
-        "Id": 20041
-    },
-    {
-        "Id": 20042
-    },
-    {
-        "Id": 20043
-    },
-    {
-        "Id": 20044
-    },
-    {
-        "Id": 20045
-    },
-    {
-        "Id": 20046
-    },
-    {
-        "Id": 23000
-    },
-    {
-        "Id": 23001
-    },
-    {
-        "Id": 23002
-    },
-    {
-        "Id": 23003
-    },
-    {
-        "Id": 23004
-    },
-    {
-        "Id": 23005
-    },
-    {
-        "Id": 23006
-    },
-    {
-        "Id": 23007
-    },
-    {
-        "Id": 23008
-    },
-    {
-        "Id": 26000
-    },
-    {
-        "Id": 26001
-    },
-    {
-        "Id": 26002
-    },
-    {
-        "Id": 26003
-    },
-    {
-        "Id": 26004
-    },
-    {
-        "Id": 26005
-    },
-    {
-        "Id": 26006
-    },
-    {
-        "Id": 26007
-    },
-    {
-        "Id": 26008
-    },
-    {
-        "Id": 26009
-    },
-    {
-        "Id": 26010
-    },
-    {
-        "Id": 26011
-    },
-    {
-        "Id": 26012
-    },
-    {
-        "Id": 26013
-    },
-    {
-        "Id": 26014
+        "Id": 10000,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100001,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10001,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100011,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10002,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100021,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10003,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100031,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10004,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100041,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10005,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100051,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10006,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100061,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10007,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100071,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10008,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100081,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10009,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100091,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10010,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100101,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10011,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100111,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10012,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100121,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10013,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100131,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10014,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100141,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10015,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100151,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10016,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100161,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10017,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100171,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10018,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100181,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10019,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100191,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10020,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100201,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10021,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100211,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10022,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100221,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10023,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100231,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10024,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100241,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10025,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100251,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10026,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100261,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10027,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100271,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10028,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100281,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10029,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100291,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10030,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100301,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10031,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100311,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10032,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100321,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10033,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100331,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10034,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100341,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10035,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100351,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10036,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100361,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10037,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100371,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10038,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100381,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10039,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100391,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10040,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100401,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10041,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100411,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10042,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100421,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10043,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100431,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10044,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100441,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10045,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100451,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10046,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100461,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10047,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100471,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10048,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100481,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10049,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100491,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10050,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100501,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10051,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100511,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10052,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100521,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10053,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100531,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10054,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100541,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10055,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100551,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10056,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100561,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10057,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100571,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10058,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100581,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10059,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100591,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10060,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100601,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10061,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100611,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10062,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100621,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10063,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100631,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10064,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100641,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10065,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100651,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10066,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100661,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10067,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100671,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10068,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100681,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10069,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100691,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10070,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100701,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10071,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100711,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10072,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100721,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10073,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100731,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10074,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100741,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10075,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100751,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10076,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100761,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10077,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100771,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10078,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100781,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10079,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100791,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10080,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100801,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10081,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100811,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10082,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100821,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10083,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100831,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10084,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100841,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10085,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100851,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10086,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100861,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10087,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100871,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10088,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100881,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10089,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100891,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10090,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100901,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10091,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100911,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10092,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100921,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10093,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100931,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10094,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100941,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10095,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100951,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10096,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100961,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10097,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100971,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10098,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100981,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10099,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8100981,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10100,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101001,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10101,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101011,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10102,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101021,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10103,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101031,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10104,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101041,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10105,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101051,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10106,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101061,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10107,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101071,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10108,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101081,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10109,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101091,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10110,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101101,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10111,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101111,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10112,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101121,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10113,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101131,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10114,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101141,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10115,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101151,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10116,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101161,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10117,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101171,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10118,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101181,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10119,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101191,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 10120,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8101201,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13000,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130001,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13001,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130011,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13002,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130021,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13003,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130031,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13004,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130041,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13005,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130051,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13006,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130061,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13007,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130071,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13008,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130081,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13009,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130091,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13010,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130101,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13011,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130111,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13012,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130121,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 13013,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8130131,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16000,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160001,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16001,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160011,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16002,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160021,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16003,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160031,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16004,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160041,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16005,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160051,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16006,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160061,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16007,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160071,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16008,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160081,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16009,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160091,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16010,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160101,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16011,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160111,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16012,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160121,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16013,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160131,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16014,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160141,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16015,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160151,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16016,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160161,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 16017,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8160171,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20000,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200001,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20001,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200011,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20002,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200021,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20003,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200031,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20004,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200041,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20005,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200051,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20006,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200061,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20007,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200071,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20008,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200081,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20009,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200091,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20010,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200101,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20011,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200111,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20012,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200121,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20013,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200131,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20014,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200141,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20015,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200151,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20016,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200161,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20017,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200171,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20018,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200181,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20019,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200191,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20020,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200201,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20021,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200211,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20022,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200221,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20023,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200231,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20024,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200241,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20025,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200251,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20026,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200261,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20027,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200271,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20028,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200281,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20029,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200291,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20030,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200301,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20031,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200311,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20032,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200321,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20033,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200331,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20034,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200341,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20035,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200351,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20036,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200361,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20037,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200371,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20038,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200381,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20039,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200391,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20040,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200401,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20041,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200411,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20042,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200421,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20043,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200431,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20044,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200441,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20045,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200451,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 20046,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8200461,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23000,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230001,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23001,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230011,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23002,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230021,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23003,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230031,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23004,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230041,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23005,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230051,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23006,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230061,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23007,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230071,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 23008,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8230081,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26000,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260001,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26001,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260011,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26002,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260021,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26003,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260031,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26004,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260041,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26005,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260051,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26006,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260061,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26007,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260071,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26008,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260081,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26009,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260091,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26010,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260101,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26011,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260111,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26012,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260121,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26013,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260131,
+        "RewardParcelType": 20
+    },
+    {
+        "Id": 26014,
+        "RequirePotentialStatLevelIsNone": false,
+        "RequirePotentialStatLevelLength": 3,
+        "RequirePotentialStatTypeIsNone": false,
+        "RequirePotentialStatTypeLength": 3,
+        "RewardAmount": 1,
+        "RewardId": 8260141,
+        "RewardParcelType": 20
     }
 ]

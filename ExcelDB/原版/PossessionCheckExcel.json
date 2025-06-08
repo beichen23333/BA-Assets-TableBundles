@@ -1,5 +1,11 @@
 [
     {
-        "UniqueId": 1083601
+        "UniqueId": 1083601,
+        "DefaultParcelAmount": 1,
+        "DefaultParcelId": 210340,
+        "DefaultParcelType": 13,
+        "ReplaceParcelAmount": 1,
+        "ReplaceParcelId": 9999,
+        "ReplaceParcelType": 4
     }
 ]

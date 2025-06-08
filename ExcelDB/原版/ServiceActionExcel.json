@@ -1,8 +1,12 @@
 [
     {
-        "ServiceActionType": 0
+        "ServiceActionType": 0,
+        "GoodsId": 100000,
+        "IsLegacy": 0
     },
     {
-        "ServiceActionType": 1
+        "ServiceActionType": 1,
+        "GoodsId": 10,
+        "IsLegacy": 0
     }
 ]

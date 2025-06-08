@@ -1,89 +1,292 @@
 [
     {
-        "EmojiEvent": 3
+        "EmojiEvent": 3,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 21,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 0
     },
     {
-        "EmojiEvent": 4
+        "EmojiEvent": 4,
+        "EmojiDuration": 0,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 22,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 1
     },
     {
-        "EmojiEvent": 9
+        "EmojiEvent": 9,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 20,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 2
     },
     {
-        "EmojiEvent": 10
+        "EmojiEvent": 10,
+        "EmojiDuration": 0,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 2,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 2000,
+        "UniqueId": 3
     },
     {
-        "EmojiEvent": 11
+        "EmojiEvent": 11,
+        "EmojiDuration": 0,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 3,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 2000,
+        "UniqueId": 4
     },
     {
-        "EmojiEvent": 12
+        "EmojiEvent": 12,
+        "EmojiDuration": 0,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 4,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 2000,
+        "UniqueId": 5
     },
     {
-        "EmojiEvent": 13
+        "EmojiEvent": 13,
+        "EmojiDuration": 0,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 5,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 2000,
+        "UniqueId": 6
     },
     {
-        "EmojiEvent": 14
+        "EmojiEvent": 14,
+        "EmojiDuration": 0,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 6,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 2000,
+        "UniqueId": 7
     },
     {
-        "EmojiEvent": 15
+        "EmojiEvent": 15,
+        "EmojiDuration": 0,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 1,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 2000,
+        "UniqueId": 8
     },
     {
-        "EmojiEvent": 16
+        "EmojiEvent": 16,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 9
     },
     {
-        "EmojiEvent": 17
+        "EmojiEvent": 17,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 10
     },
     {
-        "EmojiEvent": 18
+        "EmojiEvent": 18,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 11
     },
     {
-        "EmojiEvent": 19
+        "EmojiEvent": 19,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 12
     },
     {
-        "EmojiEvent": 20
+        "EmojiEvent": 20,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 13
     },
     {
-        "EmojiEvent": 21
+        "EmojiEvent": 21,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 14
     },
     {
-        "EmojiEvent": 22
+        "EmojiEvent": 22,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 15
     },
     {
-        "EmojiEvent": 23
+        "EmojiEvent": 23,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 16
     },
     {
-        "EmojiEvent": 24
+        "EmojiEvent": 24,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 17
     },
     {
-        "EmojiEvent": 25
+        "EmojiEvent": 25,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 18
     },
     {
-        "EmojiEvent": 26
+        "EmojiEvent": 26,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 19
     },
     {
-        "EmojiEvent": 27
+        "EmojiEvent": 27,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 20
     },
     {
-        "EmojiEvent": 28
+        "EmojiEvent": 28,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 21
     },
     {
-        "EmojiEvent": 29
+        "EmojiEvent": 29,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 22
     },
     {
-        "EmojiEvent": 30
+        "EmojiEvent": 30,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 23
     },
     {
-        "EmojiEvent": 31
+        "EmojiEvent": 31,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 24
     },
     {
-        "EmojiEvent": 32
+        "EmojiEvent": 32,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 25
     },
     {
-        "EmojiEvent": 33
+        "EmojiEvent": 33,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 26
     },
     {
-        "EmojiEvent": 34
+        "EmojiEvent": 34,
+        "EmojiDuration": true,
+        "EmojiReversal": 0,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": true,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 27
     },
     {
-        "EmojiEvent": 35
+        "EmojiEvent": 35,
+        "EmojiDuration": true,
+        "EmojiReversal": true,
+        "EmojiTurnOn": true,
+        "OrderOfPriority": 23,
+        "ShowDefaultBG": 0,
+        "ShowEmojiDelay": 0,
+        "UniqueId": 28
     }
 ]

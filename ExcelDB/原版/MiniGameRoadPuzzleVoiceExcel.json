@@ -2,31 +2,37 @@
     {
         "EventContentId": 846,
         "UniqueId": 846001,
-        "VoiceCondition": 1
+        "VoiceCondition": 1,
+        "VoiceClip": 1251792460
     },
     {
         "EventContentId": 846,
         "UniqueId": 846002,
-        "VoiceCondition": 1
+        "VoiceCondition": 1,
+        "VoiceClip": 3185150712
     },
     {
         "EventContentId": 846,
         "UniqueId": 846003,
-        "VoiceCondition": 1
+        "VoiceCondition": 1,
+        "VoiceClip": 1693609925
     },
     {
         "EventContentId": 846,
         "UniqueId": 846101,
-        "VoiceCondition": 2
+        "VoiceCondition": 2,
+        "VoiceClip": 1646409156
     },
     {
         "EventContentId": 846,
         "UniqueId": 846102,
-        "VoiceCondition": 2
+        "VoiceCondition": 2,
+        "VoiceClip": 3055143824
     },
     {
         "EventContentId": 846,
         "UniqueId": 846103,
-        "VoiceCondition": 2
+        "VoiceCondition": 2,
+        "VoiceClip": 2930536975
     }
 ]

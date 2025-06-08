@@ -1,272 +1,812 @@
 [
     {
-        "Id": 1
-    },
-    {
-        "Id": 2
-    },
-    {
-        "Id": 3
-    },
-    {
-        "Id": 4
-    },
-    {
-        "Id": 5
-    },
-    {
-        "Id": 6
-    },
-    {
-        "Id": 7
-    },
-    {
-        "Id": 8
-    },
-    {
-        "Id": 9
-    },
-    {
-        "Id": 10
-    },
-    {
-        "Id": 11
-    },
-    {
-        "Id": 12
-    },
-    {
-        "Id": 13
-    },
-    {
-        "Id": 14
-    },
-    {
-        "Id": 15
-    },
-    {
-        "Id": 16
-    },
-    {
-        "Id": 17
-    },
-    {
-        "Id": 18
-    },
-    {
-        "Id": 19
-    },
-    {
-        "Id": 20
-    },
-    {
-        "Id": 21
-    },
-    {
-        "Id": 22
-    },
-    {
-        "Id": 23
-    },
-    {
-        "Id": 24
-    },
-    {
-        "Id": 25
-    },
-    {
-        "Id": 26
-    },
-    {
-        "Id": 27
-    },
-    {
-        "Id": 28
-    },
-    {
-        "Id": 29
-    },
-    {
-        "Id": 30
-    },
-    {
-        "Id": 31
-    },
-    {
-        "Id": 32
-    },
-    {
-        "Id": 33
-    },
-    {
-        "Id": 34
-    },
-    {
-        "Id": 35
-    },
-    {
-        "Id": 36
-    },
-    {
-        "Id": 37
-    },
-    {
-        "Id": 38
-    },
-    {
-        "Id": 39
-    },
-    {
-        "Id": 40
-    },
-    {
-        "Id": 41
-    },
-    {
-        "Id": 42
-    },
-    {
-        "Id": 43
-    },
-    {
-        "Id": 44
-    },
-    {
-        "Id": 45
-    },
-    {
-        "Id": 46
-    },
-    {
-        "Id": 47
-    },
-    {
-        "Id": 48
-    },
-    {
-        "Id": 49
-    },
-    {
-        "Id": 50
-    },
-    {
-        "Id": 51
-    },
-    {
-        "Id": 52
-    },
-    {
-        "Id": 53
-    },
-    {
-        "Id": 54
-    },
-    {
-        "Id": 55
-    },
-    {
-        "Id": 56
-    },
-    {
-        "Id": 57
-    },
-    {
-        "Id": 58
-    },
-    {
-        "Id": 59
-    },
-    {
-        "Id": 60
-    },
-    {
-        "Id": 61
-    },
-    {
-        "Id": 62
-    },
-    {
-        "Id": 63
-    },
-    {
-        "Id": 64
-    },
-    {
-        "Id": 65
-    },
-    {
-        "Id": 66
-    },
-    {
-        "Id": 67
-    },
-    {
-        "Id": 68
-    },
-    {
-        "Id": 69
-    },
-    {
-        "Id": 70
-    },
-    {
-        "Id": 71
-    },
-    {
-        "Id": 72
-    },
-    {
-        "Id": 73
-    },
-    {
-        "Id": 74
-    },
-    {
-        "Id": 75
-    },
-    {
-        "Id": 76
-    },
-    {
-        "Id": 77
-    },
-    {
-        "Id": 78
-    },
-    {
-        "Id": 79
-    },
-    {
-        "Id": 80
-    },
-    {
-        "Id": 81
-    },
-    {
-        "Id": 82
-    },
-    {
-        "Id": 83
-    },
-    {
-        "Id": 84
-    },
-    {
-        "Id": 85
-    },
-    {
-        "Id": 86
-    },
-    {
-        "Id": 87
-    },
-    {
-        "Id": 88
-    },
-    {
-        "Id": 89
-    },
-    {
-        "Id": 90
+        "Id": 1,
+        "APAutoChargeMax": 24,
+        "CloseInterval": 20,
+        "Exp": 8,
+        "Level": 1,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 2,
+        "APAutoChargeMax": 28,
+        "CloseInterval": 20,
+        "Exp": 10,
+        "Level": 2,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 3,
+        "APAutoChargeMax": 32,
+        "CloseInterval": 20,
+        "Exp": 15,
+        "Level": 3,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 4,
+        "APAutoChargeMax": 36,
+        "CloseInterval": 20,
+        "Exp": 21,
+        "Level": 4,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 5,
+        "APAutoChargeMax": 40,
+        "CloseInterval": 20,
+        "Exp": 28,
+        "Level": 5,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 6,
+        "APAutoChargeMax": 44,
+        "CloseInterval": 20,
+        "Exp": 36,
+        "Level": 6,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 7,
+        "APAutoChargeMax": 48,
+        "CloseInterval": 20,
+        "Exp": 45,
+        "Level": 7,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 8,
+        "APAutoChargeMax": 52,
+        "CloseInterval": 20,
+        "Exp": 55,
+        "Level": 8,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 9,
+        "APAutoChargeMax": 56,
+        "CloseInterval": 20,
+        "Exp": 66,
+        "Level": 9,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 10,
+        "APAutoChargeMax": 60,
+        "CloseInterval": 20,
+        "Exp": 79,
+        "Level": 10,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 11,
+        "APAutoChargeMax": 64,
+        "CloseInterval": 20,
+        "Exp": 93,
+        "Level": 11,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 12,
+        "APAutoChargeMax": 68,
+        "CloseInterval": 20,
+        "Exp": 108,
+        "Level": 12,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 13,
+        "APAutoChargeMax": 72,
+        "CloseInterval": 20,
+        "Exp": 124,
+        "Level": 13,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 14,
+        "APAutoChargeMax": 76,
+        "CloseInterval": 20,
+        "Exp": 141,
+        "Level": 14,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 15,
+        "APAutoChargeMax": 80,
+        "CloseInterval": 20,
+        "Exp": 159,
+        "Level": 15,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 16,
+        "APAutoChargeMax": 84,
+        "CloseInterval": 20,
+        "Exp": 178,
+        "Level": 16,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 17,
+        "APAutoChargeMax": 88,
+        "CloseInterval": 20,
+        "Exp": 198,
+        "Level": 17,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 18,
+        "APAutoChargeMax": 92,
+        "CloseInterval": 20,
+        "Exp": 219,
+        "Level": 18,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 19,
+        "APAutoChargeMax": 96,
+        "CloseInterval": 20,
+        "Exp": 241,
+        "Level": 19,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 20,
+        "APAutoChargeMax": 100,
+        "CloseInterval": 20,
+        "Exp": 265,
+        "Level": 20,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 20000
+    },
+    {
+        "Id": 21,
+        "APAutoChargeMax": 102,
+        "CloseInterval": 40,
+        "Exp": 288,
+        "Level": 21,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 22,
+        "APAutoChargeMax": 104,
+        "CloseInterval": 40,
+        "Exp": 312,
+        "Level": 22,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 23,
+        "APAutoChargeMax": 106,
+        "CloseInterval": 40,
+        "Exp": 337,
+        "Level": 23,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 24,
+        "APAutoChargeMax": 108,
+        "CloseInterval": 40,
+        "Exp": 363,
+        "Level": 24,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 25,
+        "APAutoChargeMax": 110,
+        "CloseInterval": 40,
+        "Exp": 390,
+        "Level": 25,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 26,
+        "APAutoChargeMax": 112,
+        "CloseInterval": 40,
+        "Exp": 418,
+        "Level": 26,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 27,
+        "APAutoChargeMax": 114,
+        "CloseInterval": 40,
+        "Exp": 447,
+        "Level": 27,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 28,
+        "APAutoChargeMax": 116,
+        "CloseInterval": 40,
+        "Exp": 477,
+        "Level": 28,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 29,
+        "APAutoChargeMax": 118,
+        "CloseInterval": 40,
+        "Exp": 508,
+        "Level": 29,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 30,
+        "APAutoChargeMax": 120,
+        "CloseInterval": 40,
+        "Exp": 581,
+        "Level": 30,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 31,
+        "APAutoChargeMax": 122,
+        "CloseInterval": 40,
+        "Exp": 656,
+        "Level": 31,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 32,
+        "APAutoChargeMax": 124,
+        "CloseInterval": 40,
+        "Exp": 734,
+        "Level": 32,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 33,
+        "APAutoChargeMax": 126,
+        "CloseInterval": 40,
+        "Exp": 814,
+        "Level": 33,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 34,
+        "APAutoChargeMax": 128,
+        "CloseInterval": 40,
+        "Exp": 897,
+        "Level": 34,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 35,
+        "APAutoChargeMax": 130,
+        "CloseInterval": 40,
+        "Exp": 982,
+        "Level": 35,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 36,
+        "APAutoChargeMax": 132,
+        "CloseInterval": 40,
+        "Exp": 1069,
+        "Level": 36,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 37,
+        "APAutoChargeMax": 134,
+        "CloseInterval": 40,
+        "Exp": 1159,
+        "Level": 37,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 38,
+        "APAutoChargeMax": 136,
+        "CloseInterval": 40,
+        "Exp": 1251,
+        "Level": 38,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 39,
+        "APAutoChargeMax": 138,
+        "CloseInterval": 40,
+        "Exp": 1346,
+        "Level": 39,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 40,
+        "APAutoChargeMax": 140,
+        "CloseInterval": 40,
+        "Exp": 1443,
+        "Level": 40,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 15000
+    },
+    {
+        "Id": 41,
+        "APAutoChargeMax": 142,
+        "CloseInterval": 50,
+        "Exp": 1543,
+        "Level": 41,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 42,
+        "APAutoChargeMax": 144,
+        "CloseInterval": 50,
+        "Exp": 1645,
+        "Level": 42,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 43,
+        "APAutoChargeMax": 146,
+        "CloseInterval": 50,
+        "Exp": 1750,
+        "Level": 43,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 44,
+        "APAutoChargeMax": 148,
+        "CloseInterval": 50,
+        "Exp": 1857,
+        "Level": 44,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 45,
+        "APAutoChargeMax": 150,
+        "CloseInterval": 50,
+        "Exp": 1966,
+        "Level": 45,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 46,
+        "APAutoChargeMax": 152,
+        "CloseInterval": 50,
+        "Exp": 2078,
+        "Level": 46,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 47,
+        "APAutoChargeMax": 154,
+        "CloseInterval": 50,
+        "Exp": 2192,
+        "Level": 47,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 48,
+        "APAutoChargeMax": 156,
+        "CloseInterval": 50,
+        "Exp": 2309,
+        "Level": 48,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 49,
+        "APAutoChargeMax": 158,
+        "CloseInterval": 50,
+        "Exp": 2428,
+        "Level": 49,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 50,
+        "APAutoChargeMax": 160,
+        "CloseInterval": 50,
+        "Exp": 2550,
+        "Level": 50,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 12500
+    },
+    {
+        "Id": 51,
+        "APAutoChargeMax": 162,
+        "CloseInterval": 0,
+        "Exp": 2674,
+        "Level": 51,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 52,
+        "APAutoChargeMax": 164,
+        "CloseInterval": 0,
+        "Exp": 2800,
+        "Level": 52,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 53,
+        "APAutoChargeMax": 166,
+        "CloseInterval": 0,
+        "Exp": 2929,
+        "Level": 53,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 54,
+        "APAutoChargeMax": 168,
+        "CloseInterval": 0,
+        "Exp": 3060,
+        "Level": 54,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 55,
+        "APAutoChargeMax": 170,
+        "CloseInterval": 0,
+        "Exp": 3194,
+        "Level": 55,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 56,
+        "APAutoChargeMax": 172,
+        "CloseInterval": 0,
+        "Exp": 3330,
+        "Level": 56,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 57,
+        "APAutoChargeMax": 174,
+        "CloseInterval": 0,
+        "Exp": 3469,
+        "Level": 57,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 58,
+        "APAutoChargeMax": 176,
+        "CloseInterval": 0,
+        "Exp": 3610,
+        "Level": 58,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 59,
+        "APAutoChargeMax": 178,
+        "CloseInterval": 0,
+        "Exp": 3754,
+        "Level": 59,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 60,
+        "APAutoChargeMax": 180,
+        "CloseInterval": 0,
+        "Exp": 3900,
+        "Level": 60,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 61,
+        "APAutoChargeMax": 182,
+        "CloseInterval": 0,
+        "Exp": 4048,
+        "Level": 61,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 62,
+        "APAutoChargeMax": 184,
+        "CloseInterval": 0,
+        "Exp": 4199,
+        "Level": 62,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 63,
+        "APAutoChargeMax": 186,
+        "CloseInterval": 0,
+        "Exp": 4352,
+        "Level": 63,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 64,
+        "APAutoChargeMax": 188,
+        "CloseInterval": 0,
+        "Exp": 4508,
+        "Level": 64,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 65,
+        "APAutoChargeMax": 190,
+        "CloseInterval": 0,
+        "Exp": 4666,
+        "Level": 65,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 66,
+        "APAutoChargeMax": 192,
+        "CloseInterval": 0,
+        "Exp": 4831,
+        "Level": 66,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 67,
+        "APAutoChargeMax": 194,
+        "CloseInterval": 0,
+        "Exp": 5007,
+        "Level": 67,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 68,
+        "APAutoChargeMax": 196,
+        "CloseInterval": 0,
+        "Exp": 5186,
+        "Level": 68,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 69,
+        "APAutoChargeMax": 198,
+        "CloseInterval": 0,
+        "Exp": 5369,
+        "Level": 69,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 70,
+        "APAutoChargeMax": 200,
+        "CloseInterval": 0,
+        "Exp": 5556,
+        "Level": 70,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 71,
+        "APAutoChargeMax": 202,
+        "CloseInterval": 0,
+        "Exp": 5747,
+        "Level": 71,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 72,
+        "APAutoChargeMax": 204,
+        "CloseInterval": 0,
+        "Exp": 5942,
+        "Level": 72,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 73,
+        "APAutoChargeMax": 206,
+        "CloseInterval": 0,
+        "Exp": 6141,
+        "Level": 73,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 74,
+        "APAutoChargeMax": 208,
+        "CloseInterval": 0,
+        "Exp": 6344,
+        "Level": 74,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 75,
+        "APAutoChargeMax": 210,
+        "CloseInterval": 0,
+        "Exp": 6552,
+        "Level": 75,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 76,
+        "APAutoChargeMax": 212,
+        "CloseInterval": 0,
+        "Exp": 6768,
+        "Level": 76,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 77,
+        "APAutoChargeMax": 214,
+        "CloseInterval": 0,
+        "Exp": 6989,
+        "Level": 77,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 78,
+        "APAutoChargeMax": 216,
+        "CloseInterval": 0,
+        "Exp": 7216,
+        "Level": 78,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 79,
+        "APAutoChargeMax": 218,
+        "CloseInterval": 0,
+        "Exp": 7449,
+        "Level": 79,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 80,
+        "APAutoChargeMax": 220,
+        "CloseInterval": 0,
+        "Exp": 7682,
+        "Level": 80,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 81,
+        "APAutoChargeMax": 222,
+        "CloseInterval": 0,
+        "Exp": 7915,
+        "Level": 81,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 82,
+        "APAutoChargeMax": 224,
+        "CloseInterval": 0,
+        "Exp": 8148,
+        "Level": 82,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 83,
+        "APAutoChargeMax": 226,
+        "CloseInterval": 0,
+        "Exp": 8381,
+        "Level": 83,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 84,
+        "APAutoChargeMax": 228,
+        "CloseInterval": 0,
+        "Exp": 8883,
+        "Level": 84,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 85,
+        "APAutoChargeMax": 230,
+        "CloseInterval": 0,
+        "Exp": 9460,
+        "Level": 85,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 86,
+        "APAutoChargeMax": 232,
+        "CloseInterval": 0,
+        "Exp": 10614,
+        "Level": 86,
+        "NeedReportEvent": 0,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 87,
+        "APAutoChargeMax": 234,
+        "CloseInterval": 0,
+        "Exp": 12922,
+        "Level": 87,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 88,
+        "APAutoChargeMax": 236,
+        "CloseInterval": 0,
+        "Exp": 17538,
+        "Level": 88,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 89,
+        "APAutoChargeMax": 238,
+        "CloseInterval": 0,
+        "Exp": 26770,
+        "Level": 89,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
+    },
+    {
+        "Id": 90,
+        "APAutoChargeMax": 240,
+        "CloseInterval": 0,
+        "Exp": 1,
+        "Level": 90,
+        "NeedReportEvent": true,
+        "NewbieExpRatio": 0
     }
 ]

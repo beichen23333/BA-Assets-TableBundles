@@ -1,101 +1,365 @@
 [
     {
-        "ID": 1
+        "ID": 1,
+        "CompletionReportEventName": "tutorial_first",
+        "CompulsoryTutorial": true,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 4,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 4
     },
     {
-        "ID": 2
+        "ID": 2,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": true,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 3
+        "ID": 3,
+        "CompletionReportEventName": "Tutorial_gacha",
+        "CompulsoryTutorial": true,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 5,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 5
     },
     {
-        "ID": 4
+        "ID": 4,
+        "CompletionReportEventName": "tutorial_complete",
+        "CompulsoryTutorial": true,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 13,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 13
     },
     {
-        "ID": 5
+        "ID": 5,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 6
+        "ID": 6,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 7
+        "ID": 7,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 8
+        "ID": 8,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": true,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 9
+        "ID": 9,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 10
+        "ID": 10,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 11
+        "ID": 11,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 12
+        "ID": 12,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 13
+        "ID": 13,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 14
+        "ID": 14,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 15
+        "ID": 15,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 16
+        "ID": 16,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 17
+        "ID": 17,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 18
+        "ID": 18,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 19
+        "ID": 19,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 20
+        "ID": 20,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 21
+        "ID": 21,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 22
+        "ID": 22,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 23
+        "ID": 23,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 24
+        "ID": 24,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 25
+        "ID": 25,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 26
+        "ID": 26,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 3,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 3
     },
     {
-        "ID": 27
+        "ID": 27,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 0,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 1011301
+        "ID": 1011301,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 1011301,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 1011302
+        "ID": 1011302,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 4,
+        "TutorialStageId": 1011302,
+        "UINameIsNone": false,
+        "UINameLength": 4
     },
     {
-        "ID": 1011303
+        "ID": 1011303,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 4,
+        "TutorialStageId": 1011303,
+        "UINameIsNone": false,
+        "UINameLength": 4
     },
     {
-        "ID": 1021304
+        "ID": 1021304,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 1021304,
+        "UINameIsNone": false,
+        "UINameLength": 2
     },
     {
-        "ID": 1031305
+        "ID": 1031305,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 1,
+        "TutorialStageId": 1031305,
+        "UINameIsNone": false,
+        "UINameLength": 1
     },
     {
-        "ID": 1031306
+        "ID": 1031306,
+        "CompletionReportEventName": "",
+        "CompulsoryTutorial": 0,
+        "DescriptionTutorial": 0,
+        "TutorialParentNameIsNone": false,
+        "TutorialParentNameLength": 2,
+        "TutorialStageId": 1031306,
+        "UINameIsNone": false,
+        "UINameLength": 2
     }
 ]

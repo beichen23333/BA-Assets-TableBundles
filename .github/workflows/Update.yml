@@ -38,6 +38,10 @@ jobs:
         run: |
           python process.py
 
+      - name: Copy zip files from BA-Assets-TableBundles to BA-Text
+        run: |
+          cp -r ./*.zip BA-Text/
+
       - name: Commit and push changes to BA-Text
         run: |
           cd BA-Text

@@ -84,4 +84,7 @@ for zip_folder in temp_path.iterdir():
                 file1_path = file
                 file2_path = repo2_path / zip_folder.name / file.name
                 output_path = repo2_path / zip_folder.name / file.name
-                compare_and_process(file1_path, file2_path, output_path)
+                if file2_path.exists():
+                    compare_and_process(file1_path, file2_path, output_path)
+                else:
+                    print(f"File {file2_path} not found, skipping.")

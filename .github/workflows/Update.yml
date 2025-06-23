@@ -26,7 +26,7 @@ jobs:
           python-version: '3.x'
       - name: Clone BA-Text
         run: |
-          git clone https://x-access-token:${{ secrets.APK_SRC_REPO }}@github.com/beichen23333/BA-Text.git BA-Text
+          git clone https://x-access-token:${{ secrets.APK_SRC_REPO }}@github.com/beichen23333/BA-Text.git
 
       - name: Run script
         run: |

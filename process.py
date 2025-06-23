@@ -31,7 +31,7 @@ def extract_files(repo_path, temp_path, zip_files):
         zip_file_path = repo_path / zip_file
         if zip_file_path.exists():
             with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-                zip_temp_path = temp_path / zip_file.stem
+                zip_temp_path = temp_path / Path(zip_file).stem  # 确保使用 Path 对象
                 zip_temp_path.mkdir(exist_ok=True)
                 for file in files_to_extract:
                     if file in zip_ref.namelist():

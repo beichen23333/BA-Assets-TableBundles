@@ -62,10 +62,17 @@ def compare_and_process(file1_path, file2_path, output_path):
             file2_data = json.load(file2)
         
         # 获取文件1中所有的键
-        file1_keys = {tuple(item.items()) for item in file1_data}
+        file1_keys = set()
+        for item in file1_data:
+            item_tuple = tuple((k, v) for k, v in item.items() if not isinstance(v, list))
+            file1_keys.add(item_tuple)
         
         # 过滤掉文件2中与文件1中相同的键
-        filtered_file2_data = [item for item in file2_data if tuple(item.items()) not in file1_keys]
+        filtered_file2_data = []
+        for item in file2_data:
+            item_tuple = tuple((k, v) for k, v in item.items() if not isinstance(v, list))
+            if item_tuple not in file1_keys:
+                filtered_file2_data.append(item)
         
         # 将过滤后的数据写回文件2
         with open(output_path, 'w', encoding='utf-8') as file2:

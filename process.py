@@ -26,13 +26,13 @@ temp_path = Path("temp")
 temp_path.mkdir(exist_ok=True)
 
 # 提取文件
-def extract_files(repo_path, temp_path, zip_files):
+def extract_files(repo_path, temp_path, zip_files, repo_name):
     for zip_file in zip_files:
         zip_file_path = repo_path / zip_file
         if zip_file_path.exists():
             with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-                zip_temp_path = temp_path / Path(zip_file).stem  # 确保使用 Path 对象
-                zip_temp_path.mkdir(exist_ok=True)
+                zip_temp_path = temp_path / repo_name / Path(zip_file).stem  # 确保使用 Path 对象
+                zip_temp_path.mkdir(parents=True, exist_ok=True)
                 for file in files_to_extract:
                     if file in zip_ref.namelist():
                         zip_ref.extract(file, zip_temp_path)
@@ -45,13 +45,13 @@ def extract_files(repo_path, temp_path, zip_files):
 repo1_zip_files = [file.name for file in repo1_path.glob("*.zip")]
 
 # 提取仓库1的文件
-extract_files(repo1_path, temp_path, repo1_zip_files)
+extract_files(repo1_path, temp_path, repo1_zip_files, "repo1")
 
 # 获取仓库2中的zip文件列表
 repo2_zip_files = [file.name for file in repo2_path.glob("*.zip")]
 
 # 提取仓库2的文件
-extract_files(repo2_path, temp_path, repo2_zip_files)
+extract_files(repo2_path, temp_path, repo2_zip_files, "repo2")
 
 # 比较文件并处理
 def compare_and_process(file1_path, file2_path, output_path):
@@ -86,12 +86,14 @@ def compare_and_process(file1_path, file2_path, output_path):
 # 遍历临时文件夹中的文件并处理
 for zip_folder in temp_path.iterdir():
     if zip_folder.is_dir():
-        for file in zip_folder.iterdir():
-            if file.name in files_to_extract:
-                file1_path = file
-                file2_path = temp_path / zip_folder.name / file.name
-                output_path = repo2_path / zip_folder.name / file.name
-                if file2_path.exists():
-                    compare_and_process(file1_path, file2_path, output_path)
-                else:
-                    print(f"File {file2_path} not found, skipping.")
+        for zip_subfolder in zip_folder.iterdir():
+            if zip_subfolder.is_dir():
+                for file in zip_subfolder.iterdir():
+                    if file.name in files_to_extract:
+                        file1_path = temp_path / "repo1" / zip_subfolder.name / file.name
+                        file2_path = temp_path / "repo2" / zip_subfolder.name / file.name
+                        output_path = repo2_path / zip_subfolder.name / file.name
+                        if file1_path.exists() and file2_path.exists():
+                            compare_and_process(file1_path, file2_path, output_path)
+                        else:
+                            print(f"File {file1_path} or {file2_path} not found, skipping.")

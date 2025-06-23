@@ -82,7 +82,7 @@ for zip_folder in temp_path.iterdir():
         for file in zip_folder.iterdir():
             if file.name in files_to_extract:
                 file1_path = file
-                file2_path = repo2_path / zip_folder.name / file.name
+                file2_path = temp_path / zip_folder.name / file.name
                 output_path = repo2_path / zip_folder.name / file.name
                 if file2_path.exists():
                     compare_and_process(file1_path, file2_path, output_path)

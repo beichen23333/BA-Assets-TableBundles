@@ -27,9 +27,9 @@ jobs:
 
       - name: Clone BA-Text
         env:
-          TARGET_REPO_URL: https://github.com/beichen23333/BA-Text.git
+          APK_SRC_REPO: ${{ secrets.APK_SRC_REPO }}
         run: |
-          git clone "$TARGET_REPO_URL" BA-Text
+          git clone "https://x-access-token:${APK_SRC_REPO}@github.com/beichen23333/BA-Text.git" BA-Text
 
       - name: Run script
         run: |
@@ -41,7 +41,7 @@ jobs:
 
       - name: Commit and push changes to BA-Text
         env:
-          GITHUB_TOKEN: ${{ secrets.APK_SRC_REPO }}
+          APK_SRC_REPO: ${{ secrets.APK_SRC_REPO }}
         run: |
           cd BA-Text
           git config --global user.email "actions@github.com"
@@ -51,5 +51,5 @@ jobs:
             echo "No changes detected. Skipping commit."
           else
             git commit -m "Update"
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/beichen23333/BA-Text.git
+            git push "https://x-access-token:${APK_SRC_REPO}@github.com/beichen23333/BA-Text.git"
           fi

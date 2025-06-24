@@ -18,21 +18,22 @@ with open(load_file, 'r', encoding='utf-8') as f:
 
 # 提取文件并清理
 def extract_and_clean_files(repo_path, temp_path, zip_files):
-    for zip_file in zip_files:
-        zip_file_path = repo_path / zip_file
+    for server_type, file_config in load_data.items():
+        zip_file_name = f"{server_type}原版DB.zip"
+        zip_file_path = repo_path / zip_file_name
         if zip_file_path.exists():
             with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-                # 根据zip文件名确定服务器类型
-                server_type = Path(zip_file).stem.split("原版DB")[0]
                 zip_temp_path = temp_path / server_type
                 zip_temp_path.mkdir(parents=True, exist_ok=True)
-                for file in zip_ref.namelist():
-                    if file.endswith(".json"):
-                        zip_ref.extract(file, zip_temp_path)
+                for file_name, keep_keys in file_config.items():
+                    if file_name in zip_ref.namelist():
+                        zip_ref.extract(file_name, zip_temp_path)
                         # 清理JSON文件
-                        clean_json_file(zip_temp_path / file, load_data[server_type].get(file, []))
+                        clean_json_file(zip_temp_path / file_name, keep_keys)
+                    else:
+                        print(f"File {file_name} not found in {zip_file_name}, skipping.")
         else:
-            print(f"Zip file {zip_file} not found in {repo_path}, skipping.")
+            print(f"Zip file {zip_file_name} not found in {repo_path}, skipping.")
 
 # 清理JSON文件
 def clean_json_file(file_path, keep_keys):
@@ -65,17 +66,11 @@ def clean_json(data, keep_keys):
     else:
         return data
 
-# 获取仓库1中的zip文件列表
-repo1_zip_files = [file.name for file in repo1_path.glob("*.zip")]
-
 # 提取仓库1的文件
-extract_and_clean_files(repo1_path, temp_path, repo1_zip_files)
-
-# 获取仓库2中的zip文件列表
-repo2_zip_files = [file.name for file in repo2_path.glob("*.zip")]
+extract_and_clean_files(repo1_path, temp_path, repo1_path.glob("*.zip"))
 
 # 提取仓库2的文件
-extract_and_clean_files(repo2_path, temp_path, repo2_zip_files)
+extract_and_clean_files(repo2_path, temp_path, repo2_path.glob("*.zip"))
 
 # 比较文件并处理
 def compare_and_process(file1_path, file2_path, output_path):
@@ -114,9 +109,9 @@ for server_type in load_data.keys():
         if zip_folder.is_dir():
             for file in zip_folder.iterdir():
                 if file.name.endswith(".json"):
-                    file1_path = temp_path / server_type / zip_folder.name / file.name
-                    file2_path = temp_path / server_type / zip_folder.name / file.name
-                    output_path = repo2_path / server_type / zip_folder.name / file.name
+                    file1_path = temp_path / server_type / file.name
+                    file2_path = temp_path / server_type / file.name
+                    output_path = repo2_path / server_type / file.name
                     if file1_path.exists() and file2_path.exists():
                         compare_and_process(file1_path, file2_path, output_path)
                     else:

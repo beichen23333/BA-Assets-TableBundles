@@ -30,7 +30,7 @@ def extract_and_clean_files(repo_path, temp_path, zip_files):
                     if file.endswith(".json"):
                         zip_ref.extract(file, zip_temp_path)
                         # 清理JSON文件
-                        clean_json_file(zip_temp_path / file, load_data[server_type])
+                        clean_json_file(zip_temp_path / file, load_data[server_type].get(file, []))
         else:
             print(f"Zip file {zip_file} not found in {repo_path}, skipping.")
 

@@ -21,7 +21,7 @@ jobs:
 
     steps:
       - name: Checkout Repository (BA-Assets-TableBundles)
-        uses: actions/checkout@v
+        uses: actions/checkout@v4
         with:
           submodules: false
 

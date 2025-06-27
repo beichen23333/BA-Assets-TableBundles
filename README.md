@@ -3,6 +3,7 @@
 
 ## 游戏文本所在文件（DB）
 CharacterDialogEmojiExcel.json
+AcademyMessangerExcel.json
 CharacterDialogEventExcel.json
 CharacterDialogExcel.json
 LocalizeErrorExcel.json
@@ -18,8 +19,6 @@ CharacterVoiceSubtitleExcel.json
 CharacterDialogSubtitleExcel.json
 
 ## 游戏文本所在文件（Excel）
-AcademyMessanger1ExcelTable.json
-AcademyMessanger2ExcelTable.json
 CharacterDialogFieldExcelTable.json
 LocalizeCharProfileExcelTable.json
 LocalizeGachaShopExcelTable.json

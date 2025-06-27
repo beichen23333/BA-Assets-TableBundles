@@ -11,6 +11,7 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch:
 permissions:
   contents: write
 
@@ -20,8 +21,8 @@ jobs:
 
     steps:
       - name: Checkout Repository (BA-Assets-TableBundles)
-        uses: actions/checkout@v4
-        with:
+        uses: actions/checkout@v
+4        with:
           submodules: false
 
       - name: Set up Python 3.x
@@ -38,10 +39,6 @@ jobs:
       - name: Run script
         run: |
           python process.py
-
-      - name: Copy zip files from BA-Assets-TableBundles to BA-Text
-        run: |
-          cp -r ./*.zip BA-Text/
 
       - name: Commit and push changes to BA-Text
         env:

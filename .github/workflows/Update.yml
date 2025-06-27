@@ -22,7 +22,7 @@ jobs:
     steps:
       - name: Checkout Repository (BA-Assets-TableBundles)
         uses: actions/checkout@v
-4        with:
+        with:
           submodules: false
 
       - name: Set up Python 3.x

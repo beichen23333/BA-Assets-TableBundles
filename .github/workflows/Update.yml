@@ -2,6 +2,10 @@ name: Update Text
 
 on:
   push:
+    paths:
+      - '日服原版DB.zip'
+      - '国服原版DB.zip'
+      - '国际服原版DB.zip'
     branches:
       - main
   pull_request:

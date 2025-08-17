@@ -1,7 +1,7 @@
 # Blue Archive TableBundles
 本仓库用于储存BA的TableBundles/ExcelDB.db与Excel.zip反序列化文件
 
-## 游戏文本所在文件（DB）
+## 游戏文本所在文件（日服）
 CharacterDialogEmojiExcel.json
 AcademyMessangerExcel.json
 CharacterDialogEventExcel.json
@@ -13,12 +13,11 @@ LocalizeSkillExcel.json
 ScenarioCharacterNameExcel.json
 ScenarioScriptExcel.json
 TutorialCharacterDialogExcel.json
+CharacterDialogFieldExcelTable.json
+LocalizeCharProfileExcelTable.json
+LocalizeGachaShopExcel.json
+
 
 以下为日服和国际服特供（角色语音档案）
 CharacterVoiceSubtitleExcel.json
 CharacterDialogSubtitleExcel.json
-
-## 游戏文本所在文件（Excel）
-CharacterDialogFieldExcelTable.json
-LocalizeCharProfileExcelTable.json
-LocalizeGachaShopExcelTable.json
